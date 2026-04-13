@@ -140,7 +140,114 @@
   .dd-leg-item{display:flex;align-items:center;gap:5px;font-size:11px;color:var(--muted);}
   .dd-leg-dot{width:8px;height:8px;border-radius:50%;}
   .dd-total-badge{display:inline-flex;align-items:center;gap:6px;padding:4px 12px;border-radius:100px;font-size:11px;font-weight:500;background:rgba(232,56,74,0.1);color:#f87171;border:1px solid rgba(232,56,74,0.2);}
+
+  /* ── PDF / Print styles ─────────────────────────────────────── */
+  .btn-pdf{display:inline-flex;align-items:center;gap:8px;padding:7px 16px;border-radius:100px;font-size:12px;font-weight:500;letter-spacing:.03em;background:rgba(244,63,94,0.12);color:#f87171;border:1px solid rgba(244,63,94,0.3);text-decoration:none;transition:background .2s,border-color .2s;cursor:pointer;}
+  .btn-pdf:hover{background:rgba(244,63,94,0.22);border-color:rgba(244,63,94,0.5);}
+  .btn-pdf svg{width:14px;height:14px;flex-shrink:0;}
+  .btn-email{display:inline-flex;align-items:center;gap:8px;padding:7px 16px;border-radius:100px;font-size:12px;font-weight:500;letter-spacing:.03em;background:rgba(245,158,11,0.12);color:#fbbf24;border:1px solid rgba(245,158,11,0.3);text-decoration:none;transition:background .2s,border-color .2s;cursor:pointer;}
+  .btn-email:hover{background:rgba(245,158,11,0.22);border-color:rgba(245,158,11,0.5);}
+  .btn-email svg{width:14px;height:14px;flex-shrink:0;}
+
+  /* Email modal */
+  .modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:1000;align-items:center;justify-content:center;}
+  .modal-overlay.open{display:flex;}
+  .modal-box{background:#181c27;border:1px solid rgba(255,255,255,0.13);border-radius:16px;padding:2rem;width:90%;max-width:680px;max-height:85vh;overflow-y:auto;position:relative;}
+  .modal-title{font-size:15px;font-weight:600;color:#e8eaf0;margin-bottom:4px;}
+  .modal-sub{font-size:12px;color:#8b90a4;margin-bottom:1.25rem;}
+  .modal-close{position:absolute;top:1rem;right:1rem;background:none;border:none;color:#8b90a4;cursor:pointer;font-size:18px;line-height:1;}
+  .modal-close:hover{color:#e8eaf0;}
+  .email-preview{background:#0f1117;border:1px solid rgba(255,255,255,0.07);border-radius:10px;padding:1.25rem;font-size:13px;color:#e8eaf0;white-space:pre-wrap;font-family:"DM Mono",monospace;line-height:1.7;margin-bottom:1rem;max-height:340px;overflow-y:auto;}
+  .modal-actions{display:flex;gap:10px;flex-wrap:wrap;}
+  .btn-copy{display:inline-flex;align-items:center;gap:7px;padding:8px 18px;border-radius:100px;font-size:12px;font-weight:500;background:rgba(79,156,249,0.15);color:#7dd3fc;border:1px solid rgba(79,156,249,0.3);cursor:pointer;transition:background .2s;}
+  .btn-copy:hover{background:rgba(79,156,249,0.28);}
+  .btn-copy.copied{background:rgba(34,197,94,0.15);color:#4ade80;border-color:rgba(34,197,94,0.3);}
+
+  @media print {
+    #loading, .header::before, .header::after { display: none !important; }
+    body { background: #fff !important; color: #111 !important; font-family: Arial, sans-serif !important; }
+    .header { background: #1a0305 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; padding: 1rem 2rem !important; }
+    .container { padding: 1rem 2rem !important; max-width: 100% !important; }
+    .btn-download, .btn-download-raw, .btn-pdf, .btn-email, .modal-overlay { display: none !important; }
+    .metric-card { background: #f5f5f5 !important; border: 1px solid #ddd !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid; }
+    .metric-val { color: #111 !important; }
+    .metric-val.keep { color: #c0121f !important; }
+    .metric-val.closed { color: #166534 !important; }
+    .metric-val.ratio { color: #92400e !important; }
+    .metric-label, .metric-sub { color: #555 !important; }
+    .chart-card, .sc-card { background: #f9f9f9 !important; border: 1px solid #ddd !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid; }
+    .chart-title { color: #111 !important; }
+    .chart-title span { color: #555 !important; }
+    .section-title { color: #555 !important; border-color: #ddd !important; }
+    .sc-card.classA { background: #f0eeff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-card.classB { background: #e8f3ff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-card.classC { background: #e8faf6 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-badge, .sc-total, .sc-sub, .sc-split-label, .sc-bar-label { color: #333 !important; }
+    .sc-split-item { background: rgba(0,0,0,0.05) !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-split-val { color: #111 !important; }
+    .keep-val { color: #c0121f !important; }
+    .closed-val { color: #166534 !important; }
+    .region-table th, .region-table td { color: #111 !important; border-color: #ddd !important; }
+    .pill-A { background: #ede9fe !important; color: #5b21b6 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .pill-B { background: #dbeafe !important; color: #1e40af !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .pill-C { background: #d1fae5 !important; color: #065f46 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .cat-btn, .drilldown-panel, .interactive-section .section-title span { display: none !important; }
+    .interactive-section { display: none !important; }
+    .footer { color: #555 !important; border-color: #ddd !important; }
+    .charts-row { grid-template-columns: 1fr 1fr !important; }
+    .chart-wrap canvas { max-height: 220px !important; }
+    h1 { color: #fff !important; }
+    h1 span { color: #f87171 !important; }
+    .meta-item { color: #ccc !important; }
+    .meta-item strong { color: #fff !important; }
+    .badge-keep { background: rgba(244,63,94,0.2) !important; color: #f87171 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .badge-closed { background: rgba(34,197,94,0.2) !important; color: #4ade80 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    @page { margin: 0.5in; size: A4 landscape; }
+  }
   @media(max-width:900px){.drilldown-grid{grid-template-columns:1fr;}}
+
+  /* ── PDF / Print styles ─────────────────────────────────────── */
+  @media print {
+    #loading, .header::before, .header::after { display: none !important; }
+    body { background: #fff !important; color: #111 !important; font-family: Arial, sans-serif !important; }
+    .header { background: #1a0305 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; padding: 1rem 2rem !important; }
+    .container { padding: 1rem 2rem !important; max-width: 100% !important; }
+    .btn-download, .btn-download-raw, .btn-pdf, .btn-email, .modal-overlay { display: none !important; }
+    .metric-card { background: #f5f5f5 !important; border: 1px solid #ddd !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid; }
+    .metric-val { color: #111 !important; }
+    .metric-val.keep { color: #c0121f !important; }
+    .metric-val.closed { color: #166534 !important; }
+    .metric-val.ratio { color: #92400e !important; }
+    .metric-label, .metric-sub { color: #555 !important; }
+    .chart-card, .sc-card { background: #f9f9f9 !important; border: 1px solid #ddd !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; break-inside: avoid; }
+    .chart-title { color: #111 !important; }
+    .chart-title span { color: #555 !important; }
+    .section-title { color: #555 !important; border-color: #ddd !important; }
+    .sc-card.classA { background: #f0eeff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-card.classB { background: #e8f3ff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-card.classC { background: #e8faf6 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-badge, .sc-total, .sc-sub, .sc-split-label, .sc-bar-label { color: #333 !important; }
+    .sc-split-item { background: rgba(0,0,0,0.05) !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .sc-split-val { color: #111 !important; }
+    .keep-val { color: #c0121f !important; }
+    .closed-val { color: #166534 !important; }
+    .region-table th, .region-table td { color: #111 !important; border-color: #ddd !important; }
+    .pill-A { background: #ede9fe !important; color: #5b21b6 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .pill-B { background: #dbeafe !important; color: #1e40af !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .pill-C { background: #d1fae5 !important; color: #065f46 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .cat-btn, .drilldown-panel, .interactive-section .section-title span { display: none !important; }
+    .interactive-section { display: none !important; }
+    .footer { color: #555 !important; border-color: #ddd !important; }
+    .charts-row { grid-template-columns: 1fr 1fr !important; }
+    .chart-wrap canvas { max-height: 220px !important; }
+    h1 { color: #fff !important; }
+    h1 span { color: #f87171 !important; }
+    .meta-item { color: #ccc !important; }
+    .meta-item strong { color: #fff !important; }
+    .badge-keep { background: rgba(244,63,94,0.2) !important; color: #f87171 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .badge-closed { background: rgba(34,197,94,0.2) !important; color: #4ade80 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    @page { margin: 0.5in; size: A4 landscape; }
+  }
   @media(max-width:900px){
     .metrics-grid{grid-template-columns:repeat(2,1fr);}
     .charts-row{grid-template-columns:1fr;}
@@ -188,6 +295,14 @@
           <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:14px;height:14px;flex-shrink:0;"><path d="M8 2v8m0 0L5.5 7.5M8 10l2.5-2.5M3 13h10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
           Raw Data
         </a>
+        <button class="btn-pdf" onclick="window.print()">
+          <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:14px;height:14px;flex-shrink:0;"><rect x="3" y="5" width="10" height="8" rx="1" stroke="currentColor" stroke-width="1.5"/><path d="M5 5V3h6v2M5 10h6M5 12h4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+          Save as PDF
+        </button>
+        <button class="btn-email" onclick="openEmailModal()">
+          <svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:14px;height:14px;flex-shrink:0;"><rect x="2" y="4" width="12" height="9" rx="1.5" stroke="currentColor" stroke-width="1.5"/><path d="M2 5l6 4.5L14 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+          Email Summary
+        </button>
       </div>
     </div>
   </div>
@@ -313,13 +428,29 @@
 </div>
 
 <div class="footer">
-  <div><span>CARLOS.BANTOG@du.ae</span> &mdash; Cumulative Snags Report &mdash; Please contact me directly for any issues</div>
+  <div><span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c18280938d8e92ef83808f958e8681a5b4efa0a4">[email&#160;protected]</a></span> &mdash; Cumulative Snags Report &mdash; Please contact me directly for any issues</div>
   <div>Confidential &mdash; Management Use Only</div>
+</div>
+
+<!-- Email Summary Modal -->
+<div class="modal-overlay" id="emailModal">
+  <div class="modal-box">
+    <button class="modal-close" onclick="closeEmailModal()">&#x2715;</button>
+    <div class="modal-title">Email Summary</div>
+    <div class="modal-sub">Copy and paste this into your email — tables and figures included.</div>
+    <div class="email-preview" id="emailPreview">Generating...</div>
+    <div class="modal-actions">
+      <button class="btn-copy" id="copyBtn" onclick="copyEmailText()">
+        <svg viewBox="0 0 16 16" fill="none" style="width:13px;height:13px;"><rect x="5" y="5" width="8" height="9" rx="1" stroke="currentColor" stroke-width="1.5"/><path d="M3 11V3h8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        Copy to clipboard
+      </button>
+    </div>
+  </div>
 </div>
 
 </div><!-- #app -->
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
 document.getElementById('gen-date').textContent = new Date().toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
 
 const CA='#7c5cfc',CB='#4f9cf9',CC='#14b8a6';
@@ -616,6 +747,91 @@ function buildDashboard(rows){
   document.getElementById('app').style.display='block';
 }
 
+
+// ── Email Summary ────────────────────────────────────────────────────────────
+let _emailText = '';
+
+function openEmailModal(){
+  _emailText = generateEmailText();
+  document.getElementById('emailPreview').textContent = _emailText;
+  document.getElementById('emailModal').classList.add('open');
+}
+function closeEmailModal(){
+  document.getElementById('emailModal').classList.remove('open');
+}
+function copyEmailText(){
+  navigator.clipboard.writeText(_emailText).then(()=>{
+    const btn = document.getElementById('copyBtn');
+    btn.classList.add('copied');
+    btn.innerHTML = '<svg viewBox="0 0 16 16" fill="none" style="width:13px;height:13px;"><path d="M3 8l4 4 6-7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg> Copied!';
+    setTimeout(()=>{
+      btn.classList.remove('copied');
+      btn.innerHTML = '<svg viewBox="0 0 16 16" fill="none" style="width:13px;height:13px;"><rect x="5" y="5" width="8" height="9" rx="1" stroke="currentColor" stroke-width="1.5"/><path d="M3 11V3h8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg> Copy to clipboard';
+    }, 2500);
+  });
+}
+
+function generateEmailText(){
+  const today = new Date().toLocaleDateString('en-GB',{day:'numeric',month:'long',year:'numeric'});
+  const total  = document.getElementById('kpi-total').textContent;
+  const open   = document.getElementById('kpi-open').textContent;
+  const closed = document.getElementById('kpi-closed').textContent;
+  const rate   = document.getElementById('kpi-rate').textContent;
+
+  // Pull site class cards
+  const scCards = document.querySelectorAll('.sc-card');
+  let classLines = '';
+  scCards.forEach(card=>{
+    const badge = card.querySelector('.sc-badge')?.textContent.trim() || '';
+    const tot   = card.querySelector('.sc-total')?.textContent.trim() || '';
+    const items = card.querySelectorAll('.sc-split-item');
+    const ko    = items[0]?.querySelector('.sc-split-val')?.textContent.trim() || '-';
+    const cu    = items[1]?.querySelector('.sc-split-val')?.textContent.trim() || '-';
+    const pctEl = card.querySelector('.sc-bar-label')?.textContent.trim() || '';
+    classLines += `  ${badge.padEnd(10)} Total: ${tot.padEnd(8)} Open: ${ko.padEnd(8)} Closed: ${cu.padEnd(8)} ${pctEl}\n`;
+  });
+
+  // Pull region table
+  let regionLines = `  ${'Region'.padEnd(22)} ${'Class A'.padEnd(10)} ${'Class B'.padEnd(10)} ${'Class C'.padEnd(10)} ${'Closed'.padEnd(10)} ${'Open'.padEnd(8)} Res%\n`;
+  regionLines += '  ' + '-'.repeat(76) + '\n';
+  document.querySelectorAll('#region-tbody tr').forEach(row=>{
+    const cells = row.querySelectorAll('td');
+    if(cells.length < 6) return;
+    const reg  = cells[0].textContent.replace(/\n/g,' ').trim().replace(/\s+/g,' ');
+    const ca   = cells[1].textContent.trim();
+    const cb   = cells[2].textContent.trim();
+    const cc   = cells[3].textContent.trim();
+    const cl   = cells[4].textContent.trim();
+    const op   = cells[5].textContent.trim();
+    const pct2 = cells[6].textContent.trim();
+    regionLines += `  ${reg.padEnd(22)} ${ca.padEnd(10)} ${cb.padEnd(10)} ${cc.padEnd(10)} ${cl.padEnd(10)} ${op.padEnd(8)} ${pct2}\n`;
+  });
+
+  return [
+    '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━',
+    '  CUMULATIVE SNAGS REPORT  —  ' + today,
+    '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━',
+    '',
+    '  SUMMARY',
+    '  Total Snags    : ' + total,
+    '  Open           : ' + open,
+    '  Closed         : ' + closed,
+    '  Resolution Rate: ' + rate,
+    '',
+    '  SITE CLASS BREAKDOWN',
+    classLines.trimEnd(),
+    '',
+    '  REGIONAL SUMMARY (Closed snags)',
+    regionLines.trimEnd(),
+    '',
+    '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━',
+    '  This report is read-only. For changes or data',
+    '  requests, please contact the report owner.',
+    '━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━',
+  ].join('\n');
+}
+// ── End Email Summary ────────────────────────────────────────────────────────
+
 // Load CSV
 Papa.parse('data.csv',{
   download:true,
@@ -624,10 +840,4 @@ Papa.parse('data.csv',{
   complete:results=>buildDashboard(results.data),
   error:err=>{
     document.getElementById('loading').innerHTML=
-      `<p style="color:var(--red);font-size:14px;">Failed to load data.csv — make sure it is in the same folder as this HTML file.</p>
-       <p style="color:var(--muted);font-size:12px;margin-top:8px;">${err.message||''}</p>`;
-  }
-});
-</script>
-</body>
-</html>
+      `<p style="color:var(--red);
