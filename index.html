@@ -833,12 +833,50 @@ function generateEmailText(){
 }
 // ── End Email Summary ────────────────────────────────────────────────────────
 
-// Load CSV
-Papa.parse('data.csv',{
-  download:true,
-  header:true,
-  skipEmptyLines:true,
-  complete:results=>buildDashboard(results.data),
-  error:err=>{
-    document.getElementById('loading').innerHTML=
-      `<p style="color:var(--red);
+// Load CSV — use location-relative path to handle GitHub Pages subdirectory correctly
+(function(){
+  const base = window.location.href.split('/').slice(0,-1).join('/') + '/';
+  const csvUrl = base + 'data.csv';
+
+  document.getElementById('loadingMsg').textContent = 'Loading snag data...';
+  document.getElementById('loadingDetail').textContent = 'From: ' + csvUrl;
+
+  fetch(csvUrl)
+    .then(res => {
+      if(!res.ok) throw new Error('HTTP ' + res.status + ' — ' + res.statusText + '. File: ' + csvUrl);
+      document.getElementById('loadingDetail').textContent = 'Parsing data...';
+      return res.text();
+    })
+    .then(text => {
+      Papa.parse(text, {
+        header: true,
+        skipEmptyLines: true,
+        complete: results => {
+          if(!results.data || results.data.length === 0){
+            document.getElementById('loadingSpinner').style.display='none';
+            document.getElementById('loadingMsg').style.color='#f43f5e';
+            document.getElementById('loadingMsg').textContent='data.csv is empty.';
+            document.getElementById('loadingDetail').textContent='Make sure the macro ran correctly and the file was uploaded.';
+            return;
+          }
+          buildDashboard(results.data);
+        },
+        error: err => {
+          document.getElementById('loadingSpinner').style.display='none';
+          document.getElementById('loadingMsg').style.color='#f43f5e';
+          document.getElementById('loadingMsg').textContent='CSV parse error.';
+          document.getElementById('loadingDetail').textContent=err.message||'Unknown error';
+        }
+      });
+    })
+    .catch(err => {
+      document.getElementById('loadingSpinner').style.display='none';
+      document.getElementById('loadingMsg').style.color='#f43f5e';
+      document.getElementById('loadingMsg').textContent='Could not load data.csv';
+      document.getElementById('loadingDetail').style.color='#f43f5e';
+      document.getElementById('loadingDetail').textContent=err.message;
+    });
+})();
+</script>
+</body>
+</html>
