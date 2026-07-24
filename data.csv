@@ -7669,7 +7669,7 @@
 99441,AUH,AUH0512,Class C,POWER METER,POWER METER CABINET DAMAGED,Power Meter Glass damaged,Mohsinuddin Mohammad,MINOR,11/04/2026,,Open,KEEP_OPEN,April-26,
 95446,AUH,AUH0513,Class C,EXTERNAL ALARMS,NOT WORKING,RECTIFIER ALL ALARM NOT WORKING .3G HUAWE MR BLOCKED NEED TO SHIFT NOKIA SRAN,Basit Khan,MINOR,25/02/2026,,Open,KEEP_OPEN,February-26,
 95451,AUH,AUH0514,Class C,EXTERNAL ALARMS,NOT WORKING,RECTIFIER ALL ALARM NOT WORKING .3G HUAWE MR BLOCKED NEED TO SHIFT NOKIA SRAN,Basit Khan,MINOR,25/02/2026,,Open,KEEP_OPEN,February-26,
-105738,AUH,AUH0516,Class A,BATTERY,BATTERY FAULTY,"Bank 1,2,3&4 All Cell Faulty",Ghaias Uddin Babar,MAJOR,11/05/2026,,Open,KEEP_OPEN,May-26,
+105738,AUH,AUH0516,Class A,BATTERY,BATTERY FAULTY,"Bank 1,2,3&4 All Cell Faulty",Ghaias Uddin Babar,MAJOR,11/05/2026,23/06/2026,Closed,CLOSED_UNIQUE,May-26,June-26
 48037,AUH,AUH0517,Class C,EXTERNAL ALARMS,NOT WORKING,"Module Fail Alarm Not Working , Nokia Rectfier",Prabhat Kumar Suresh Prasad,MINOR,08/08/2025,18/06/2026,Closed,CLOSED_UNIQUE,August-25,June-26
 48305,AUH,AUH0519,Class C,EXTERNAL ALARMS,NOT WORKING,Huawei APM30H Virson D Alarm not Configerd and Cable not Routed,Prabhat Kumar Suresh Prasad,MINOR,09/08/2025,18/02/2026,Closed,CLOSED_UNIQUE,August-25,February-26
 47129,AUH,AUH0520,Class C,EXTERNAL ALARMS,NOT WORKING,Battery temp. & High Voltage alarm not configerd on 2G BTS,Prabhat Kumar Suresh Prasad,MINOR,05/08/2025,12/06/2026,Closed,CLOSED_UNIQUE,August-25,June-26
@@ -9056,7 +9056,7 @@ Note- Huawei 3G BBU has been dismantled, Nokia 2G and Nokia FSMF (System Module)
 115805,AUH,AUH2140,Class A,TI,TI - OTHERS,1 RTN and 1MSS8 Fan Clean,Ghaias Uddin Babar,MINOR,22/06/2026,22/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
 67281,AUH,AUH2142,Class A,AIR CONDITIONING,OUTDOOR AC CONDENSER MOTOR FAULTY,A/C 2 fan motor making noise may become faulty,Mohsinuddin Mohammad,MAJOR,14/10/2025,28/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25
 44389,AUH,AUH2142,Class A,AWL,AWL BULB FAULTY,AWL Lamp faulty (48v) 2pcs,Ghaias Uddin Babar,MAJOR,25/07/2025,30/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25
-91455,AUH,AUH2142,Class A,BATTERY,BATTERY FAULTY,"Battery BANK 1,2,3,4 weak (Narada-150Ah)(11.6V",Ghaias Uddin Babar,MAJOR,03/02/2026,20/06/2026,Closed,CLOSED_UNIQUE,February-26,June-26
+91455,AUH,AUH2142,Class A,BATTERY,BATTERY FAULTY,"Battery BANK 1,2,3,4 weak (Narada-150Ah)(11.6V",Ghaias Uddin Babar,MAJOR,03/02/2026,26/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26
 33017,AUH,AUH2142,Class A,CIVIL,CIVIL - OTHERS,fuel tanck and generator cabinet rusty,Ghaias Uddin Babar,MINOR,10/06/2025,29/08/2025,Closed,CLOSED_UNIQUE,June-25,August-25
 67282,AUH,AUH2142,Class A,CIVIL,CIVIL - OTHERS,"Structure Foundation Anchor bolt caps missing, no greased petro tape on bolts and not  available in all bolts 6 thread pitchs",Mohsinuddin Mohammad,MINOR,14/10/2025,06/12/2025,Closed,CLOSED_UNIQUE,October-25,December-25
 91457,AUH,AUH2142,Class A,CIVIL,CIVIL - OTHERS,"Tower foundation Anchor bolt washers  and caps missing, no greased petro tape on bolts",Ghaias Uddin Babar,MINOR,03/02/2026,14/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26
@@ -11106,7 +11106,7 @@ Note- Huawei 3G BBU has been dismantled, Nokia 2G and Nokia FSMF (System Module)
 17244,AUH,AUH2430,Class B,AIR CONDITIONING,AC RELAY FAULTY,AC1 AC2 INDORE DB 4 POLE RELAY FAULTY,Raja Gurusamy,MAJOR,26/02/2025,08/11/2025,Closed,CLOSED_UNIQUE,February-25,November-25
 115973,AUH,AUH2430,Class B,AIR CONDITIONING,AIR CONDITIONING - OTHERS,One temperature Thermostat  Sensor Used On ABB Control Panel,Prabat Kumat,MINOR,22/06/2026,22/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
 112724,AUH,AUH2430,Class B,AWL,AWL CONTROL PANEL FAULTY,"AWL TEC15 Card & Convetor Faulty , Alarm Need to Check",Prabat Kumat,MAJOR,09/06/2026,22/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
-112721,AUH,AUH2430,Class B,BATTERY,BATTERY FAULTY,CD 200AH All Four Strings Batteries Faulty,Prabat Kumat,MAJOR,09/06/2026,22/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
+112721,AUH,AUH2430,Class B,BATTERY,BATTERY FAULTY,CD 200AH All Four Strings Batteries Faulty,Prabat Kumat,MAJOR,09/06/2026,25/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
 112719,AUH,AUH2430,Class B,CIVIL,SHELTER ROOF REPAIR,Shelter Roof Rusty / Damaged,Prabat Kumat,MAJOR,09/06/2026,22/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
 112725,AUH,AUH2430,Class B,CIVIL,TOWER STRUCTURE PAINT IS EXFOLIATED,Monopole Paint Peeling Off,Prabat Kumat,MINOR,09/06/2026,22/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
 112718,AUH,AUH2430,Class B,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,GENT Fire Panel Both Batteries Faulty,Prabat Kumat,MINOR,09/06/2026,09/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
@@ -16177,7 +16177,7 @@ Note- Huawei 3G BBU has been dismantled, Nokia 2G and Nokia FSMF (System Module)
 22114,AUH,AUH3565,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,SUNSHADE BASE PAINT PEELING OFF,Muhammad Sultan,MINOR,07/04/2025,13/11/2025,Closed,CLOSED_UNIQUE,April-25,November-25
 22118,AUH,AUH3565,Class C,TI,TI - OTHERS,Microwave ODU and GSM Antenna weatherproffing checked,Muhammad Sultan,MINOR,07/04/2025,07/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25
 33482,AUH,AUH3566,Class C,OTHERS,OTHERS,Hazards sticker,Raja Gurusamy,MINOR,10/06/2025,10/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25
-107364,AUH,AUH3567,Class B,BATTERY,BATTERY FAULTY,"Bank 1,2,3 All Cell Faulty C&D 170Ah",Ghaias Uddin Babar,MAJOR,16/05/2026,,Open,KEEP_OPEN,May-26,
+107364,AUH,AUH3567,Class B,BATTERY,BATTERY FAULTY,"Bank 1,2,3 All Cell Faulty C&D 170Ah",Ghaias Uddin Babar,MAJOR,16/05/2026,27/06/2026,Closed,CLOSED_UNIQUE,May-26,June-26
 48469,AUH,AUH3567,Class B,SHELTER,SITE ID DAMAGED,Site ID Tag damaged  (Replaced),Girish Dongra Kotharkar,MINOR,11/08/2025,11/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25
 48470,AUH,AUH3567,Class B,TI,TI - OTHERS,GSM Antenna weatherproffing  checked done and Microwave ODU  weatherproffing  checked done,Girish Dongra Kotharkar,MINOR,11/08/2025,11/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25
 92439,AUH,AUH3567,Class B,TI,TI - OTHERS,GSM Antenna weatherproffing  checked done and Microwave ODU  weatherproffing  checked done,Girish Dongra Kotharkar,MINOR,09/02/2026,09/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26
