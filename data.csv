@@ -1399,14 +1399,14 @@
 77553,AUH,AAN2087,Class C,TI,TI - OTHERS,Gsm mw antenna weatherproffing checked.,Kanwaljeet Singh,MINOR,26/11/2025,26/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25
 72977,AUH,AAN2088,Class A,AIR CONDITIONING,AC RELAY FAULTY,ABB-DC Transformer (ABB AC Control panel) Faulty /Replace,Asmatullah Tahir Muhammad,MAJOR,07/11/2025,07/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25
 114302,AUH,AAN2088,Class A,BATTERY,LOW CAPACITY,One more Battery String need to be add load 153.5A,Kanwaljit Singh,MAJOR,17/06/2026,,Open,KEEP_OPEN,June-26,
-114303,AUH,AAN2088,Class A,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall has epoxy  paint  peeling off .,Kanwaljit Singh,MINOR,17/06/2026,,Open,KEEP_OPEN,June-26,
-114306,AUH,AAN2088,Class A,CIVIL,CIVIL - OTHERS,Monopole Anchor bolt  caps missing.,Kanwaljit Singh,MINOR,17/06/2026,,Open,KEEP_OPEN,June-26,
+114303,AUH,AAN2088,Class A,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall has epoxy  paint  peeling off .,Kanwaljit Singh,MINOR,17/06/2026,13/08/2026,Closed,CLOSED_UNIQUE,June-26,August-26
 72968,AUH,AAN2088,Class A,CIVIL,CIVIL - OTHERS,Tower platfrom cover/door is missing,Asmatullah Tahir Muhammad,MINOR,07/11/2025,14/03/2026,Closed,CLOSED_UNIQUE,November-25,March-26
 72969,AUH,AAN2088,Class A,CIVIL,CIVIL - OTHERS,No grease and no caps on anchor bolts,Asmatullah Tahir Muhammad,MINOR,07/11/2025,14/03/2026,Closed,CLOSED_UNIQUE,November-25,March-26
 109128,AUH,AAN2088,Class A,CIVIL,CIVIL - OTHERS,Tower platfrom cover/door is missing,Asmatullah Tahir Muhammad,MINOR,22/05/2026,17/06/2026,Closed,CLOSED_UNIQUE,May-26,June-26
 109130,AUH,AAN2088,Class A,CIVIL,CIVIL - OTHERS,No grease and no caps on anchor bolts,Asmatullah Tahir Muhammad,MINOR,22/05/2026,17/06/2026,Closed,CLOSED_UNIQUE,May-26,June-26
+114306,AUH,AAN2088,Class A,CIVIL,CIVIL - OTHERS,Monopole Anchor bolt  caps missing.,Kanwaljit Singh,MINOR,17/06/2026,13/08/2026,Closed,CLOSED_UNIQUE,June-26,August-26
 114301,AUH,AAN2088,Class A,CIVIL,GROUND LEVELING,No gravel all around the boundary wall,Kanwaljit Singh,MINOR,17/06/2026,,Open,KEEP_OPEN,June-26,
-114305,AUH,AAN2088,Class A,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate paint color faded,Kanwaljit Singh,MINOR,17/06/2026,,Open,KEEP_OPEN,June-26,
+114305,AUH,AAN2088,Class A,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate paint color faded,Kanwaljit Singh,MINOR,17/06/2026,13/08/2026,Closed,CLOSED_UNIQUE,June-26,August-26
 114308,AUH,AAN2088,Class A,CIVIL,SAFETY ROPE DAMAGED,Monopole ladder safety stopper is missing,Kanwaljit Singh,MINOR,17/06/2026,,Open,KEEP_OPEN,June-26,
 109134,AUH,AAN2088,Class A,CIVIL,SHELTER FLOOR NEEDS REPAIRING,Shelter floor Need to be Paints ,Asmatullah Tahir Muhammad,MINOR,22/05/2026,17/06/2026,Closed,CLOSED_UNIQUE,May-26,June-26
 86413,AUH,AAN2088,Class A,CIVIL,SHELTER ROOF REPAIR,Selter roof Rusty,Asmatullah Tahir Muhammad,MAJOR,13/01/2026,13/02/2026,Closed,CLOSED_UNIQUE,January-26,February-26
@@ -15871,7 +15871,7 @@ Note- Huawei 3G BBU has been dismantled, Nokia 2G and Nokia FSMF (System Module)
 20133,AUH,AUH3255,Class C,TI,TI - OTHERS,GSM Antenna weatherproffing done and Microwave ODU weatherproffing checked done,Girish Dongra Kotharkar,MINOR,22/03/2025,22/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25
 105542,AUH,AUH3256,Class C,AWL,AWL BULB FAULTY,AWL standby lamp faulty  need full set and AWL card LED faulty,Mohsinuddin Mohammad,MINOR,09/05/2026,09/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26
 56548,AUH,AUH3256,Class C,CIVIL,CIVIL - OTHERS,MDB AND Meter box Rusty Paint,Ghaias Uddin Babar,MINOR,09/09/2025,09/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25
-105545,AUH,AUH3256,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",Main Gate closing rod short,Mohsinuddin Mohammad,MAJOR,09/05/2026,,Open,KEEP_OPEN,May-26,
+105545,AUH,AUH3256,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",Main Gate closing rod short,Mohsinuddin Mohammad,MAJOR,09/05/2026,13/08/2026,Closed,CLOSED_UNIQUE,May-26,August-26
 8791,AUH,AUH3256,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,Shade Foundation has epoxy paint peeling off,Girish Dongra Kotharkar,MINOR,28/12/2024,09/09/2025,Closed,CLOSED_UNIQUE,December-24,September-25
 105543,AUH,AUH3256,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,sunshade base foundation epoxy paint peeling off,Mohsinuddin Mohammad,MINOR,09/05/2026,,Open,KEEP_OPEN,May-26,
 105546,AUH,AUH3256,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,structure foundation epoxy paint peeling off,Mohsinuddin Mohammad,MINOR,09/05/2026,,Open,KEEP_OPEN,May-26,
@@ -23106,7 +23106,7 @@ Note- Huawei 3G BBU has been dismantled, Nokia 2G and Nokia FSMF (System Module)
 63565,DXB,DXB1665,Class C,AIR CONDITIONING,AC GAS REFILLING,A/C #1 GAS FOUND LOW REFILLED,Sachin George Varghese,MINOR,30/09/2025,30/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25
 98622,DXB,DXB1665,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDARY WALLS NEED TO REPAIR AND REPAINT,Nitin Kumar Kanwar Pal Singh,MINOR,08/04/2026,,Open,KEEP_OPEN,April-26,
 22367,DXB,DXB1665,Class C,CIVIL,BOUNDARY WALL PAINT WORK,BOUNDRY WALL NEED TO REPAINT & SOME REPAIRING,Jagdish Kamboj,MINOR,09/04/2025,30/09/2025,Closed,CLOSED_UNIQUE,April-25,September-25
-98623,DXB,DXB1665,Class C,CIVIL,GUIDE WIRE DAMAGED,BARBARED WIRES NEED TO BE FIX / SOME WIRES MISSING AND DAMAGED,Nitin Kumar Kanwar Pal Singh,MINOR,08/04/2026,,Open,KEEP_OPEN,April-26,
+98623,DXB,DXB1665,Class C,CIVIL,GUIDE WIRE DAMAGED,BARBARED WIRES NEED TO BE FIX / SOME WIRES MISSING AND DAMAGED,Nitin Kumar Kanwar Pal Singh,MINOR,08/04/2026,13/08/2026,Closed,CLOSED_UNIQUE,April-26,August-26
 63564,DXB,DXB1665,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,MONOPOLE BASE PAINT EXFOLIATED NEED TO REPAINT,Sachin George Varghese,MINOR,30/09/2025,08/04/2026,Closed,CLOSED_UNIQUE,September-25,April-26
 63561,DXB,DXB1665,Class C,OTHERS,GARBAGE,PLANTS & GARBAGE FROM COMPOUND REMOVED,Sachin George Varghese,MINOR,30/09/2025,30/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25
 98621,DXB,DXB1665,Class C,OTHERS,PLANTATION,GARBAGES AND SMALL PLANTS REMOVED,Nitin Kumar Kanwar Pal Singh,MINOR,08/04/2026,08/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26
