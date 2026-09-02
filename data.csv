@@ -5621,7 +5621,6 @@
 113307,AUH,AAN3608,Class C,OTHERS,PLANTATION,Grass is on site (Removed),Kanwaljit Singh,MINOR,12/06/2026,12/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
 73649,AUH,AAN3608,Class C,TI,TI - OTHERS,Weatherproof Are checked,Asmatullah Tahir Muhammad,MINOR,11/11/2025,11/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25
 134422,AUH,AAN3609,Class C,BATTERY,TEMPERATURE SENSOR,Vertiv Rectifier battery temperature sensor cable reshuffle & battery temp alarm configured.,Kanwaljit Singh,MAJOR,24/08/2026,24/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26
-134423,AUH,AAN3609,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",Main Gate door lock missing,Kanwaljit Singh,MAJOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 134424,AUH,AAN3609,Class C,OTHERS,PLANTATION,Grass on site (Removed),Kanwaljit Singh,MINOR,24/08/2026,24/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26
 73653,AUH,AAN3609,Class C,TI,TI - OTHERS,Weatherproof Are checked,Asmatullah Tahir Muhammad,MINOR,11/11/2025,11/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25
 114506,AUH,AAN3611,Class C,SHELTER,SITE ID DAMAGED,Site ID Damge Replace ,Asmatullah Tahir Muhammad,MINOR,18/06/2026,18/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26
@@ -9224,8 +9223,8 @@ Note- Nokia 2G and S-Ran Nokia FSMF (System Module) is working on site.",Girish 
 134174,AUH,AUH2066,Class C,AIR CONDITIONING,INDOOR AC BLOWER MOTOR FAULTY,AC1 Indoor Blower fan motor Faulty BARD/3Ton,Ghaias Uddin Babar,MAJOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 13933,AUH,AUH2066,Class C,AWL,AWL BULB FAULTY,AWL standby lamp faulty,Mohsinuddin Mohammad,MINOR,06/02/2025,26/09/2025,Closed,CLOSED_UNIQUE,February-25,September-25
 134172,AUH,AUH2066,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Permanent Fence paint faded ,Ghaias Uddin Babar,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
+134168,AUH,AUH2066,Class C,CIVIL,CIVIL - OTHERS,"Structure Foundation Anchor bolt washers and caps missing, no greased petro tape on bolts and not  available in all bolts 6 thread pitchs",Ghaias Uddin Babar,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 134173,AUH,AUH2066,Class C,CIVIL,CIVIL - OTHERS,"Structure Foundation Anchor bolt washers and caps missing, no greased petro tape on bolts and not  available in all bolts 6 thread pitchs",Ghaias Uddin Babar,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
-134168,AUH,AUH2066,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,"Structure Foundation Anchor bolt washers and caps missing, no greased petro tape on bolts and not  available in all bolts 6 thread pitchs",Ghaias Uddin Babar,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 13935,AUH,AUH2066,Class C,CIVIL,SHELTER ROOF REPAIR,shelter has water lekage marks,Mohsinuddin Mohammad,MINOR,06/02/2025,23/01/2026,Closed,CLOSED_UNIQUE,February-25,January-26
 134167,AUH,AUH2066,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter step has epoxy paint peeling off,Ghaias Uddin Babar,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 43736,AUH,AUH2066,Class C,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,Gent FACP Battery faulty (required - 12V 2.3AH 2PC not replace due to out of stock in wh),Girish Dongra Kotharkar,MINOR,23/07/2025,26/09/2025,Closed,CLOSED_UNIQUE,July-25,September-25
@@ -13164,7 +13163,6 @@ Note- Nokia 2G and S-Ran Nokia FSMF (System Module) is working on site.",Girish 
 14260,AUH,AUH2579,Class C,AWL,AWL BULB FAULTY,AWL standby lamp faulty,Mohsinuddin Mohammad,MINOR,08/02/2025,22/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25
 92449,AUH,AUH2579,Class C,BATTERY,TEMPERATURE SENSOR,Vertiv R48-2000e3 Rectifier-2 (outdoor)-Battery temperature sensor probe has been installed on the IB2 temp 1 board,Girish Dongra Kotharkar,MAJOR,10/02/2026,10/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26
 92442,AUH,AUH2579,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall has minor  paint peeling off bottom part,Girish Dongra Kotharkar,MINOR,10/02/2026,09/03/2026,Closed,CLOSED_UNIQUE,February-26,March-26
-134376,AUH,AUH2579,Class C,CIVIL,SHELTER ROOF REPAIR,Shalter roof damage ,Raja Gurusamy,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 92443,AUH,AUH2579,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter step epoxy paint peeling off,Girish Dongra Kotharkar,MINOR,10/02/2026,09/03/2026,Closed,CLOSED_UNIQUE,February-26,March-26
 134384,AUH,AUH2579,Class C,DC SYSTEM,DC SYSTEM - OTHERS,Retfiber modueal load not taking 3000e3 0 load showing ,Raja Gurusamy,MINOR,24/08/2026,,Open,KEEP_OPEN,August-26,
 92447,AUH,AUH2579,Class C,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,Gent FACP Battery is faulty ( FACP Battery-12V 2.1/2.2AH Replaced ),Girish Dongra Kotharkar,MINOR,10/02/2026,10/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26
