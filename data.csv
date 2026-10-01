@@ -17491,9 +17491,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 142501,AUH,AUH3137,Class C,SHELTER,SITE ID DAMAGED,DU Sticker Change On Shelter Door,Ghaias Uddin Babar,MINOR,21/09/2026,21/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26
 142497,AUH,AUH3137,Class C,TI,TI - OTHERS,RTN Fan Clean 2nos,Ghaias Uddin Babar,MINOR,21/09/2026,21/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26
 33004,AUH,AUH3138,Class C,TI,BTS FILTER DAMAGE/MISSING,AMOD air filter damaged (filter replaced),Ghaias Uddin Babar,MINOR,10/06/2025,10/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25
-47062,AUH,AUH3140,Class C,BATTERY,TEMPERATURE SENSOR,Battery Temperature sensor not working,Mohsinuddin Mohammed,MAJOR,05/08/2025,,Open,KEEP_OPEN,August-25,
+47062,AUH,AUH3140,Class C,BATTERY,TEMPERATURE SENSOR,Battery Temperature sensor not working,Mohsinuddin Mohammed,MAJOR,05/08/2025,23/09/2026,Closed,CLOSED_UNIQUE,August-25,September-26
 13884,AUH,AUH3140,Class C,CIVIL,CIVIL - OTHERS,Shade base has epoxy paint peelibg off,Girish Dongra Kotharkar,MINOR,06/02/2025,05/08/2025,Closed,CLOSED_UNIQUE,February-25,August-25
-47067,AUH,AUH3140,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,shade base foundation epoxy paint peeling off,Mohsinuddin Mohammed,MINOR,05/08/2025,,Open,KEEP_OPEN,August-25,
+143029,AUH,AUH3140,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,Raja Gurusamy,MINOR,23/09/2026,,Open,KEEP_OPEN,September-26,
 47063,AUH,AUH3140,Class C,DC SYSTEM,DC SYSTEM - OTHERS,vertiv has minor alarms,Mohsinuddin Mohammed,MINOR,05/08/2025,10/10/2025,Closed,CLOSED_UNIQUE,August-25,October-25
 118894,AUH,AUH3141,Class C,BATTERY,TEMPERATURE SENSOR,Vertiv R48-2000e3 Rectifier (Outdoor)-Battery temperature sensor probe has been installed inside( Note- now is working system-1 sensor. new item was not installed because it is out of stock in the WH),Girish Dongra Kotharkar,MAJOR,03/07/2026,,Open,KEEP_OPEN,July-26,
 5767,AUH,AUH3141,Class C,DC SYSTEM,DC SYSTEM - OTHERS,VERTIV MAIN Breaker Damaged,Prabat Kumat,MINOR,05/11/2024,05/11/2025,Closed,CLOSED_UNIQUE,November-24,November-25
@@ -18530,8 +18530,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 52631,AUH,AUH3409,Class C,FIRE SYSTEMS,FIRE EXTINGUISHER EMPTY/MISSING,FIRE EXTINGUISHER  Missing,Ghaias Uddin Babar,MINOR,25/08/2025,30/09/2025,Closed,CLOSED_UNIQUE,August-25,September-25
 52627,AUH,AUH3409,Class C,TI,TI - OTHERS,weather profing ok,Ghaias Uddin Babar,MINOR,25/08/2025,25/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25
 93055,AUH,AUH3409,Class C,TI,TI - OTHERS,weather profing ok,Ghaias Uddin Babar,MINOR,12/02/2026,12/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26
-47785,AUH,AUH3410,Class C,BATTERY,TEMPERATURE SENSOR,Rectifier Cabinet Sensor cable missing,Ghaias Uddin Babar,MAJOR,08/08/2025,23/09/2026,Closed,CLOSED_UNIQUE,August-25,September-26
-143029,AUH,AUH3410,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,Raja Gurusamy,MINOR,23/09/2026,,Open,KEEP_OPEN,September-26,
+47785,AUH,AUH3410,Class C,BATTERY,TEMPERATURE SENSOR,Rectifier Cabinet Sensor cable missing,Ghaias Uddin Babar,MAJOR,08/08/2025,30/01/2026,Closed,CLOSED_UNIQUE,August-25,January-26
 13022,AUH,AUH3410,Class C,MDB,LABELLING MISSING,MDB Hazard Stiker damaged (Replaced),Girish Dongra Kotharkar,MINOR,31/01/2025,31/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25
 104837,AUH,AUH3410,Class C,OTHERS,GARBAGE,Garbage bag used on site,Mohsinuddin Mohammad,MINOR,30/01/2026,30/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26
 60096,AUH,AUH3411,Class C,BATTERY,TEMPERATURE SENSOR,Battery Temperature sensor not working,Mohsinuddin Mohammad,MAJOR,19/09/2025,24/04/2026,Closed,CLOSED_UNIQUE,September-25,April-26
