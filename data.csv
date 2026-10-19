@@ -5118,13 +5118,13 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 75753,AUH,AAN3169,Class C,MDB,MDB - OTHERS,MDB Hazard Sticker faded(Replaced) MDB DOOR,Kanwaljeet Singh,MINOR,19/11/2025,19/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Kanwaljeet Singh
 116972,AUH,AAN3169,Class C,SHELTER,SITE ID DAMAGED,Du Site id new (installed) Main Gate  Door,Kanwaljit Singh,MINOR,26/06/2026,26/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Kanwaljit Singh
 99909,AUH,AAN3170,Class C,BATTERY,TEMPERATURE SENSOR,Rectifier battery temperature  sensor cable reshuffle & battery temp alarm configured,Kanwaljit Singh,MAJOR,14/04/2026,14/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Kanwaljit Singh
-147697,AUH,AAN3170,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundery wall Paint damage & need to be fixed Wall Greavel ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
-147699,AUH,AAN3170,Class C,CIVIL,CIVIL - OTHERS,Monoploe Anchore Blotes fed caps damage ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
-147700,AUH,AAN3170,Class C,CIVIL,CIVIL - OTHERS,Monopole cables Entery back side Cover Missing ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
+147697,AUH,AAN3170,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundery wall Paint damage & need to be fixed Wall Greavel ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 60294,AUH,AAN3170,Class C,CIVIL,CIVIL - OTHERS,Fiber Roxect found open /fixed,Asmatullah Tahir Muhammad,MINOR,20/09/2025,20/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Asmatullah Tahir Muhammad
 147694,AUH,AAN3170,Class C,CIVIL,CIVIL - OTHERS,Fiber Roxect found open /fixed ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,09/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Asmatullah Tahir Muhammad
-147701,AUH,AAN3170,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate Need to Paint  & Main Gate Foundationds Paints Damage ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
-147698,AUH,AAN3170,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,"Monopole Foundatin , Equipement Foundation , MDB & AWL foundationds need to be paints ",Asmatullah Tahir Muhammad,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
+147699,AUH,AAN3170,Class C,CIVIL,CIVIL - OTHERS,Monoploe Anchore Blotes fed caps damage ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+147700,AUH,AAN3170,Class C,CIVIL,CIVIL - OTHERS,Monopole cables Entery back side Cover Missing ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+147701,AUH,AAN3170,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate Need to Paint  & Main Gate Foundationds Paints Damage ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+147698,AUH,AAN3170,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,"Monopole Foundatin , Equipement Foundation , MDB & AWL foundationds need to be paints ",Asmatullah Tahir Muhammad,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 20192,AUH,AAN3170,Class C,OTHERS,OTHERS,grass start growing inside boundary,Mohsinuddin Mohammad,MINOR,22/03/2025,22/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Mohsinuddin Mohammad
 147695,AUH,AAN3170,Class C,OTHERS,PLANTATION,Remove grass ,Asmatullah Tahir Muhammad,MINOR,09/10/2026,09/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Asmatullah Tahir Muhammad
 143978,AUH,AAN3170,Class C,SHELTER,SITE ID DAMAGED,Du Site id Faded (Replaced) Verttiv  Rectifier Door and  Main Gate Door,Kanwaljit Singh,MINOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Kanwaljit Singh
@@ -10188,9 +10188,9 @@ Note- Nokia 2G and S-Ran Nokia FSMF (System Module) is working on site.",Girish 
 48456,AUH,AUH2037,Class C,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,"AC 1,2 Fix Cover Insulation",Ghaias Uddin Babar,MINOR,11/08/2025,11/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Ghaias Uddin Babar
 147745,AUH,AUH2037,Class C,AWL,AWL BULB FAULTY,AWL Lamp Faulty /Change 48V,Ghaias Uddin Babar,MINOR,09/10/2026,09/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Ghaias Uddin Babar
 48454,AUH,AUH2037,Class C,BATTERY,TEMPERATURE SENSOR,Battery Sensor cable faulty,Ghaias Uddin Babar,MAJOR,11/08/2025,10/02/2026,Closed,CLOSED_UNIQUE,August-25,February-26,
-147741,AUH,AUH2037,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall paint pelling off and Damage,Ghaias Uddin Babar,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
-92778,AUH,AUH2037,Class C,CIVIL,CIVIL - OTHERS,"Tower foundation Anchor bolt washers  and caps missing, no greased petro tape on bolts",Ghaias Uddin Babar,MINOR,10/02/2026,,Open,KEEP_OPEN,February-26,,
-147737,AUH,AUH2037,Class C,CIVIL,CIVIL - OTHERS,"Tower foundation Anchor bolt washers  and caps missing, no greased petro tape on bolts",Ghaias Uddin Babar,MINOR,09/10/2026,,Open,KEEP_OPEN,October-26,,
+147741,AUH,AUH2037,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall paint pelling off and Damage,Ghaias Uddin Babar,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+92778,AUH,AUH2037,Class C,CIVIL,CIVIL - OTHERS,"Tower foundation Anchor bolt washers  and caps missing, no greased petro tape on bolts",Ghaias Uddin Babar,MINOR,10/02/2026,17/10/2026,Closed,CLOSED_UNIQUE,February-26,October-26,Civil Team
+147737,AUH,AUH2037,Class C,CIVIL,CIVIL - OTHERS,"Tower foundation Anchor bolt washers  and caps missing, no greased petro tape on bolts",Ghaias Uddin Babar,MINOR,09/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 18737,AUH,AUH2037,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate stoper damage,Raja Gurusamy,MINOR,14/03/2025,04/08/2025,Closed,CLOSED_UNIQUE,March-25,August-25,
 18739,AUH,AUH2037,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shalter STEP Paint peeling off,Raja Gurusamy,MINOR,14/03/2025,04/08/2025,Closed,CLOSED_UNIQUE,March-25,August-25,
 48458,AUH,AUH2037,Class C,EXTERNAL ALARMS,NOT WORKING,Vertiv Rectifier Display have some Alarm,Ghaias Uddin Babar,MINOR,11/08/2025,12/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,
@@ -23635,11 +23635,11 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 48264,DXB,DXB1082,Class C,AIR CONDITIONING,INDOOR AC BLOWER MOTOR FAULTY,"AC-2 blower motor alignment needs to be checked , due to abnormal sound, (bard 3ton )",Naveen Chacko,MAJOR,09/08/2025,16/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,
 86221,DXB,DXB1082,Class C,AWL,AWL BULB FAULTY,"AWL BULB FOUND FAULTY,NEED TO REPLACED ,RIGGER ALREADY CLIMB 2 MONOPOLE",Jagdish Kumar Veer Chand,MINOR,10/01/2026,21/04/2026,Closed,CLOSED_UNIQUE,January-26,April-26,
 65829,DXB,DXB1082,Class C,BATTERY,AGED BATTERY,16 Narada batteries aged 12v 200ah 20-10-20,Muhammad Altaf Qureshi,MINOR,09/10/2025,07/11/2025,Closed,CLOSED_UNIQUE,October-25,November-25,
-124439,DXB,DXB1082,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDARY WALLS NEED TO REPAINT AND MAIN GATE BASE NEEDS REPAIR,Nitin Kumar Kanwar Pal Singh,MINOR,21/07/2026,,Open,KEEP_OPEN,July-26,,
-149004,DXB,DXB1082,Class C,CIVIL,BOUNDARY WALL PAINT WORK,"Boundary wall, Main gate base need repainting and repairing.reqd",Naveen Chacko,MINOR,13/10/2026,,Open,KEEP_OPEN,October-26,,
+124439,DXB,DXB1082,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDARY WALLS NEED TO REPAINT AND MAIN GATE BASE NEEDS REPAIR,Nitin Kumar Kanwar Pal Singh,MINOR,21/07/2026,17/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,Civil Team
+149004,DXB,DXB1082,Class C,CIVIL,BOUNDARY WALL PAINT WORK,"Boundary wall, Main gate base need repainting and repairing.reqd",Naveen Chacko,MINOR,13/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 17889,DXB,DXB1082,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,"Main Gate has full of stickers, need repainting",Suneesh Suresh,MINOR,08/03/2025,23/06/2025,Closed,CLOSED_UNIQUE,March-25,June-25,CW TEAM
 86222,DXB,DXB1082,Class C,CIVIL,SAFETY ROPE DAMAGED,MONOPOLE CLIMBING LADDER NEED TO ALIGNMENT,Jagdish Kumar Veer Chand,MINOR,10/01/2026,24/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,
-149007,DXB,DXB1082,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,"Shelter interior has minor rust, need to repainting reqd",Naveen Chacko,MINOR,13/10/2026,,Open,KEEP_OPEN,October-26,,
+149007,DXB,DXB1082,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,"Shelter interior has minor rust, need to repainting reqd",Naveen Chacko,MINOR,13/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 101710,DXB,DXB1082,Class C,EXTERNAL ALARMS,EXTERNAL ALARMS - OTHERS,temperature sensor install for room high temp alarm,Naveen Chacko,MINOR,21/04/2026,21/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naveen Chacko
 149008,DXB,DXB1082,Class C,EXTERNAL ALARMS,EXTERNAL ALARMS - OTHERS,AWL and main faill alarms found swapped. now working fine.,Naveen Chacko,MINOR,13/10/2026,13/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Naveen Chacko
 124438,DXB,DXB1082,Class C,EXTERNAL ALARMS,NOT WORKING,"RECT. MAINS FAIL ,BATT. DISC. ALARMS ARE NOT CONFIG.",Nitin Kumar Kanwar Pal Singh,MINOR,21/07/2026,13/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,
@@ -34603,15 +34603,15 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 40701,DXB,DXB3506,Class C,ACCESS,ACCESS - OTHERS,SITE ENTRANCE CONSTRUCTION WORK ON GOING,Mohandass Paulraj,MINOR,11/07/2025,15/01/2026,Closed,CLOSED_UNIQUE,July-25,January-26,
 148038,DXB,DXB3506,Class C,AWL,AWL - OTHERS,awl alarm not working  cable pair changed workinging fine,Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
 148039,DXB,DXB3506,Class C,BATTERY,TEMPERATURE SENSOR,T1 vertiv temprature sensor installed and configure,Muhammad Altaf Qureshi,MAJOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
-148021,DXB,DXB3506,Class C,CIVIL,BOUNDARY WALL DAMAGED,boundary wall need to repair and paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-130840,DXB,DXB3506,Class C,CIVIL,BOUNDARY WALL PAINT WORK,BOUNDARY WALLS NEEED TO REPAINT,Nitin Kumar Kanwar Pal Singh,MINOR,13/08/2026,,Open,KEEP_OPEN,August-26,,
+148021,DXB,DXB3506,Class C,CIVIL,BOUNDARY WALL DAMAGED,boundary wall need to repair and paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+130840,DXB,DXB3506,Class C,CIVIL,BOUNDARY WALL PAINT WORK,BOUNDARY WALLS NEEED TO REPAINT,Nitin Kumar Kanwar Pal Singh,MINOR,13/08/2026,17/10/2026,Closed,CLOSED_UNIQUE,August-26,October-26,Civil Team
 148019,DXB,DXB3506,Class C,CIVIL,CIVIL - OTHERS,4 drain hole make it open 8 need to open due to round level out site is high,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
 148035,DXB,DXB3506,Class C,CIVIL,CIVIL - OTHERS,front of main gate hole refilled with sand,Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
 148036,DXB,DXB3506,Class C,CIVIL,CIVIL - OTHERS,main power cable entrance hole refilled with gravel,Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
-148022,DXB,DXB3506,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",main gate hook alligment need to fix,Muhammad Altaf Qureshi,MAJOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148030,DXB,DXB3506,Class C,CIVIL,SAFETY ROPE DAMAGED,safety rope to be properly alignment,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148023,DXB,DXB3506,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,bts foundation need paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148024,DXB,DXB3506,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,tower foundation need to paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
+148022,DXB,DXB3506,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",main gate hook alligment need to fix,Muhammad Altaf Qureshi,MAJOR,10/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148030,DXB,DXB3506,Class C,CIVIL,SAFETY ROPE DAMAGED,safety rope to be properly alignment,Muhammad Altaf Qureshi,MINOR,10/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148023,DXB,DXB3506,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,bts foundation need paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148024,DXB,DXB3506,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,tower foundation need to paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,17/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 86990,DXB,DXB3506,Class C,DC SYSTEM,RECTIFIER MODULE FAULTY,"VERTIV PS IN 1 NOS RECTIFIER MODULE FOUND NOT WORKING DUE TO FAULTY,DURING PM REMOVED",Jagdish Kumar Veer Chand,MINOR,14/01/2026,14/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Jagdish Kumar Veer Chand
 148040,DXB,DXB3506,Class C,EXTERNAL ALARMS,EXTERNAL ALARMS - OTHERS,Tag found wrong on vertiv alarms fixed,Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
 130841,DXB,DXB3506,Class C,EXTERNAL ALARMS,NOT WORKING,DU LEADING SITE AND MAIN GATE OPEN AARM DID NOT CONFIG,Nitin Kumar Kanwar Pal Singh,MINOR,13/08/2026,10/10/2026,Closed,CLOSED_UNIQUE,August-26,October-26,
