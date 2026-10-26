@@ -9101,7 +9101,7 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 117562,AUH,AUG4448,Class C,AIR CONDITIONING,AC GAS REFILLING,Cool line 3ton both ACU-2 HP LP ( low pressure switch ) found bypass/disconnected,Girish Dongra Kotharkar,MINOR,29/06/2026,25/08/2026,Closed,CLOSED_UNIQUE,June-26,August-26,
 23914,AUH,AUG4448,Class C,CIVIL,BOUNDARY WALL DAMAGED,Fance rusty,Raja Gurusamy,MINOR,19/04/2025,17/10/2025,Closed,CLOSED_UNIQUE,April-25,October-25,
 23912,AUH,AUG4448,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Fance foundation Minor damage,Raja Gurusamy,MINOR,19/04/2025,17/10/2025,Closed,CLOSED_UNIQUE,April-25,October-25,
-117563,AUH,AUG4448,Class C,CIVIL,SHELTER PADLOCK HOOK IS CUT,Shelter door lock clasp is broken ,Girish Dongra Kotharkar,MAJOR,29/06/2026,,Open,KEEP_OPEN,June-26,,
+117563,AUH,AUG4448,Class C,CIVIL,SHELTER PADLOCK HOOK IS CUT,Shelter door lock clasp is broken ,Girish Dongra Kotharkar,MAJOR,29/06/2026,24/10/2026,Closed,CLOSED_UNIQUE,June-26,October-26,Civil Team
 68148,AUH,AUG4448,Class C,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,Gent FACP Battery faulty (required - 12V 2.3AH 2PC  (not replace due to out of stock in wh),Girish Dongra Kotharkar,MINOR,17/10/2025,16/05/2026,Closed,CLOSED_UNIQUE,October-25,May-26,
 68149,AUH,AUG4448,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE Safety Seal damaged (Replaced),Girish Dongra Kotharkar,MINOR,17/10/2025,17/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Girish Dongra Kotharkar
 117561,AUH,AUG4448,Class C,OTHERS,PLANTATION,Lots of small tree back side of sheter near ACU in an inside of the site ,Girish Dongra Kotharkar,MINOR,29/06/2026,,Open,KEEP_OPEN,June-26,,
@@ -13005,10 +13005,10 @@ Note- Nokia 2G and S-Ran Nokia FSMF (System Module) is working on site.",Girish 
 46939,AUH,AUH2376,Class A,TI,TI - OTHERS,3 RTN Fan Clane and 2-MSS8,Ghaias Uddin Babar,MINOR,05/08/2025,05/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Ghaias Uddin Babar
 63981,AUH,AUH2376,Class A,TI,TI - OTHERS,3 RTN Fan Clane and 2-MSS8,Ghaias Uddin Babar,MINOR,01/10/2025,01/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Ghaias Uddin Babar
 129198,AUH,AUH2376,Class A,TI,TI - OTHERS,weather proffing check,Ghaias Uddin Babar,MINOR,07/08/2026,07/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Ghaias Uddin Babar
-132955,AUH,AUH2377,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,"shelter foundation,gantry post foundation damaged and paint peeling",Mohsinuddin Mohammad,MINOR,19/08/2026,,Open,KEEP_OPEN,August-26,,
-82431,AUH,AUH2377,Class C,CIVIL,SHELTER ROOF REPAIR,Shelter out side roof rusted and joints open,Girish Dongra Kotharkar,MINOR,16/12/2025,,Open,KEEP_OPEN,December-25,,
-132953,AUH,AUH2377,Class C,CIVIL,SHELTER ROOF WATERPROOFING,"shelter rusty,damaged and water lekage marks inside",Mohsinuddin Mohammad,MINOR,19/08/2026,,Open,KEEP_OPEN,August-26,,
-132954,AUH,AUH2377,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,shleter step epoxy paint peeling off,Mohsinuddin Mohammad,MINOR,19/08/2026,,Open,KEEP_OPEN,August-26,,
+132955,AUH,AUH2377,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,"shelter foundation,gantry post foundation damaged and paint peeling",Mohsinuddin Mohammad,MINOR,19/08/2026,24/10/2026,Closed,CLOSED_UNIQUE,August-26,October-26,Civil Team
+82431,AUH,AUH2377,Class C,CIVIL,SHELTER ROOF REPAIR,Shelter out side roof rusted and joints open,Girish Dongra Kotharkar,MINOR,16/12/2025,24/10/2026,Closed,CLOSED_UNIQUE,December-25,October-26,Civil Team
+132953,AUH,AUH2377,Class C,CIVIL,SHELTER ROOF WATERPROOFING,"shelter rusty,damaged and water lekage marks inside",Mohsinuddin Mohammad,MINOR,19/08/2026,24/10/2026,Closed,CLOSED_UNIQUE,August-26,October-26,Civil Team
+132954,AUH,AUH2377,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,shleter step epoxy paint peeling off,Mohsinuddin Mohammad,MINOR,19/08/2026,24/10/2026,Closed,CLOSED_UNIQUE,August-26,October-26,Civil Team
 38553,AUH,AUH2377,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE Sticker used,Raja Gurusamy,MINOR,04/07/2025,04/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Raja Gurusamy
 38554,AUH,AUH2377,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE Seal used,Raja Gurusamy,MINOR,04/07/2025,04/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Raja Gurusamy
 38565,AUH,AUH2377,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,Somke spary used,Raja Gurusamy,MINOR,04/07/2025,04/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Raja Gurusamy
@@ -34642,14 +34642,14 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 24935,DXB,DXB3366,Class C,SHELTER,SITE ID DAMAGED,SITE ID REPLACED @ MAIN GATE,Jagdish Kamboj,MINOR,26/04/2025,26/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,JAGDISH KAMBOJ
 148008,DXB,DXB3369,Class C,AWL,AWL CABLING DAMAGED,awl alarm cable not working need to replace and need under ground cruntly lay on gravel,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
 148018,DXB,DXB3369,Class C,BATTERY,TEMPERATURE SENSOR,T1 vertiv temprature sensor installed and configure,Muhammad Altaf Qureshi,MAJOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
-148003,DXB,DXB3369,Class C,CIVIL,BOUNDARY WALL PAINT WORK,boundary wall need to repair and paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148001,DXB,DXB3369,Class C,CIVIL,CIVIL - OTHERS,drain hole on boundary wall to b clear after gravel fxing,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
+148003,DXB,DXB3369,Class C,CIVIL,BOUNDARY WALL PAINT WORK,boundary wall need to repair and paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148001,DXB,DXB3369,Class C,CIVIL,CIVIL - OTHERS,drain hole on boundary wall to b clear after gravel fxing,Muhammad Altaf Qureshi,MINOR,10/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 148010,DXB,DXB3369,Class C,CIVIL,CIVIL - OTHERS,Main gate cable under gound fixed,Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
 148011,DXB,DXB3369,Class C,CIVIL,CIVIL - OTHERS,main gate alarm found looop fixed,Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
-148000,DXB,DXB3369,Class C,CIVIL,GROUND LEVELING,gravel required in yard,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148005,DXB,DXB3369,Class C,CIVIL,MAIN GATE FOUNDATION AND STOPPER NEED REPAIRING,main gate foundation need paint work,Muhammad Altaf Qureshi,MAJOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148002,DXB,DXB3369,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,bts foundation need paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
-148004,DXB,DXB3369,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,tower foundation need to paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,,Open,KEEP_OPEN,October-26,,
+148000,DXB,DXB3369,Class C,CIVIL,GROUND LEVELING,gravel required in yard,Muhammad Altaf Qureshi,MINOR,10/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148005,DXB,DXB3369,Class C,CIVIL,MAIN GATE FOUNDATION AND STOPPER NEED REPAIRING,main gate foundation need paint work,Muhammad Altaf Qureshi,MAJOR,10/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148002,DXB,DXB3369,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,bts foundation need paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
+148004,DXB,DXB3369,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,tower foundation need to paint work,Muhammad Altaf Qureshi,MINOR,10/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Civil Team
 148013,DXB,DXB3369,Class C,DC SYSTEM,DC SYSTEM - OTHERS,"both recifier, main fiber cable pipe holes refilles",Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
 148014,DXB,DXB3369,Class C,MDB,MDB - OTHERS,"rectifier, mdb, main breaker db, power meter cabinet  new sticker tag installed",Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
 148015,DXB,DXB3369,Class C,MDB,MDB - OTHERS,"mdb, breaker cabinet, power meter hazard sticker installed",Muhammad Altaf Qureshi,MINOR,10/10/2026,10/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Muhammad Altaf Qureshi
