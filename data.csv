@@ -8969,11 +8969,11 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 125581,AUH,AUG4279,Class C,TI,TI - OTHERS,weather proofing Check,Ghaias Uddin Babar,MINOR,25/07/2026,25/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Ghaias Uddin Babar
 44392,AUH,AUG4317,Class C,AIR CONDITIONING,AC LEAKAGE,Bard 3ton ACU-1 found gas low 50Psi and ACU-2 found gas low 55Psi (R22 10psi/15psi Refilling ),Girish Dongra Kotharkar,MAJOR,25/07/2025,25/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Girish Dongra Kotharkar
 138010,AUH,AUG4317,Class C,AIR CONDITIONING,OUTDOOR AC CONDENSER MOTOR FAULTY,A/C 1&2 condensor coil pressed and damaged,Mohsinuddin Mohammad,MAJOR,08/09/2026,17/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,
-138009,AUH,AUG4317,Class C,CIVIL,BOUNDARY WALL DAMAGED,Fence foundation damaged and paint peeling,Mohsinuddin Mohammad,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
+138009,AUH,AUG4317,Class C,CIVIL,BOUNDARY WALL DAMAGED,Fence foundation damaged and paint peeling,Mohsinuddin Mohammad,MINOR,08/09/2026,31/10/2026,Closed,CLOSED_UNIQUE,September-26,October-26,Civil Team
 44390,AUH,AUG4317,Class C,CIVIL,CIVIL - OTHERS,Structure/shelter and equipments foundation base has major cracks/damaged,Girish Dongra Kotharkar,MINOR,25/07/2025,31/01/2026,Closed,CLOSED_UNIQUE,July-25,January-26,
 13926,AUH,AUG4317,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,shelter foundation cracks and paint peeling,Mohsinuddin Mohammad,MINOR,06/02/2025,31/01/2026,Closed,CLOSED_UNIQUE,February-25,January-26,
 13928,AUH,AUG4317,Class C,CIVIL,SHELTER ROOF REPAIR,shelter has water lekage marks,Mohsinuddin Mohammad,MINOR,06/02/2025,27/09/2025,Closed,CLOSED_UNIQUE,February-25,September-25,
-138006,AUH,AUG4317,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,shelter foundation damaged and paint peeling off,Mohsinuddin Mohammad,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
+138006,AUH,AUG4317,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,shelter foundation damaged and paint peeling off,Mohsinuddin Mohammad,MINOR,08/09/2026,31/10/2026,Closed,CLOSED_UNIQUE,September-26,October-26,Civil Team
 138008,AUH,AUG4317,Class C,OTHERS,PLANTATION,Grass on site(removed),Mohsinuddin Mohammad,MINOR,08/09/2026,08/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Mohsinuddin Mohammad
 90848,AUH,AUG4317,Class C,SHELTER,DOOR SENSOR FAULTY,Light comes inside from shelter door due to rubber gasket door sealing strip major damaged,Girish Dongra Kotharkar,MINOR,31/01/2026,08/09/2026,Closed,CLOSED_UNIQUE,January-26,September-26,
 90849,AUH,AUG4317,Class C,SHELTER,SITE ID DAMAGED,Site ID Tag is damaged  (Replaced),Girish Dongra Kotharkar,MINOR,31/01/2026,31/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Girish Dongra Kotharkar
@@ -32477,9 +32477,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 131033,DXB,DXB2874,Class C,SHELTER,SHELTER - OTHERS,Cable entery closed,Naveen Chacko,MINOR,12/08/2026,12/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Naveen Chacko
 78611,DXB,DXB2877,Class C,AIR CONDITIONING,AC GAS REFILLING,Gas was refilled in AC-2,Naveen Chacko,MINOR,29/11/2025,29/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Naveen Chacko
 120965,DXB,DXB2877,Class C,AIR CONDITIONING,INDOOR AC BLOWER MOTOR FAULTY,BOTH AC BLOWER MOTOR HAVE BARING PLAY,Vishnumon Thyagarajan,MAJOR,09/07/2026,15/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,
-120962,DXB,DXB2877,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDARY WALL NEED REPAINTING,Vishnumon Thyagarajan,MINOR,09/07/2026,,Open,KEEP_OPEN,July-26,,
+120962,DXB,DXB2877,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDARY WALL NEED REPAINTING,Vishnumon Thyagarajan,MINOR,09/07/2026,31/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,Civil Team
 78600,DXB,DXB2877,Class C,CIVIL,BOUNDARY WALL PAINT WORK,boundary wall needs to be repaired and repainting is reqd,Naveen Chacko,MINOR,29/11/2025,09/07/2026,Closed,CLOSED_UNIQUE,November-25,July-26,
-120968,DXB,DXB2877,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",MAIN GATE ALLIGNMENT NEED TO FIX,Vishnumon Thyagarajan,MAJOR,09/07/2026,,Open,KEEP_OPEN,July-26,,
+120968,DXB,DXB2877,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",MAIN GATE ALLIGNMENT NEED TO FIX,Vishnumon Thyagarajan,MAJOR,09/07/2026,31/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,Civil Team
 120969,DXB,DXB2877,Class C,OTHERS,GARBAGE,GARBAGE REMOVED  AND KEPT THE CORNER OF BOUNDARY AS THERE IS NO GARBAGE BIN NEARBY,Vishnumon Thyagarajan,MINOR,09/07/2026,,Open,KEEP_OPEN,July-26,,
 29591,DXB,DXB2877,Class C,OTHERS,OTHERS,2 NOS RTN FAN & SAR-X FILTER HAS CLEANED,Jagdish Kumar Veer Chand,MINOR,24/05/2025,24/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Jagdish Kumar Veer Chand
 120963,DXB,DXB2877,Class C,OTHERS,PLANTATION,PLANTS AND GARBAGES REMOVED,Vishnumon Thyagarajan,MINOR,09/07/2026,09/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Vishnumon Thyagarajan
