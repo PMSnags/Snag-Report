@@ -1431,13 +1431,13 @@
 21148,AUH,AAN2073,Class C,TI,TI - OTHERS,GSM Antenna weatherproffing done and Microwave ODU weatherproffing checked done,Girish Dongra Kotharkar,MINOR,29/03/2025,29/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Girish Dongra Kotharkar
 43061,AUH,AAN2074,Class C,AIR CONDITIONING,AC RELAY FAULTY,AC unit 1 Timer Faulty/replace,Asmatullah Tahir Muhammad,MINOR,21/07/2025,21/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Asmatullah Tahir Muhammad
 43065,AUH,AAN2074,Class C,CIVIL,BOUNDARY WALL DAMAGED,Minor cracks on boundary wall plaster,Asmatullah Tahir Muhammad,MINOR,21/07/2025,18/10/2025,Closed,CLOSED_UNIQUE,July-25,October-25,
-137943,AUH,AAN2074,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall has epoxy  paint  peeling off .,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
-137951,AUH,AAN2074,Class C,CIVIL,CIVIL - OTHERS,Monopole Anchor bolt  caps missing.,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
-137952,AUH,AAN2074,Class C,CIVIL,CIVIL - OTHERS,Monopole ladder safety stopper is missing,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
-137946,AUH,AAN2074,Class C,CIVIL,GUIDE WIRE DAMAGED,Barbared wire has broken,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
-137949,AUH,AAN2074,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate paint faded  .,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
+137943,AUH,AAN2074,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall has epoxy  paint  peeling off .,Kanwaljit Singh,MINOR,08/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
+137951,AUH,AAN2074,Class C,CIVIL,CIVIL - OTHERS,Monopole Anchor bolt  caps missing.,Kanwaljit Singh,MINOR,08/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
+137952,AUH,AAN2074,Class C,CIVIL,CIVIL - OTHERS,Monopole ladder safety stopper is missing,Kanwaljit Singh,MINOR,08/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
+137946,AUH,AAN2074,Class C,CIVIL,GUIDE WIRE DAMAGED,Barbared wire has broken,Kanwaljit Singh,MINOR,08/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
+137949,AUH,AAN2074,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main gate paint faded  .,Kanwaljit Singh,MINOR,08/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
 43067,AUH,AAN2074,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter steps have cracks,Asmatullah Tahir Muhammad,MINOR,21/07/2025,18/10/2025,Closed,CLOSED_UNIQUE,July-25,October-25,
-137948,AUH,AAN2074,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Monopole structure foundation has epoxy paint peeling off           ,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
+137948,AUH,AAN2074,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Monopole structure foundation has epoxy paint peeling off           ,Kanwaljit Singh,MINOR,08/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
 137953,AUH,AAN2074,Class C,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,FACP Battery faulty replaced (New installed- 12V 2.2AH),Kanwaljit Singh,MINOR,08/09/2026,08/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Kanwaljit Singh
 137950,AUH,AAN2074,Class C,OTHERS,PLANTATION,Grass on site (Removed),Kanwaljit Singh,MINOR,08/09/2026,08/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Kanwaljit Singh
 137947,AUH,AAN2074,Class C,POWER METER,POWER METER CABINET DAMAGED,Power meter door broken.Power meter cable found damaged.,Kanwaljit Singh,MINOR,08/09/2026,,Open,KEEP_OPEN,September-26,,
@@ -2287,8 +2287,8 @@
 56243,AUH,AAN2295,Class A,CIVIL,CIVIL - OTHERS,Monopole Tower anchor bolts cove missing,Asmatullah Tahir Muhammad,MINOR,08/09/2025,08/11/2025,Closed,CLOSED_UNIQUE,September-25,November-25,
 153622,AUH,AAN2295,Class A,CIVIL,GUIDE WIRE DAMAGED, Barbed wire Damage  ,Asmatullah Tahir Muhammad,MINOR,05/11/2026,,Open,KEEP_OPEN,November-26,,
 153617,AUH,AAN2295,Class A,CIVIL,MAIN GATE FOUNDATION AND STOPPER NEED REPAIRING,Mian gate stoper Damage  & Need to Instill  1 step for Main Gate ,Asmatullah Tahir Muhammad,MAJOR,05/11/2026,,Open,KEEP_OPEN,November-26,,
-153624,AUH,AAN2295,Class A,CIVIL,SHELTER ROOF REPAIR,Shelter roof Damage Water Leakage Line found inside on wall,Asmatullah Tahir Muhammad,MAJOR,05/11/2026,,Open,KEEP_OPEN,November-26,,
-138666,AUH,AAN2295,Class A,CIVIL,SHELTER ROOF WATERPROOFING,Shelter roof Damage Water Leakage Line found inside on wall,Asmatullah Tahir Muhammad,MAJOR,11/09/2026,,Open,KEEP_OPEN,September-26,,
+153624,AUH,AAN2295,Class A,CIVIL,SHELTER ROOF REPAIR,Shelter roof Damage Water Leakage Line found inside on wall,Asmatullah Tahir Muhammad,MAJOR,05/11/2026,13/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Civil Team
+138666,AUH,AAN2295,Class A,CIVIL,SHELTER ROOF WATERPROOFING,Shelter roof Damage Water Leakage Line found inside on wall,Asmatullah Tahir Muhammad,MAJOR,11/09/2026,13/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
 15246,AUH,AAN2295,Class A,CIVIL,SHELTER STEP NEEDS REPAIRING,Minor damages on shelter steps,Asmatullah Tahir Muhammad,MINOR,17/02/2025,06/05/2025,Closed,CLOSED_UNIQUE,February-25,May-25,CW TEAM
 153618,AUH,AAN2295,Class A,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Minor cracks on structure foundation plaster,Asmatullah Tahir Muhammad,MINOR,05/11/2026,,Open,KEEP_OPEN,November-26,,
 15249,AUH,AAN2295,Class A,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,Fire system Have Power Faulty but alarm is reporting,Asmatullah Tahir Muhammad,MAJOR,17/02/2025,19/03/2025,Closed,CLOSED_UNIQUE,February-25,March-25,SRT Team
@@ -2757,15 +2757,15 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 40602,AUH,AAN2339,Class C,AIR CONDITIONING,AC GAS REFILLING,Ac 2 Gas Refilling,Asmatullah Tahir Muhammad,MINOR,11/07/2025,11/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Asmatullah Tahir Muhammad
 80467,AUH,AAN2339,Class C,AIR CONDITIONING,AC LEAKAGE,Ac unit2  gas Leakage 0psi,Asmatullah Tahir Muhammad,MAJOR,10/12/2025,17/01/2026,Closed,CLOSED_UNIQUE,December-25,January-26,
 122850,AUH,AAN2339,Class C,AWL,AWL BULB FAULTY,Stand By Lamps Faulty /replace ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,16/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Asmatullah Tahir Muhammad
-122854,AUH,AAN2339,Class C,CIVIL,BOUNDARY WALL DAMAGED,Boundery wall Need to plaster outside Down areas of gravel leavels ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
-122856,AUH,AAN2339,Class C,CIVIL,CIVIL - OTHERS,Monopole Tower anchor bolts cove broken,Asmatullah Tahir Muhammad,MINOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
+122854,AUH,AAN2339,Class C,CIVIL,BOUNDARY WALL DAMAGED,Boundery wall Need to plaster outside Down areas of gravel leavels ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,12/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
 122858,AUH,AAN2339,Class C,CIVIL,CIVIL - OTHERS,Monopole Pltafrom door cover missing ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
 40603,AUH,AAN2339,Class C,CIVIL,CIVIL - OTHERS,Monopole Tower anchor bolts cove broken,Asmatullah Tahir Muhammad,MINOR,11/07/2025,10/12/2025,Closed,CLOSED_UNIQUE,July-25,December-25,
 40605,AUH,AAN2339,Class C,CIVIL,CIVIL - OTHERS,Monopole Pltafrom door cover missing,Asmatullah Tahir Muhammad,MINOR,11/07/2025,10/12/2025,Closed,CLOSED_UNIQUE,July-25,December-25,
+122856,AUH,AAN2339,Class C,CIVIL,CIVIL - OTHERS,Monopole Tower anchor bolts cove broken,Asmatullah Tahir Muhammad,MINOR,16/07/2026,12/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
 122852,AUH,AAN2339,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",Main Gate Alarm cables Conduit Pipe Damage ,Asmatullah Tahir Muhammad,MAJOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
-122855,AUH,AAN2339,Class C,CIVIL,SHELTER ROOF REPAIR,Shelter Roof Raining Water Staying In roof ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
-122853,AUH,AAN2339,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter step Need to Be Paints ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
-122857,AUH,AAN2339,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED, Monople Structure foundationds pain feeling off ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,,Open,KEEP_OPEN,July-26,,
+122855,AUH,AAN2339,Class C,CIVIL,SHELTER ROOF REPAIR,Shelter Roof Raining Water Staying In roof ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,12/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
+122853,AUH,AAN2339,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter step Need to Be Paints ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,12/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
+122857,AUH,AAN2339,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED, Monople Structure foundationds pain feeling off ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,12/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
 40600,AUH,AAN2339,Class C,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,FACP cell Faulty /replace,Asmatullah Tahir Muhammad,MINOR,11/07/2025,11/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Asmatullah Tahir Muhammad
 40598,AUH,AAN2339,Class C,OTHERS,GARBAGE,Remove Garbage under Shelter,Asmatullah Tahir Muhammad,MINOR,11/07/2025,11/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Asmatullah Tahir Muhammad
 122851,AUH,AAN2339,Class C,OTHERS,PLANTATION,Remove Grass ,Asmatullah Tahir Muhammad,MINOR,16/07/2026,16/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Asmatullah Tahir Muhammad
@@ -26772,7 +26772,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 44210,DXB,DXB1568,Class C,AIR CONDITIONING,AC LEAKAGE,AC1 was found a leakage,Naveen Chacko,MAJOR,24/07/2025,31/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,SRT Team
 131663,DXB,DXB1568,Class C,AWL,AWL BULB FAULTY,BOTH AWL BULBS FAULTY / NO RIGGER IN THE TEAM TODAY,Nitin Kumar Kanwar Pal Singh,MINOR,15/08/2026,09/09/2026,Closed,CLOSED_UNIQUE,August-26,September-26,
 103126,DXB,DXB1568,Class C,CIVIL,BOUNDARY WALL PAINT WORK,boundary wall need to repainting reqd,Naveen Chacko,MINOR,28/04/2026,,Open,KEEP_OPEN,April-26,,
-103131,DXB,DXB1568,Class C,CIVIL,SHELTER ROOF REPAIR,water leakage was found inside the shelter. Roof needs to be repaired.,Naveen Chacko,MINOR,28/04/2026,,Open,KEEP_OPEN,April-26,,
+103131,DXB,DXB1568,Class C,CIVIL,SHELTER ROOF REPAIR,water leakage was found inside the shelter. Roof needs to be repaired.,Naveen Chacko,MINOR,28/04/2026,12/11/2026,Closed,CLOSED_UNIQUE,April-26,November-26,Civil Team
 103129,DXB,DXB1568,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,tower foundation needs  repainting reqd,Naveen Chacko,MINOR,28/04/2026,,Open,KEEP_OPEN,April-26,,
 103134,DXB,DXB1568,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE Sticker placed,Naveen Chacko,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naveen Chacko
 103132,DXB,DXB1568,Class C,OTHERS,PLANTATION,plants and garbagges around the site ( cleared ),Naveen Chacko,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naveen Chacko
@@ -28912,7 +28912,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 150013,DXB,DXB1889,Class A,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",main gate alligment issue right side not open,Muhammad Altaf Qureshi,MAJOR,17/10/2026,,Open,KEEP_OPEN,October-26,,
 101997,DXB,DXB1889,Class A,CIVIL,SAFETY ROPE DAMAGED,SHELTER ROOF FOUND RUSTED (INSIDE & OUTSIDE),Sachin George Varghese,MINOR,23/04/2026,26/06/2026,Closed,CLOSED_UNIQUE,April-26,June-26,
 150015,DXB,DXB1889,Class A,CIVIL,SHELTER PADLOCK HOOK IS CUT,shelter door allignment need to fix,Muhammad Altaf Qureshi,MAJOR,17/10/2026,,Open,KEEP_OPEN,October-26,,
-135492,DXB,DXB1889,Class A,CIVIL,SHELTER ROOF REPAIR,"SHELTER FOUND RUSTY, NEED TO REPAIR",Jagdish Kumar Veer Chand,MAJOR,29/08/2026,,Open,KEEP_OPEN,August-26,,
+135492,DXB,DXB1889,Class A,CIVIL,SHELTER ROOF REPAIR,"SHELTER FOUND RUSTY, NEED TO REPAIR",Jagdish Kumar Veer Chand,MAJOR,29/08/2026,12/11/2026,Closed,CLOSED_UNIQUE,August-26,November-26,Civil Team
 62062,DXB,DXB1889,Class A,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,"TOWER FOUNDATION , MONOPOLE BASE ,SHELTER BASE NEED REPAIR AND REPAINT",Nitin Kumar Kanwar Pal Singh,MINOR,25/09/2025,25/11/2025,Closed,CLOSED_UNIQUE,September-25,November-25,
 135496,DXB,DXB1889,Class A,EXTERNAL ALARMS,NOT WORKING,"BATTERY LOAD DISCONNECTED ALARM AND HIGH VOLTAGE ALARM DID NOT REPORTED DUE T UNCONFIGURED, NEED TO CONFIGURED BOTH ALARM AT SLOT NO. 18 PORT NO.2,3,4",Jagdish Kumar Veer Chand,CRITICAL,29/08/2026,25/09/2026,Closed,CLOSED_UNIQUE,August-26,September-26,
 62069,DXB,DXB1889,Class A,FIRE SYSTEMS,FIRE ALARM CONTROL PANEL FAULTY,SHIELD FIRE CONTROL PANEL NEED TO CHECK,Nitin Kumar Kanwar Pal Singh,CRITICAL,25/09/2025,30/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,
@@ -30112,7 +30112,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 80958,DXB,DXB2275,Class C,CIVIL,GROUND LEVELING,UNDER SHELTER AC PWR NEED TO UNDERGROUNDED,Jagdish Kumar Veer Chand,MINOR,05/12/2025,14/07/2026,Closed,CLOSED_UNIQUE,December-25,July-26,
 122226,DXB,DXB2275,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,SHELTER BASEMENT NEED REPAIR,Harish Mutyala,MINOR,14/07/2026,,Open,KEEP_OPEN,July-26,,
 80959,DXB,DXB2275,Class C,CIVIL,SHELTER ROOF REPAIR,SHELTER MINOR RUSTY,Jagdish Kumar Veer Chand,MINOR,05/12/2025,14/07/2026,Closed,CLOSED_UNIQUE,December-25,July-26,
-122232,DXB,DXB2275,Class C,CIVIL,SHELTER ROOF WATERPROOFING,SHELTER INSIDE WATER LEAKAGE MARKS FOUND,Harish Mutyala,MINOR,14/07/2026,,Open,KEEP_OPEN,July-26,,
+122232,DXB,DXB2275,Class C,CIVIL,SHELTER ROOF WATERPROOFING,SHELTER INSIDE WATER LEAKAGE MARKS FOUND,Harish Mutyala,MINOR,14/07/2026,12/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
 122224,DXB,DXB2275,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,MONOPOLE BASEMENT NEED REPAINT,Harish Mutyala,MINOR,14/07/2026,,Open,KEEP_OPEN,July-26,,
 122225,DXB,DXB2275,Class C,CIVIL,TOWER STRUCTURE PAINT IS EXFOLIATED,MONOPOLE TOWER NEED REPAINT,Harish Mutyala,MINOR,14/07/2026,,Open,KEEP_OPEN,July-26,,
 30599,DXB,DXB2275,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE STICKER REPLACED,Vishnumon Thyagarajan,MINOR,28/05/2025,28/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Vishnumon Thyagarajan
@@ -48244,13 +48244,13 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 143888,NE,UAQ2394,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,"AC POWER CABLE TRAY HOLES CLOSE AND SEAL ,TRAY COVER FIX PROPERLY",Hansaka Chathuranga,MINOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
 143899,NE,UAQ2394,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC COMPRESSOR RUSTED - CLEAN AND PAINT,Hansaka Chathuranga,MINOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
 143890,NE,UAQ2394,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMP SENSOR SHIFT AND PLACE IN CORRECT PLACE,Hansaka Chathuranga,MAJOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
-143907,NE,UAQ2394,Class C,CIVIL,CIVIL - OTHERS,"SHELTER DOOR RUSTED, DAMAGE ( MAJOR) - NEED TO REPAIR",Hansaka Chathuranga,MINOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
+143907,NE,UAQ2394,Class C,CIVIL,CIVIL - OTHERS,"SHELTER DOOR RUSTED, DAMAGE ( MAJOR) - NEED TO REPAIR",Hansaka Chathuranga,MINOR,26/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
 143914,NE,UAQ2394,Class C,CIVIL,CIVIL - OTHERS,COMPOUND AREA CABLES LAY UNDER GROUND,Hansaka Chathuranga,MINOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
-143917,NE,UAQ2394,Class C,CIVIL,MAIN GATE FOUNDATION AND STOPPER NEED REPAIRING,MAIN AGTE TRESHHOLD DAMAGE - NEED TO REPAIR,Hansaka Chathuranga,MAJOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
-143906,NE,UAQ2394,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,MAIN GATE NEED TO PAINT,Hansaka Chathuranga,MINOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
+143917,NE,UAQ2394,Class C,CIVIL,MAIN GATE FOUNDATION AND STOPPER NEED REPAIRING,MAIN AGTE TRESHHOLD DAMAGE - NEED TO REPAIR,Hansaka Chathuranga,MAJOR,26/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
+143906,NE,UAQ2394,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,MAIN GATE NEED TO PAINT,Hansaka Chathuranga,MINOR,26/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
 143903,NE,UAQ2394,Class C,CIVIL,SHELTER FLOOR NEEDS REPAIRING,SHELTER FLOOR DAMAGE,Hansaka Chathuranga,MINOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
-143904,NE,UAQ2394,Class C,CIVIL,SHELTER ROOF REPAIR,SHELTER EXTERIOR WALL RUSTED NEED TO REPAIR ( MAJOR,Hansaka Chathuranga,MINOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
-143905,NE,UAQ2394,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,"SHELTER INTERIOR WALL RUSTED, DAMGE, WATER LEAK MARK, - NEED TO REPAIR",Hansaka Chathuranga,MINOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
+143904,NE,UAQ2394,Class C,CIVIL,SHELTER ROOF REPAIR,SHELTER EXTERIOR WALL RUSTED NEED TO REPAIR ( MAJOR,Hansaka Chathuranga,MINOR,26/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
+143905,NE,UAQ2394,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,"SHELTER INTERIOR WALL RUSTED, DAMGE, WATER LEAK MARK, - NEED TO REPAIR",Hansaka Chathuranga,MINOR,26/09/2026,12/11/2026,Closed,CLOSED_UNIQUE,September-26,November-26,Civil Team
 143918,NE,UAQ2394,Class C,CIVIL,TOWER STRUCTURE PAINT IS EXFOLIATED,TOWER PAINT DAMAGE - ( MINOR),Hansaka Chathuranga,MINOR,26/09/2026,,Open,KEEP_OPEN,September-26,,
 143889,NE,UAQ2394,Class C,DC SYSTEM,DC SYSTEM - OTHERS,DC SYSTEM PARAMETERS SET,Hansaka Chathuranga,MINOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
 143901,NE,UAQ2394,Class C,DC SYSTEM,DC SYSTEM - OTHERS,LOOSE BATTERY TERMINALS TIGHT PROPERLY,Hansaka Chathuranga,MINOR,26/09/2026,26/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
