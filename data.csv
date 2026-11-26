@@ -83,6 +83,8 @@
 21039,AUH,AAN0077,Class C,SHELTER,SITE ID DAMAGED,DU site ID sticker missing,Mohsinuddin Mohammad,MINOR,28/03/2025,28/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Mohsinuddin Mohammad
 39031,AUH,AAN0097,Class C,TI,TI - OTHERS,Equipment miner dusty. clean it,Kanwaljit Singh,MINOR,07/07/2025,07/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Kanwaljit Singh
 39030,AUH,AAN0098,Class C,TI,TI - OTHERS,Equipment miner dusty. clean it,Kanwaljit Singh,MINOR,07/07/2025,07/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Kanwaljit Singh
+41347,AUH,AAN0105,Class C,BATTERY,TEMPERATURE SENSOR,Battery sensor cable not installed,Kanwaljit Singh,MAJOR,14/07/2025,02/01/2026,Closed,CLOSED_UNIQUE,July-25,January-26,
+41349,AUH,AAN0105,Class C,SHELTER,SITE ID DAMAGED,Du Sticker damaged (Replaced),Kanwaljit Singh,MINOR,14/07/2025,14/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Kanwaljeet Singh
 124236,AUH,AAN0107,Class C,BATTERY,TEMPERATURE SENSOR,Temperature sesnor cable missing ,Asmatullah Tahir Muhammad,MAJOR,21/07/2026,,Open,KEEP_OPEN,July-26,,
 157895,AUH,AAN0111,Class C,BATTERY,TEMPERATURE SENSOR,Temperature sensor   Cables Are Missing /fixed ,Asmatullah Tahir Muhammad,MAJOR,24/11/2026,24/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
 70778,AUH,AAN0111,Class C,CIVIL,SAFETY ROPE DAMAGED,cable ladder net Came out from wall need to Fixed,Asmatullah Tahir Muhammad,MINOR,29/10/2025,,Open,KEEP_OPEN,October-25,,
@@ -1984,21 +1986,27 @@
 138979,AUH,AAN2260,Class C,SHELTER,SITE ID DAMAGED,Du Site id faded  (Replaced) Main Gate  Door,Kanwaljit Singh,MINOR,10/09/2026,10/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Kanwaljit Singh
 47387,AUH,AAN2260,Class C,TI,TI - OTHERS,GSM Antenna and Microwave ODU weatherproffing checked.,Kanwaljit Singh,MINOR,06/08/2025,06/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Kanwaljeet Singh
 78416,AUH,AAN2261,Class C,AIR CONDITIONING,AC CAPACITOR FAULTY,AC unit Capacitor faulty /replace,Asmatullah Tahir Muhammad,MINOR,27/11/2025,27/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Asmatullah Tahir Muhammad
+158175,AUH,AAN2261,Class C,AIR CONDITIONING,AC CONTACTOR FAULTY,Ac unit 1 3 pole 24v  Contactor faulty /Replace ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
 36123,AUH,AAN2261,Class C,AIR CONDITIONING,OUTDOOR AC CONDENSER MOTOR FAULTY,Ac2 condenser fan motor faulty,Kanwaljit Singh,MAJOR,23/06/2025,29/11/2025,Closed,CLOSED_UNIQUE,June-25,November-25,
 36121,AUH,AAN2261,Class C,CIVIL,BOUNDARY WALL DAMAGED,Minor cracks on boundary wall plaster & Main gate Pillar damage,Kanwaljit Singh,MINOR,23/06/2025,29/11/2025,Closed,CLOSED_UNIQUE,June-25,November-25,
-117866,AUH,AAN2261,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Minor cracks on boundary wall plaster & Main Gate Pillar Damage ,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
+158182,AUH,AAN2261,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Minor cracks on boundary wall plasterDamage ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 117863,AUH,AAN2261,Class C,CIVIL,CIVIL - OTHERS,No grease and caps on tower anchor bolts,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
 117867,AUH,AAN2261,Class C,CIVIL,CIVIL - OTHERS,Tower platfrom cover/door is missing,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
 117872,AUH,AAN2261,Class C,CIVIL,CIVIL - OTHERS,Monpolle rail safety stopper missing ,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
-117871,AUH,AAN2261,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main Gate & Main Gate Foundationds Need to be Paints ,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
-78428,AUH,AAN2261,Class C,CIVIL,SAFETY ROPE DAMAGED,Monpolle rail safety stopper missing,Asmatullah Tahir Muhammad,MINOR,27/11/2025,30/06/2026,Closed,CLOSED_UNIQUE,November-25,June-26,
-117862,AUH,AAN2261,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,"Shelter concrete steps have minor cracks, damage and paint peeling off",Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
-117864,AUH,AAN2261,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Minor cracks on structure foundation plaster,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
-117865,AUH,AAN2261,Class C,CIVIL,TOWER STRUCTURE PAINT IS EXFOLIATED,Monopole Need to Be Paint ,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
+158179,AUH,AAN2261,Class C,CIVIL,CIVIL - OTHERS,No grease and caps on tower anchor bolts,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158184,AUH,AAN2261,Class C,CIVIL,CIVIL - OTHERS,Tower platfrom cover/door is missing,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158183,AUH,AAN2261,Class C,CIVIL,MAIN GATE FOUNDATION AND STOPPER NEED REPAIRING,Main Gate Pillar Damage ,Asmatullah Tahir Muhammad,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158188,AUH,AAN2261,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,Main Gate Paint Damage,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158189,AUH,AAN2261,Class C,CIVIL,SAFETY ROPE DAMAGED,Monpole  rail safety stopper missing ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158178,AUH,AAN2261,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,"Shelter concrete steps have minor cracks, damage and paint peeling off",Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158180,AUH,AAN2261,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Minor cracks on structure foundation plaster,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158181,AUH,AAN2261,Class C,CIVIL,TOWER STRUCTURE PAINT IS EXFOLIATED,Monopole Need to Be Paint ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158174,AUH,AAN2261,Class C,OTHERS,OTHERS,Remove Grass ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
 117860,AUH,AAN2261,Class C,OTHERS,PLANTATION,Remove Plants Tree ,Asmatullah Tahir Muhammad,MINOR,30/06/2026,30/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Asmatullah Tahir Muhammad
-117870,AUH,AAN2261,Class C,POWER METER,POWER METER CABLES ARE DAMANGED,Power Meter Cables Sleeve Damage,Asmatullah Tahir Muhammad,MINOR,30/06/2026,,Open,KEEP_OPEN,June-26,,
+158187,AUH,AAN2261,Class C,POWER METER,POWER METER CABINET DAMAGED,Power Meter Cables Sleeve Damage,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+117870,AUH,AAN2261,Class C,POWER METER,POWER METER CABLES ARE DAMANGED,Power Meter Cables Sleeve Damage,Asmatullah Tahir Muhammad,MINOR,30/06/2026,25/11/2026,Closed,CLOSED_UNIQUE,June-26,November-26,
 78426,AUH,AAN2261,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter External Light Faulty,Asmatullah Tahir Muhammad,MINOR,27/11/2025,07/02/2026,Closed,CLOSED_UNIQUE,November-25,February-26,
-78415,AUH,AAN2261,Class C,SHELTER,SITE ID DAMAGED,Site Id Damage /Replcae,Asmatullah Tahir Muhammad,MINOR,27/11/2025,27/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Asmatullah Tahir Muhammad
+158173,AUH,AAN2261,Class C,SHELTER,SITE ID DAMAGED,Site ID  Damage /replace ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
 36118,AUH,AAN2261,Class C,TI,TI - OTHERS,Gsm mw antenna weatherproffing checked.,Kanwaljit Singh,MINOR,23/06/2025,23/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,Kanwaljit Singh
 154803,AUH,AAN2262,Class B,AIR CONDITIONING,AC CONTACTOR FAULTY,Liebert 3ton ACU-1 Condenssor motor capacitor-5uf 1PCS found faulty 1PCs (Replaced),Kanwaljit Singh,MAJOR,09/11/2026,09/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Kanwaljit Singh
 44028,AUH,AAN2262,Class B,AIR CONDITIONING,AC GAS REFILLING,AC unit 1 gas topup,Asmatullah Tahir Muhammad,MAJOR,24/07/2025,24/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Asmatullah Tahir Muhammad
@@ -3050,9 +3058,11 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 29617,AUH,AAN2403,Class C,AIR CONDITIONING,AC COMPRESSOR  FAULTY,Ac 2 compressor faulty,Kanwaljeet Singh,MAJOR,24/05/2025,11/06/2025,Closed,CLOSED_UNIQUE,May-25,June-25,SRT Team
 111881,AUH,AAN2403,Class C,AIR CONDITIONING,AC GAS REFILLING,AC unit2   gas Topup ,Asmatullah Tahir Muhammad,MINOR,08/06/2026,08/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Asmatullah Tahir Muhammad
 111880,AUH,AAN2403,Class C,CIVIL,DU LOGO,Shelter Wall Minor Rusty /fixed ,Asmatullah Tahir Muhammad,MINOR,08/06/2026,08/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Asmatullah Tahir Muhammad
-111883,AUH,AAN2403,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING, shelter steps paint feeling off,Asmatullah Tahir Muhammad,MINOR,08/06/2026,,Open,KEEP_OPEN,June-26,,
+158168,AUH,AAN2403,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING, shelter steps paint feeling off,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158165,AUH,AAN2403,Class C,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,FACP cell Faulty/replace ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
 29618,AUH,AAN2403,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,Fe sticker install fire cylinder,Kanwaljeet Singh,MINOR,24/05/2025,24/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Kanwaljeet Singh
-111885,AUH,AAN2403,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter Extrernal Light faulty,Asmatullah Tahir Muhammad,MINOR,08/06/2026,,Open,KEEP_OPEN,June-26,,
+158166,AUH,AAN2403,Class C,POWER METER,POWER METER - OTHERS,Power Cables Under ground ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
+111885,AUH,AAN2403,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter Extrernal Light faulty,Asmatullah Tahir Muhammad,MINOR,08/06/2026,25/11/2026,Closed,CLOSED_UNIQUE,June-26,November-26,
 26071,AUH,AAN2404,Class C,AIR CONDITIONING,AC CONTACTOR FAULTY,AC Unit 1 3 pole 24V Contactor Faulty /replace,Asmatullah Tahir Muhammad,MINOR,06/05/2025,06/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Asmatullah Tahir Muhammad
 126617,AUH,AAN2404,Class C,BATTERY,TEMPERATURE SENSOR,vertiv Temperature Sesnor not working /fixed ,Asmatullah Tahir Muhammad,MAJOR,29/07/2026,29/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Asmatullah Tahir Muhammad
 65856,AUH,AAN2404,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter External Light Faulty,Asmatullah Tahir Muhammad,MINOR,09/10/2025,29/07/2026,Closed,CLOSED_UNIQUE,October-25,July-26,
@@ -3448,6 +3458,7 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 112334,AUH,AAN2452,Class C,OTHERS,PLANTATION,Grass on site (Removed),Kanwaljit Singh,MINOR,09/06/2026,09/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Kanwaljit Singh
 72980,AUH,AAN2452,Class C,POWER METER,POWER METER - OTHERS,Ect MDB Our Du ELCB Faulty And Powerby Pass (63A),Asmatullah Tahir Muhammad,MINOR,07/11/2025,09/06/2026,Closed,CLOSED_UNIQUE,November-25,June-26,
 72978,AUH,AAN2452,Class C,TI,TI - OTHERS,RTN Fan No 1 Cleaned,Asmatullah Tahir Muhammad,MINOR,07/11/2025,07/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Asmatullah Tahir Muhammad
+158257,AUH,AAN2452,Class C,TI,TI - OTHERS,GSM Antenna and Microwave odu weatherproffing checked.,Kanwaljit Singh,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Kanwaljit Singh
 132381,AUH,AAN2454,Class C,BATTERY,TEMPERATURE SENSOR,Delta Power system display faulty Temperature sesnor not checked & Alarms Not Reporting ,Asmatullah Tahir Muhammad,MAJOR,18/08/2026,,Open,KEEP_OPEN,August-26,,
 132378,AUH,AAN2454,Class C,DC SYSTEM,DC SYSTEM - OTHERS,DC System Door Haning Damage /fixed ,Asmatullah Tahir Muhammad,MINOR,18/08/2026,18/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Asmatullah Tahir Muhammad
 25226,AUH,AAN2454,Class C,EXTERNAL ALARMS,NOT WORKING,alarms checked by loop due to controller faulty,Raja Gurusamy,MINOR,28/04/2025,27/09/2025,Closed,CLOSED_UNIQUE,April-25,September-25,
@@ -3769,7 +3780,7 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 29866,AUH,AAN2505,Class C,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,The insulation seat of Ac1 & Ac2 has been changed,Kanwaljeet Singh,MINOR,26/05/2025,26/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Kanwaljeet Singh
 111095,AUH,AAN2505,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,Fe sticker install fire cylinder,Kanwaljit Singh,MINOR,04/06/2026,04/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Kanwaljit Singh
 111096,AUH,AAN2505,Class C,OTHERS,PLANTATION,Grass on site (Removed),Kanwaljit Singh,MINOR,04/06/2026,04/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Kanwaljit Singh
-73357,AUH,AAN2505,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter External Light Faulty,Asmatullah Tahir Muhammad,MINOR,10/11/2025,04/06/2026,Closed,CLOSED_UNIQUE,November-25,June-26,
+73357,AUH,AAN2505,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter External Light Faulty,Asmatullah Tahir Muhammad,MINOR,10/11/2025,25/11/2026,Closed,CLOSED_UNIQUE,November-25,November-26,
 60686,AUH,AAN2506,Class C,CIVIL,BOUNDARY WALL DAMAGED,Minor cracks on boundary wall plaster and paint peeling off,Asmatullah Tahir Muhammad,MINOR,22/09/2025,22/04/2026,Closed,CLOSED_UNIQUE,September-25,April-26,
 147235,AUH,AAN2506,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall epoxy paint peeling off,Kanwaljit Singh,MINOR,07/10/2026,,Open,KEEP_OPEN,October-26,,
 147241,AUH,AAN2506,Class C,CIVIL,CIVIL - OTHERS,Monopole Anchor bolt  caps missing.,Kanwaljit Singh,MINOR,07/10/2026,,Open,KEEP_OPEN,October-26,,
@@ -6145,8 +6156,10 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 62997,AUH,AAN3433,Class C,OTHERS,OTHERS,Hazard Sticker Fix(MDB Box),Ghaias Uddin Babar,MINOR,27/09/2025,27/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Ghaias Uddin Babar
 127284,AUH,AAN3433,Class C,OTHERS,PLANTATION,Remove Grass ,Asmatullah Tahir Muhammad,MINOR,31/07/2026,31/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Asmatullah Tahir Muhammad
 114788,AUH,AAN3434,Class C,BATTERY,TEMPERATURE SENSOR,Temperature Sesnor Not working Vertiv ,Asmatullah Tahir Muhammad,MAJOR,19/06/2026,19/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Asmatullah Tahir Muhammad
-114790,AUH,AAN3434,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Structure foundation epoxy paint peeling off,Asmatullah Tahir Muhammad,MINOR,19/06/2026,,Open,KEEP_OPEN,June-26,,
-114793,AUH,AAN3434,Class C,EXTERNAL ALARMS,NOT WORKING,vertiv Rectifier Door open Alarms Not Reporting ,Asmatullah Tahir Muhammad,MINOR,19/06/2026,,Open,KEEP_OPEN,June-26,,
+158162,AUH,AAN3434,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Structure foundation epoxy paint peeling off,Asmatullah Tahir Muhammad,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158159,AUH,AAN3434,Class C,EXTERNAL ALARMS,EXTERNAL ALARMS - OTHERS,vertiv Rectifier Door open Alarms Not Reporting /fixed ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
+114793,AUH,AAN3434,Class C,EXTERNAL ALARMS,NOT WORKING,vertiv Rectifier Door open Alarms Not Reporting ,Asmatullah Tahir Muhammad,MINOR,19/06/2026,25/11/2026,Closed,CLOSED_UNIQUE,June-26,November-26,
+158160,AUH,AAN3434,Class C,OTHERS,PLANTATION,Remove Grass ,Asmatullah Tahir Muhammad,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Asmatullah Tahir Muhammad
 78340,AUH,AAN3434,Class C,SHELTER,SITE ID DAMAGED,Site Id Damage /replace,Asmatullah Tahir Muhammad,MINOR,24/11/2025,25/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Asmatullah Tahir Muhammad
 34437,AUH,AAN3434,Class C,TI,TI - OTHERS,Gsm Antenna weatherproffing checked.,Kanwaljit Singh,MINOR,16/06/2025,16/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,Kanwaljit Singh
 147834,AUH,AAN3435,Class C,AWL,AWL CONTROL PANEL FAULTY,Awl 186c card faulty some time not working .,Kanwaljit Singh,MINOR,16/10/2026,,Open,KEEP_OPEN,October-26,,
@@ -6639,6 +6652,8 @@ AC1  FILTER DRIER FAULTY.AC1 NO COOLING .FILTER NEED TO REPLACMENT.",Kanwaljit S
 151750,AUH,AAN3675,Class C,TI,TI - OTHERS,Gsm  antenna weatherproffing checked.,Kanwaljit Singh,MINOR,29/10/2026,29/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Kanwaljit Singh
 149249,AUH,AAN3676,Class C,BATTERY,TEMPERATURE SENSOR,Vertiv Rectifier battery temperature sensor cable reshuffle & battery temp alarm configured.,Kanwaljit Singh,MAJOR,14/10/2026,14/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Kanwaljit Singh
 104164,AUH,AAN3676,Class C,DC SYSTEM,CONTROL PANEL DISPLAY FAULTY,Rectifier controler is faulty not giving  login.,Kanwaljit Singh,MAJOR,04/05/2026,14/10/2026,Closed,CLOSED_UNIQUE,May-26,October-26,
+158267,AUH,AAN3691,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,2 Fe sticker  installed fire cylinder,Kanwaljit Singh,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Kanwaljit Singh
+158266,AUH,AAN3691,Class C,SHELTER,SITE ID DAMAGED,Du Site id faded (Replaced) Nokia Rectifier Door ,Kanwaljit Singh,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Kanwaljit Singh
 151354,AUH,AAN3703,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,Tower Structure Foundations Paint Damage ,Asmatullah Tahir Muhammad,MINOR,27/10/2026,,Open,KEEP_OPEN,October-26,,
 65942,AUH,AAN3703,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,Fe sticker install fire cylinder,Kanwaljeet Singh,MINOR,09/10/2025,09/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Kanwaljeet Singh
 151353,AUH,AAN3703,Class C,OTHERS,OTHERS,Remove Plant tree ,Asmatullah Tahir Muhammad,MINOR,27/10/2026,27/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Asmatullah Tahir Muhammad
@@ -10097,8 +10112,9 @@ Huawei APM30 cabinet external alarm systems are not available on site
 Note- Huawei 3G BBU has been dismantled, Nokia 2G and Nokia FSMF (System Module) is working on site.",Girish Dongra Kotharkar,MINOR,22/06/2026,,Open,KEEP_OPEN,June-26,,
 12675,AUH,AUH0659,Class C,OTHERS,OTHERS,All Equipments was dusty,Mohsinuddin Mohammad,MINOR,29/01/2025,29/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Mohsinuddin Mohammad
 148498,AUH,AUH0659,Class C,SHELTER,SITE ID DAMAGED,DU SITE STICKER INSTALLED ON MAIN GSM ROOM,Basit Khan,MINOR,12/10/2026,12/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Basit Khan
-30065,AUH,AUH0662,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMPERATURE SENSOR NOT INSTALLED,Basit Khan,MAJOR,27/05/2025,,Open,KEEP_OPEN,May-25,,
+30065,AUH,AUH0662,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMPERATURE SENSOR NOT INSTALLED,Basit Khan,MAJOR,27/05/2025,24/11/2026,Closed,CLOSED_UNIQUE,May-25,November-26,
 6498,AUH,AUH0662,Class C,POWER METER,POWER METER NOT WORKING,DU SUB METER NOT WORKING,Basit Khan,MINOR,20/11/2024,27/05/2025,Closed,CLOSED_UNIQUE,November-24,May-25,
+158355,AUH,AUH0662,Class C,SHELTER,SITE ID DAMAGED,Du Sticker,Raja Gurusamy,MINOR,24/11/2026,24/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 70706,AUH,AUH0663,Class C,EXTERNAL ALARMS,NOT WORKING,Rectfier Module Fail Alarm not Working,Prabat Kumat,MINOR,28/10/2025,28/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Prabhat Kumar Suresh Prasad
 111267,AUH,AUH0666,Class C,BATTERY,TEMPERATURE SENSOR,VERTIV TEMPERATURE SENSOR NOT INSTALLED (AUH WH OUT OF STOCK),Basit Khan,MAJOR,05/06/2026,,Open,KEEP_OPEN,June-26,,
 111268,AUH,AUH0666,Class C,SHELTER,SITE ID DAMAGED,DU SITE STICKER INSTALLED ON MAIN GSM ROOM,Basit Khan,MINOR,05/06/2026,05/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Basit Khan
@@ -12934,7 +12950,7 @@ Note- Nokia 2G and S-Ran Nokia FSMF (System Module) is working on site.",Girish 
 69689,AUH,AUH2307,Class C,MDB,MDB - OTHERS,MDB Strat rusty,Prabat Kumat,MINOR,23/10/2025,23/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Prabhat Kumar Suresh Prasad
 21705,AUH,AUH2307,Class C,TI,TI - OTHERS,GSM Antenna weatherproffing Damaged,Prabat Kumat,MINOR,03/04/2025,03/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,Prabat Kumat
 131881,AUH,AUH2309,Class B,BATTERY,BATTERY FAULTY,All battery weak 200ah NARDA,Raja Gurusamy,CRITICAL,15/08/2026,15/09/2026,Closed,CLOSED_UNIQUE,August-26,September-26,SRT Team
-107159,AUH,AUH2309,Class B,BATTERY,TEMPERATURE SENSOR,Delta Battery Temperature sensor not working,Mohsinuddin Mohammad,CRITICAL,15/05/2026,15/08/2026,Closed,CLOSED_UNIQUE,May-26,August-26,
+107159,AUH,AUH2309,Class B,BATTERY,TEMPERATURE SENSOR,Delta Battery Temperature sensor not working,Mohsinuddin Mohammad,CRITICAL,15/05/2026,24/11/2026,Closed,CLOSED_UNIQUE,May-26,November-26,
 53054,AUH,AUH2309,Class B,BATTERY,WEAK BATTERY,Delta rectifier 9 cells showing weak(NARADA 200AH),Mohsinuddin Mohammad,CRITICAL,26/08/2025,15/05/2026,Closed,CLOSED_UNIQUE,August-25,May-26,
 131882,AUH,AUH2309,Class B,OTHERS,OTHERS,Garbage bag,Raja Gurusamy,MINOR,15/08/2026,15/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Raja Gurusamy
 131884,AUH,AUH2309,Class B,OTHERS,OTHERS,Spray-CRC (Contact Cleaner),Raja Gurusamy,MINOR,15/08/2026,15/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Raja Gurusamy
@@ -14798,12 +14814,16 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 98857,AUH,AUH2499,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,Shelter foundation damage,Muhammad Sultan Safdar Hussain,MINOR,08/04/2026,,Open,KEEP_OPEN,April-26,,
 9013,AUH,AUH2499,Class C,CIVIL,SHELTER ROOF REPAIR,Shalter full rusty,Muhammad Sultan,MINOR,03/01/2025,08/04/2026,Closed,CLOSED_UNIQUE,January-25,April-26,
 98856,AUH,AUH2499,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,Shelter outside rusty,Muhammad Sultan Safdar Hussain,MINOR,08/04/2026,,Open,KEEP_OPEN,April-26,,
-96398,AUH,AUH2501,Class C,CIVIL,BOUNDARY WALL DAMAGED,Boundary wall not installed ,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,,Open,KEEP_OPEN,February-26,,
-96394,AUH,AUH2501,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,shelter foundation  paint peeling off,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,,Open,KEEP_OPEN,February-26,,
-96393,AUH,AUH2501,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter step has  paint peeling off ,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,,Open,KEEP_OPEN,February-26,,
-96395,AUH,AUH2501,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,structure foundation epoxy paint peeling ,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,,Open,KEEP_OPEN,February-26,,
-96390,AUH,AUH2501,Class C,EXTERNAL ALARMS,NOT WORKING,2G BTS swap SRAN alarms patch pending,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,,Open,KEEP_OPEN,February-26,,
+158293,AUH,AUH2501,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,Liebert 3ton AC 1 tripped  &  alarm looped (Fixed),Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sultan Safdar Hussain
+158295,AUH,AUH2501,Class C,AWL,AWL BULB FAULTY,AWL both lamps faulty 48V DC ,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158292,AUH,AUH2501,Class C,CIVIL,BOUNDARY WALL DAMAGED,Boundary wall not installed ,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158288,AUH,AUH2501,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,shelter foundation  paint peeling off,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158294,AUH,AUH2501,Class C,CIVIL,SHELTER ROOF REPAIR,Shelter outside  start of rusty ,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158287,AUH,AUH2501,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter step has  paint peeling off ,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158289,AUH,AUH2501,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,structure foundation epoxy paint peeling ,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158285,AUH,AUH2501,Class C,EXTERNAL ALARMS,NOT WORKING,2G BTS swap SRAN alarms patch pending,Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sultan Safdar Hussain
 96392,AUH,AUH2501,Class C,MDB,LABELING MISSING,Power DB Danger sticker missing 415V ,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,20/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Muhammad Sultan Safdar Hussain
+158286,AUH,AUH2501,Class C,SHELTER,SITE ID DAMAGED,SITE ID TAG DAMAGED (FIXED on Shelter Door),Muhammad Sultan Safdar Hussain,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sultan Safdar Hussain
 42639,AUH,AUH2501,Class C,TI,TI - OTHERS,RTN fan cleaned,Muhammad Sultan Safdar Hussain,MINOR,18/07/2025,18/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Muhammad Sultan Safdar Hussain
 96391,AUH,AUH2501,Class C,TI,TI - OTHERS,RTN MSS8 FAN CLEANED ,Muhammad Sultan Safdar Hussain,MINOR,20/02/2026,20/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Muhammad Sultan Safdar Hussain
 43046,AUH,AUH2502,Class C,AIR CONDITIONING,AC COMPRESSOR FAULTY,AC1 compressor ZR36 faulty,Muhammad Sultan Safdar Hussain,MAJOR,16/07/2025,25/02/2026,Closed,CLOSED_UNIQUE,July-25,February-26,
@@ -17013,8 +17033,10 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 124763,AUH,AUH2869,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,Shelter steel grating steps has metal corrision,Muhammad Sultan Safdar Hussain,MINOR,22/07/2026,,Open,KEEP_OPEN,July-26,,
 70184,AUH,AUH2869,Class C,SHELTER,SHELTER - OTHERS,Roxtec open (closed),Muhammad Sultan Safdar Hussain,MINOR,25/10/2025,25/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Muhammad Sultan Safdar Hussain
 70183,AUH,AUH2869,Class C,SHELTER,SITE ID DAMAGED,SITE ID TAG DAMAGED (FIXED on  Shelter Door),Muhammad Sultan Safdar Hussain,MINOR,25/10/2025,25/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Muhammad Sultan Safdar Hussain
-107588,AUH,AUH2870,Class C,BATTERY,TEMPERATURE SENSOR,TEMPERATURE SENSOR Cable not instelled ,Raja Gurusamy,MAJOR,16/05/2026,,Open,KEEP_OPEN,May-26,,
-107585,AUH,AUH2870,Class C,DC SYSTEM,CONTROL PANEL DISPLAY FAULTY,Vertive rectfiber controler  not login ,Raja Gurusamy,MAJOR,16/05/2026,,Open,KEEP_OPEN,May-26,,
+158388,AUH,AUH2870,Class C,BATTERY,TEMPERATURE SENSOR,Sensor cable fixed ,Raja Gurusamy,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+107585,AUH,AUH2870,Class C,DC SYSTEM,CONTROL PANEL DISPLAY FAULTY,Vertive rectfiber controler  not login ,Raja Gurusamy,MAJOR,16/05/2026,25/11/2026,Closed,CLOSED_UNIQUE,May-26,November-26,
+158386,AUH,AUH2870,Class C,OTHERS,OTHERS,Spray-Gray paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158387,AUH,AUH2870,Class C,OTHERS,OTHERS,Spray-Silver paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 140522,AUH,AUH2871,Class C,AWL,AWL CABLING DAMAGED,AWL lamps cable damaged (Repaired),Muhammad Sultan Safdar Hussain,MINOR,14/09/2026,14/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Muhammad Sultan Safdar Hussain
 140513,AUH,AUH2871,Class C,CIVIL,BOUNDARY WALL DAMAGED,Boundary wall has epoxy paint peeling off,Muhammad Sultan Safdar Hussain,MINOR,14/09/2026,,Open,KEEP_OPEN,September-26,,
 35859,AUH,AUH2871,Class C,CIVIL,BOUNDARY WALL PAINT WORK,Boundary wall has epoxy paint peeling off,Muhammad Sultan Safdar Hussain,MINOR,21/06/2025,12/03/2026,Closed,CLOSED_UNIQUE,June-25,March-26,
@@ -18365,7 +18387,6 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 15887,AUH,AUH3014,Class C,SHELTER,SITE ID DAMAGED,Site ID Tag damaged (Replaced),Girish Dongra Kotharkar,MINOR,24/02/2025,24/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25,Girish Dongra Kotharkar
 64788,AUH,AUH3015,Class C,MDB,MDB - OTHERS,Hazard Sticker used,Raja Gurusamy,MINOR,04/10/2025,04/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Raja Gurusamy
 64787,AUH,AUH3015,Class C,SHELTER,SITE ID DAMAGED,Site id replaced,Raja Gurusamy,MINOR,04/10/2025,04/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Raja Gurusamy
-74125,AUH,AUH3018,Class C,OTHERS,GARBAGE,All Equipments covered in dust due to plant,Mohsinuddin Mohammad,MINOR,12/11/2025,,Open,KEEP_OPEN,November-25,,
 78955,AUH,AUH3024,Class C,BATTERY,TEMPERATURE SENSOR,Battery Temperature sensor not working,Mohsinuddin Mohammad,MAJOR,03/12/2025,10/09/2026,Closed,CLOSED_UNIQUE,December-25,September-26,
 138715,AUH,AUH3024,Class C,CIVIL,CIVIL - OTHERS,Shade base has epoxy paint peelibg off in some part,Girish Dongra Kotharkar,MINOR,10/09/2026,,Open,KEEP_OPEN,September-26,,
 15414,AUH,AUH3024,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,Shade base has epoxy paint peelibg off in some part,Girish Dongra Kotharkar,MINOR,18/02/2025,03/12/2025,Closed,CLOSED_UNIQUE,February-25,December-25,
@@ -19622,9 +19643,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 113093,AUH,AUH3344,Class C,MDB,MDB - OTHERS,"MDB Hazard Sticker Damaged , Used 1PCs on Meter Box",Prabat Kumat,MINOR,11/06/2026,11/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Prabhat Kumar Suresh Prasad
 113087,AUH,AUH3344,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,"Tublight Starter Damaged , Replaced",Prabat Kumat,MINOR,11/06/2026,11/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Prabhat Kumar Suresh Prasad
 113100,AUH,AUH3344,Class C,SHELTER,SITE ID DAMAGED,General warning  signg DU Sticker Missing ,Prabat Kumat,MINOR,11/06/2026,11/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Prabhat Kumar Suresh Prasad
-120746,AUH,AUH3345,Class C,CIVIL,SAFETY ROPE DAMAGED,Safety wire has start of rusty,Ghaias Uddin Babar,MINOR,08/07/2026,,Open,KEEP_OPEN,July-26,,
+120746,AUH,AUH3345,Class C,CIVIL,SAFETY ROPE DAMAGED,Safety wire has start of rusty,Ghaias Uddin Babar,MINOR,08/07/2026,25/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
 120743,AUH,AUH3345,Class C,CIVIL,SHELTER ROOF REPAIR,sunshade roof damaged,Ghaias Uddin Babar,MINOR,08/07/2026,,Open,KEEP_OPEN,July-26,,
-120744,AUH,AUH3345,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,sunshade base foundation epoxy paint peeling off,Ghaias Uddin Babar,MINOR,08/07/2026,,Open,KEEP_OPEN,July-26,,
+120744,AUH,AUH3345,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,sunshade base foundation epoxy paint peeling off,Ghaias Uddin Babar,MINOR,08/07/2026,25/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,Civil Team
 120745,AUH,AUH3345,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,structure foundation epoxy paint peeling off,Ghaias Uddin Babar,MINOR,08/07/2026,,Open,KEEP_OPEN,July-26,,
 120741,AUH,AUH3345,Class C,DC SYSTEM,CONTROL PANEL DISPLAY FAULTY,vertiv (R48-3000E3) display missing (Alarm Not Reporting),Ghaias Uddin Babar,MAJOR,08/07/2026,,Open,KEEP_OPEN,July-26,,
 32317,AUH,AUH3345,Class C,EXTERNAL ALARMS,CABLES NOT ROUTED PROPERLY,VERTIV rectifier alarm cable damaged required 15m alarm cable 4 cores,Ghaias Uddin Babar,MINOR,04/06/2025,09/08/2025,Closed,CLOSED_UNIQUE,June-25,August-25,
@@ -19808,10 +19829,13 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 91462,AUH,AUH3395,Class C,OTHERS,OTHERS,Hazard sticker Fix (Meter Box),Ghaias Uddin Babar,MINOR,03/02/2026,03/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Ghaias Uddin Babar
 50864,AUH,AUH3395,Class C,SHELTER,SITE ID DAMAGED,Site ID Tag damaged  (Replaced),Girish Dongra Kotharkar,MINOR,19/08/2025,19/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Girish Dongra Kotharkar
 50863,AUH,AUH3395,Class C,TI,TI - OTHERS,GSM Antenna weatherproffing  done and Microwave ODU  weatherproffing  checked done,Girish Dongra Kotharkar,MINOR,19/08/2025,19/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Girish Dongra Kotharkar
+158372,AUH,AUH3396,Class C,BATTERY,TEMPERATURE SENSOR,Sensor cable fixed ,Raja Gurusamy,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 107562,AUH,AUH3396,Class C,CIVIL,CIVIL - OTHERS,Outdoor shocket barker Faulty  not working from DB ,Raja Gurusamy,MINOR,15/05/2026,,Open,KEEP_OPEN,May-26,,
 3313,AUH,AUH3396,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,sunshade base foundation paint peeling off and damaged,Mohsinuddin Mohammad,MINOR,23/09/2024,13/09/2025,Closed,CLOSED_UNIQUE,September-24,September-25,
-107556,AUH,AUH3396,Class C,EXTERNAL ALARMS,NOT WORKING,All alarms loop test battery FAULTY,Raja Gurusamy,MINOR,15/05/2026,,Open,KEEP_OPEN,May-26,,
-57552,AUH,AUH3396,Class C,SHELTER,SITE ID DAMAGED,Site ID Tag damaged  (Replaced),Girish Dongra Kotharkar,MINOR,12/09/2025,12/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Girish Dongra Kotharkar
+107556,AUH,AUH3396,Class C,EXTERNAL ALARMS,NOT WORKING,All alarms loop test battery FAULTY,Raja Gurusamy,MINOR,15/05/2026,25/11/2026,Closed,CLOSED_UNIQUE,May-26,November-26,
+158370,AUH,AUH3396,Class C,OTHERS,OTHERS,Spray-Gray paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158371,AUH,AUH3396,Class C,OTHERS,OTHERS,Spray-Silver paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158373,AUH,AUH3396,Class C,SHELTER,SITE ID DAMAGED,Du Sticker,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 19382,AUH,AUH3396,Class C,TI,TI - OTHERS,GSM Antenna weatherproffing checked done and Microwave ODU weatherproffing checked done,Girish Dongra Kotharkar,MINOR,19/03/2025,19/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Girish Dongra Kotharkar
 52791,AUH,AUH3398,Class C,AWL,AWL BULB FAULTY,"AWL TOP Bulb Cover Missing, Standby Bulb Not Working , Cable Connection need to Check",Prabhat Kumar Suresh Prasad,MINOR,25/08/2025,29/12/2025,Closed,CLOSED_UNIQUE,August-25,December-25,
 52792,AUH,AUH3398,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,SHADE BASE FOUNDATION PAINT PEELING OFF,Prabhat Kumar Suresh Prasad,MINOR,25/08/2025,,Open,KEEP_OPEN,August-25,,
@@ -21624,7 +21648,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 104028,AUH,AUH5002-1,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,S 1-Ac2 outdoor Body panel  damage ,Raja Gurusamy,MINOR,02/05/2026,04/06/2026,Closed,CLOSED_UNIQUE,May-26,June-26,
 137074,AUH,AUH5002-1,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,S 1-Ac2 outdoor Body panel  damage ,Raja Gurusamy,MINOR,02/09/2026,05/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,
 48706,AUH,AUH5002-1,Class A,BATTERY,BATTERY FAULTY,"Outdoor Rectifier Bank 1,2,3 Faulty (CD-200Ah)",Ghaias Uddin Babar,CRITICAL,12/08/2025,25/12/2025,Closed,CLOSED_UNIQUE,August-25,December-25,
-119026,AUH,AUH5002-1,Class A,BATTERY,TEMPERATURE SENSOR,Delta Battery Temperature sensor not working,Mohsinuddin Mohammad,CRITICAL,03/07/2026,30/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,
+119026,AUH,AUH5002-1,Class A,BATTERY,TEMPERATURE SENSOR,Delta Battery Temperature sensor not working,Mohsinuddin Mohammad,CRITICAL,03/07/2026,25/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,
 23027,AUH,AUH5002-1,Class A,CIVIL,CABLE TRAY DAMAGED,Gantry post foundation has plaster minor damaged and epoxy paint peeling off,Raja Gurusamy,MINOR,14/04/2025,08/10/2025,Closed,CLOSED_UNIQUE,April-25,October-25,
 9559,AUH,AUH5002-1,Class A,CIVIL,CIVIL - OTHERS,Genset Fuel Tank upper side rusty,Ghaias Uddin Babar,MINOR,08/01/2025,08/10/2025,Closed,CLOSED_UNIQUE,January-25,October-25,
 9560,AUH,AUH5002-1,Class A,CIVIL,CIVIL - OTHERS,Gantry post foundation has plaster minor damaged and epoxy paint peeling off,Ghaias Uddin Babar,MINOR,08/01/2025,17/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,CW TEAM
@@ -21640,6 +21664,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 65646,AUH,AUH5002-1,Class A,DC SYSTEM,DC SYSTEM - OTHERS,Outdoor vertiv rectifier has minor alarms,Mohsinuddin Mohammad,MINOR,08/10/2025,10/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,
 34656,AUH,AUH5002-1,Class A,EXTERNAL ALARMS,LOOPED ALARMS,AWL alarm cable found loop due to realy card faulty,Ghaias Uddin Babar,CRITICAL,17/06/2025,24/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,SRT Team
 48716,AUH,AUH5002-1,Class A,EXTERNAL ALARMS,NOT WORKING,Battery Sensor cable faulty,Ghaias Uddin Babar,CRITICAL,12/08/2025,27/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,
+158192,AUH,AUH5002-1,Class A,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,FM200 Fire PANEL BATTERTY FOUND FAULTY,Basit Khan,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Basit Khan
 119025,AUH,AUH5002-1,Class A,FIRE SYSTEMS,FIRE ALARM CONTROL PANEL FAULTY,FACP has minor alarms,Mohsinuddin Mohammad,CRITICAL,03/07/2026,14/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,
 137067,AUH,AUH5002-1,Class A,FIRE SYSTEMS,FM200,FM 200 Cliynder top cab open ,Raja Gurusamy,MAJOR,02/09/2026,03/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,SRT Team
 48704,AUH,AUH5002-1,Class A,OTHERS,OTHERS,WD40 USE,Ghaias Uddin Babar,MINOR,12/08/2025,12/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Ghaias Uddin Babar
@@ -21649,7 +21674,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 137077,AUH,AUH5002-1,Class A,OTHERS,OTHERS,Spray-Foam,Raja Gurusamy,MINOR,02/09/2026,02/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Raja Gurusamy
 137078,AUH,AUH5002-1,Class A,OTHERS,OTHERS,WD40,Raja Gurusamy,MINOR,02/09/2026,02/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Raja Gurusamy
 137079,AUH,AUH5002-1,Class A,OTHERS,OTHERS,CRC,Raja Gurusamy,MINOR,02/09/2026,02/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Raja Gurusamy
-119029,AUH,AUH5002-1,Class A,SHELTER,INTERNAL LIGHTING BULB FAULTY,shelter Tubelight choke faulty(I have different pins need same  choke) need to replace set,Mohsinuddin Mohammad,MINOR,03/07/2026,30/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,
+119029,AUH,AUH5002-1,Class A,SHELTER,INTERNAL LIGHTING BULB FAULTY,shelter Tubelight choke faulty(I have different pins need same  choke) need to replace set,Mohsinuddin Mohammad,MINOR,03/07/2026,25/11/2026,Closed,CLOSED_UNIQUE,July-26,November-26,
 137066,AUH,AUH5002-1,Class A,SHELTER,SITE ID DAMAGED,Du Sticker,Raja Gurusamy,MINOR,02/09/2026,02/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Raja Gurusamy
 9554,AUH,AUH5002-1,Class A,TI,TI - OTHERS,weather proffing ok,Ghaias Uddin Babar,MINOR,08/01/2025,08/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Ghaias Uddin Babar
 48703,AUH,AUH5002-1,Class A,TI,TI - OTHERS,weather proffing ok,Ghaias Uddin Babar,MINOR,12/08/2025,12/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Ghaias Uddin Babar
@@ -22347,7 +22372,11 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 63482,AUH,AUH6395,Class C,BATTERY,TEMPERATURE SENSOR,Vertiv 2000e3 rectifier temparature sensor faulty,Muhammad Sultan Safdar Hussain,MAJOR,30/09/2025,,Open,KEEP_OPEN,September-25,,
 63478,AUH,AUH6395,Class C,DC SYSTEM,DC SYSTEM - OTHERS,Rectifier base rusty(Painted),Muhammad Sultan Safdar Hussain,MINOR,30/09/2025,30/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Muhammad Sultan Safdar Hussain
 16137,AUH,AUH6395,Class C,SHELTER,SITE ID DAMAGED,DU site ID sticker Damaged,Muhammad Sultan,MINOR,14/02/2025,14/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25,Muhammad Sultan
+158365,AUH,AUH6396,Class C,BATTERY,TEMPERATURE SENSOR,Sensor cable fixed ,Raja Gurusamy,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 78183,AUH,AUH6396,Class C,MDB,MDB - OTHERS,Hazard Sticker,Raja Gurusamy,MINOR,28/11/2025,28/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Raja Gurusamy
+158363,AUH,AUH6396,Class C,OTHERS,OTHERS,Spray-Gray paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158364,AUH,AUH6396,Class C,OTHERS,OTHERS,Spray-Silver paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158366,AUH,AUH6396,Class C,SHELTER,SITE ID DAMAGED,Du Sticker,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 100526,AUH,AUH6397,Class C,BATTERY,TEMPERATURE SENSOR,Vertiv rectifier R48-2000e3 controller not login(controller issue),Muhammad Sultan Safdar Hussain,MAJOR,16/04/2026,17/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,
 19990,AUH,AUH6397,Class C,DC SYSTEM,DC SYSTEM - OTHERS,Rectifier base rusty(Painted),Muhammad Sultan,MINOR,12/03/2025,12/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Muhammad Sultan
 100520,AUH,AUH6397,Class C,DC SYSTEM,DC SYSTEM - OTHERS,Rectifier base rusty(Painted),Muhammad Sultan Safdar Hussain,MINOR,16/04/2026,16/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Muhammad Sultan Safdar Hussain
@@ -22940,6 +22969,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 113667,AUH,AUH6541,Class C,BATTERY,TEMPERATURE SENSOR,TEMPERATURE SENSOR cable not avil,Raja Gurusamy,MAJOR,12/06/2026,,Open,KEEP_OPEN,June-26,,
 57313,AUH,AUH6541,Class C,DC SYSTEM,DC SYSTEM - OTHERS,vertiv has minor alarms,Mohsinuddin Mohammad,MINOR,11/09/2025,10/10/2025,Closed,CLOSED_UNIQUE,September-25,October-25,
 113669,AUH,AUH6541,Class C,SHELTER,SITE ID DAMAGED,Du Sticker,Raja Gurusamy,MINOR,12/06/2026,12/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Raja Gurusamy
+158381,AUH,AUH6543,Class C,BATTERY,TEMPERATURE SENSOR,Sensor cable fixed ,Raja Gurusamy,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158379,AUH,AUH6543,Class C,OTHERS,OTHERS,Spray-Gray paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
+158380,AUH,AUH6543,Class C,OTHERS,OTHERS,Spray-Silver paint,Raja Gurusamy,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Raja Gurusamy
 20466,AUH,AUH6543,Class C,SHELTER,SITE ID DAMAGED,Site ID Tag damaged (Replaced),Girish Dongra Kotharkar,MINOR,25/03/2025,25/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Girish Dongra Kotharkar
 35525,AUH,AUH6545,Class C,CIVIL,SAFETY ROPE DAMAGED,Safety wire has totally damaged 40mtr long (Etislat lead site),Girish Dongra Kotharkar,MINOR,20/06/2025,25/11/2025,Closed,CLOSED_UNIQUE,June-25,November-25,
 76864,AUH,AUH6545,Class C,SHELTER,SITE ID DAMAGED,Site ID Tag damaged  (Replaced),Girish Dongra Kotharkar,MINOR,24/11/2025,24/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Girish Dongra Kotharkar
@@ -23528,7 +23560,8 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 124361,DXB,DXB0450,Class C,EXTERNAL ALARMS,NOT WORKING,"PS2 ALARMS NOT CONFIGURED NO BBU ON SEC02, 2G OFF ALREADY",Mohandass Paulraj,MINOR,21/07/2026,,Open,KEEP_OPEN,July-26,,
 45440,DXB,DXB0451,Class C,EXTERNAL ALARMS,NOT WORKING,TECH COOLING FAN FAULT AND MODULE FAIL ALARMS NOT WORKING,Nitin Kumar Kanwar Pal Singh,MINOR,29/07/2025,23/01/2026,Closed,CLOSED_UNIQUE,July-25,January-26,
 45442,DXB,DXB0451,Class C,SECURITY,PADLOCK NOT WORKING,MAIN GSM ROOM FOUND / LOCK NEED TO INSTALL,Nitin Kumar Kanwar Pal Singh,MINOR,29/07/2025,23/01/2026,Closed,CLOSED_UNIQUE,July-25,January-26,
-54436,DXB,DXB0453,Class C,POWER METER,POWER METER NOT WORKING,KWH Meter was found not working in the 2F Telephone  Room,Naveen Chacko,MINOR,30/08/2025,06/06/2026,Closed,CLOSED_UNIQUE,August-25,June-26,
+158343,DXB,DXB0452,Class C,DC SYSTEM,CABLING NOT ROUTED PROPERLY,POWER CABLE CONECTOR DAMGED NEED TO CHANGE,Mohammad Noman,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+54436,DXB,DXB0453,Class C,POWER METER,POWER METER NOT WORKING,KWH Meter was found not working in the 2F Telephone  Room,Naveen Chacko,MINOR,30/08/2025,25/11/2026,Closed,CLOSED_UNIQUE,August-25,November-26,
 116272,DXB,DXB0455,Class C,DC SYSTEM,DC SYSTEM - OTHERS,BATTRY SHUFLING DONE BBU2 1 BATTRY  SHIFT TO BBU1,Mohammad Noman,MINOR,23/06/2026,23/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Mohammad Noman
 116271,DXB,DXB0455,Class C,EXTERNAL ALARMS,NOT WORKING,ALARM NEED TO SHIFT 3G GFL MAIN GSM ROOM,Mohammad Noman,MINOR,23/06/2026,08/10/2026,Closed,CLOSED_UNIQUE,June-26,October-26,SRT Team
 124363,DXB,DXB0457,Class C,EXTERNAL ALARMS,NOT WORKING,ALARMS IN 2G NEED TO SHIFT OTHER TECH,Mohandass Paulraj,MINOR,21/07/2026,08/10/2026,Closed,CLOSED_UNIQUE,July-26,October-26,SRT Team
@@ -25362,8 +25395,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 110848,DXB,DXB1193,Class C,SECURITY,PADLOCK BROKEN,PADLOCK FOUND DAMAGED NEED TO BE CHANGE,Nitin Kumar Kanwar Pal Singh,MINOR,03/06/2026,,Open,KEEP_OPEN,June-26,,
 110843,DXB,DXB1193,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,OBTS EXTERNAL LIGHT FOUND FAULTY NOW CHANGED,Nitin Kumar Kanwar Pal Singh,MINOR,03/06/2026,03/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Nitin Kumar Kanwar Pal Singh
 63271,DXB,DXB1193,Class C,SHELTER,SITE ID DAMAGED,du id placed at delta rectifier,Muhammad Altaf Qureshi,MINOR,30/09/2025,30/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Muhammad Altaf Qureshi
-103346,DXB,DXB1194,Class C,MDB,CIRCUIT BREAKER FAULTY,MDB door lock found broken (temp closed),Naseef Abdulrahman,MAJOR,29/04/2026,,Open,KEEP_OPEN,April-26,,
+103346,DXB,DXB1194,Class C,MDB,CIRCUIT BREAKER FAULTY,MDB door lock found broken (temp closed),Naseef Abdulrahman,MAJOR,29/04/2026,25/11/2026,Closed,CLOSED_UNIQUE,April-26,November-26,
 18005,DXB,DXB1194,Class C,SHELTER,SHELTER - OTHERS,Cable entry closed,Naveen Chakoo,MINOR,10/03/2025,10/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Naveen Chakoo
+158296,DXB,DXB1194,Class C,SHELTER,SHELTER - OTHERS,Cable entery closed,Naveen Chacko,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Naveen Chacko
 56686,DXB,DXB1194,Class C,SHELTER,SITE ID DAMAGED,DU STIKAR REPLAC ON PS MAIN DOOR,Mohammad Noman,MINOR,09/09/2025,09/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Mohammad Noman
 24816,DXB,DXB1195,Class C,OTHERS,OTHERS,SITE ID DAMAGED (On 2G cabinet door),Naseef Abdulrahman,MINOR,25/04/2025,25/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,
 28785,DXB,DXB1197,Class C,EXTERNAL ALARMS,LOOPED ALARMS,RECTIFIRE MODULE AND BATTERY DISSCONNECTED ALARM FOUND LOOPED NEED TO RECTIFY,Jagdish Kumar Veer Chand,MINOR,21/05/2025,01/11/2025,Closed,CLOSED_UNIQUE,May-25,November-25,
@@ -25625,6 +25659,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 140910,DXB,DXB1281,Class C,OTHERS,OTHERS,SAR-X FILTER FOUND DAMEGED/REPLACED,Jagdish Kumar Veer Chand,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Jagdish Kumar Veer Chand
 140911,DXB,DXB1281,Class C,POWER METER,POWER METER - OTHERS,HAZARD STICKER REPLACED @ POWER METER BOX,Jagdish Kumar Veer Chand,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Jagdish Kumar Veer Chand
 11112,DXB,DXB1281,Class C,SHELTER,SITE ID DAMAGED,SITE ID DAMAGED,Naseef Abdulrahman,MINOR,18/01/2025,18/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,
+158216,DXB,DXB1282,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMPERATURE SENSOR CONFIGURED,Harish Mutyala,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Harish Mutyala
+158215,DXB,DXB1282,Class C,MDB,MDB - OTHERS,HAZARD STICKER PLACED ON MDB CABINET AND POWER METER CABINET,Harish Mutyala,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Harish Mutyala
+158217,DXB,DXB1282,Class C,SHELTER,SHELTER - OTHERS,DU STICKER PLACED ON NOKIA PS SIDE WALL,Harish Mutyala,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Harish Mutyala
 58913,DXB,DXB1283,Class C,SHELTER,SITE ID DAMAGED,DU STICKER CHANGED ON DELTA PS,Nitin Kumar Kanwar Pal Singh,MINOR,16/09/2025,16/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Nitin Kumar Kanwar Pal Singh
 82684,DXB,DXB1284,Class C,MDB,MDB - OTHERS,danger sticker installed on mdb cabinet,Muhammad Altaf Qureshi,MINOR,18/12/2025,18/12/2025,Closed,CLOSED_UNIQUE,December-25,December-25,Muhammad Altaf Qureshi
 35870,DXB,DXB1284,Class C,POWER METER,POWER METER CABINET DAMAGED,POWER MTR BODY FOUND DAMAGED,Nitin Kumar Kanwar Pal Singh,MINOR,21/06/2025,18/12/2025,Closed,CLOSED_UNIQUE,June-25,December-25,
@@ -26135,13 +26172,16 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 109939,DXB,DXB1392,Class C,OTHERS,PLANTATION,required tree branches removed,Muhammad Altaf Qureshi,MINOR,01/06/2026,01/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Muhammad Altaf Qureshi
 12859,DXB,DXB1392,Class C,SHELTER,SHELTER - OTHERS,CABLE ENTERIES CLOSED ON SHELTER,MOHANDAS PAULRAJ,MINOR,30/01/2025,30/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,MOHANDAS PAULRAJ
 109940,DXB,DXB1392,Class C,SHELTER,SHELTER - OTHERS,power cable entrance cover fixed,Muhammad Altaf Qureshi,MINOR,01/06/2026,01/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Muhammad Altaf Qureshi
+158278,DXB,DXB1393,Class C,AIR CONDITIONING,AC FILTER REPLACED,ACU2 BARD AIR FILTER 1 REPLACED,Mohandass Paulraj,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Mohandass Paulraj
 49723,DXB,DXB1393,Class C,AIR CONDITIONING,AC GAS REFILLING,A/C #2 GAS REFILLED,Sachin George Varghese,MINOR,14/08/2025,14/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Sachin George Varghese
-12864,DXB,DXB1393,Class C,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,ACU1 BACK COVER INSULATION FIXED,MOHANDAS PAULRAJ,MINOR,30/01/2025,30/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,MOHANDAS PAULRAJ
+158279,DXB,DXB1393,Class C,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,AC UNIT BACK COVER INSULATION FIXED,Mohandass Paulraj,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Mohandass Paulraj
 49724,DXB,DXB1393,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,A/C #2 SIDE GRILL REPLACED,Sachin George Varghese,MINOR,14/08/2025,14/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Sachin George Varghese
-96808,DXB,DXB1393,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,SHELTER NEEDS REPAINTING,Vishnumon Thyagarajan,MINOR,10/03/2026,,Open,KEEP_OPEN,March-26,,
+158277,DXB,DXB1393,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,SHELTER BASE AND  SHETER NEED PAINT WORK,Mohandass Paulraj,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158281,DXB,DXB1393,Class C,FIRE SYSTEMS,FM200,"FIRE SOUNDER FAULTY (MF200), NEED TO CHANGE",Mohandass Paulraj,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 49725,DXB,DXB1393,Class C,OTHERS,PLANTATION,OUTSIDE TREE BRANCHES HANGING INSIDE NEED TO CUT,Sachin George Varghese,MINOR,14/08/2025,10/03/2026,Closed,CLOSED_UNIQUE,August-25,March-26,
-96809,DXB,DXB1393,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,"EXTERNAL LED NEED TO REPLACED, NOT RECEIVED SPARE FROM WH",Vishnumon Thyagarajan,MINOR,10/03/2026,,Open,KEEP_OPEN,March-26,,
-96810,DXB,DXB1393,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED,Vishnumon Thyagarajan,MINOR,10/03/2026,10/03/2026,Closed,CLOSED_UNIQUE,March-26,March-26,Vishnumon Thyagarajan
+96809,DXB,DXB1393,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,"EXTERNAL LED NEED TO REPLACED, NOT RECEIVED SPARE FROM WH",Vishnumon Thyagarajan,MINOR,10/03/2026,25/11/2026,Closed,CLOSED_UNIQUE,March-26,November-26,
+158280,DXB,DXB1393,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,"SHELTER INTERNAL LIGHTING BULB FAULTY (FULL SET), EXTERNAL LIGHT NEED TO CHANGE, NEED BIG LADDER, NEED TO CHANGE",Mohandass Paulraj,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158282,DXB,DXB1393,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED @ SHELTER DOOR,Mohandass Paulraj,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Mohandass Paulraj
 90627,DXB,DXB1395,Class C,BATTERY,BATTERY FAULTY,all battery were found faulty. the battery team is installing new batteries.,Naveen Chacko,MINOR,29/01/2026,29/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Naveen Chacko
 64940,DXB,DXB1395,Class C,POWER METER,POWER METER NOT WORKING,DU POWER METER NOT WORKING,Hari Krishan,MINOR,06/10/2025,30/01/2026,Closed,CLOSED_UNIQUE,October-25,January-26,
 90628,DXB,DXB1395,Class C,SHELTER,SHELTER - OTHERS,Cable entery closed,Naveen Chacko,MINOR,29/01/2026,29/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Naveen Chacko
@@ -26329,7 +26369,10 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 11758,DXB,DXB1440,Class C,SHELTER,SITE ID DAMAGED,SITE ID REPLACED @ DC SYS DOOR,MOHANDAS PAULRAJ,MINOR,23/01/2025,23/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,MOHANDAS PAULRAJ
 60911,DXB,DXB1442,Class C,CIVIL,CABLE TRAY DAMAGED,CABLE TRAY COVER FOUND MISSING,Hari Krishan,MINOR,22/09/2025,,Open,KEEP_OPEN,September-25,,
 100732,DXB,DXB1442,Class C,MDB,MDB - OTHERS,Hazard sticker installed on MDB,Naseef Abdulrahman,MINOR,17/04/2026,17/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naseef Abdulrahman
+158302,DXB,DXB1442,Class C,POWER METER,POWER METER NOT WORKING,"GF Electrical room DU Power meter found not working , need to replaced",Naveen Chacko,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 100733,DXB,DXB1442,Class C,SHELTER,SHELTER - OTHERS,DU sticker installed on delta rectifier door,Naseef Abdulrahman,MINOR,17/04/2026,17/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naseef Abdulrahman
+158301,DXB,DXB1442,Class C,SHELTER,SHELTER - OTHERS,Cable entery closed,Naveen Chacko,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Naveen Chacko
+158307,DXB,DXB1442,Class C,SHELTER,SITE ID DAMAGED,DU Sticker placed,Naveen Chacko,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Naveen Chacko
 134927,DXB,DXB1443,Class C,BATTERY,TEMPERATURE SENSOR,"TEMP SENSOR  FAULTY, NEED TO REPLACE",Vishnumon Thyagarajan,MAJOR,25/08/2026,,Open,KEEP_OPEN,August-26,,
 134928,DXB,DXB1443,Class C,CIVIL,BOUNDARY WALL PAINT WORK,BOUNDARY WALL PAINT DAMAGE,Vishnumon Thyagarajan,MINOR,25/08/2026,,Open,KEEP_OPEN,August-26,,
 82879,DXB,DXB1443,Class C,OTHERS,GARBAGE,GRABGE FROM COMPOUND REMOVED,Sachin George Varghese,MINOR,16/12/2025,16/12/2025,Closed,CLOSED_UNIQUE,December-25,December-25,Sachin George Varghese
@@ -26416,6 +26459,8 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 76346,DXB,DXB1466,Class C,SHELTER,SOCKET FAULTY,SOCKET COVER FOUND DAMAGED,Harish Mutyala,MINOR,21/11/2025,,Open,KEEP_OPEN,November-25,,
 27668,DXB,DXB1467,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY SENSOR NOT WORKING,Hari Krishan,MAJOR,14/05/2025,,Open,KEEP_OPEN,May-25,,
 76611,DXB,DXB1468,Class C,CIVIL,CABLE TRAY DAMAGED,CABLE TRAY COVER NEED TO FIX,Harish Mutyala,MINOR,22/11/2025,,Open,KEEP_OPEN,November-25,,
+158396,DXB,DXB1468,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED,Sachin George Varghese,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Sachin George Varghese
+158395,DXB,DXB1468,Class C,TI,TI - OTHERS,WEATHER PROOFING DONE,Sachin George Varghese,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Sachin George Varghese
 32390,DXB,DXB1469,Class C,AWL,AWL CABLING DAMAGED,"AWL ALARM CABLES FOUND DAMAGE, TEMP PHOTOCELL REMOVE, NEED TO CHANGE ALARM CABLES",Mohandass Paulraj,MINOR,04/06/2025,28/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,SRT Team
 32388,DXB,DXB1469,Class C,AWL,AWL CONTROL PANEL FAULTY,"AWL PANEL INDICATIONS NOT WORKING BULB FOUND DISCNECTED TOP RECTIFIED, NOW WORKING FINE",Mohandass Paulraj,MINOR,04/06/2025,04/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,MOHANDASS PAULRAJ
 81163,DXB,DXB1469,Class C,CIVIL,SHELTER FLOOR NEEDS REPAIRING,FLOOR NEEDS EPOXY,Vishnumon Thyagarajan,MINOR,11/12/2025,,Open,KEEP_OPEN,December-25,,
@@ -27152,6 +27197,8 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 30014,DXB,DXB1586,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE STICKER REPLACED,Sachin George Varghese,MINOR,26/05/2025,26/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Sachin George Varghese
 52573,DXB,DXB1587,Class C,AIR CONDITIONING,AC NOT COOLING,ac 2 not working controll issue need to rectify,Muhammad Altaf Qureshi,MAJOR,25/08/2025,05/06/2026,Closed,CLOSED_UNIQUE,August-25,June-26,
 106558,DXB,DXB1587,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,A/C 2 COMPRESOR TERMINAL FOUND SHOT {RECTIFIED),Sachin George Varghese,MINOR,13/05/2026,13/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Sachin George Varghese
+158328,DXB,DXB1587,Class C,AIR CONDITIONING,INDOOR AC BLOWER MOTOR FAULTY,ABNORMAL NOISE IN AC2 BLOWER MOTER,Nitin Kumar Kanwar Pal Singh,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158327,DXB,DXB1587,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,INTERNAL LIGHT POWER CABLE NEED TO RECTIFY LIGHT NOT WORKING AND ELCB TRIPPING,Nitin Kumar Kanwar Pal Singh,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 145215,DXB,DXB1588,Class C,AIR CONDITIONING,AC NOT COOLING,ACU02 TOP UP GAS ,Nouman Ahmed,MAJOR,30/09/2026,30/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nouman Ahmed
 102789,DXB,DXB1588,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,"AC2 FOUND NOT WORKING , REPAIRED. NOW OK",Vishnumon Thyagarajan,MINOR,27/04/2026,27/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Vishnumon Thyagarajan
 51748,DXB,DXB1588,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,repainting is reqd in side Rooftop DU Room (Lift room ),Naveen Chacko,MINOR,21/08/2025,,Open,KEEP_OPEN,August-25,,
@@ -31515,6 +31562,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 42531,DXB,DXB2396,Class C,EXTRA MATERIALS,EM MATERIALS,2 NOS DELTA PS MODULES DISMENTELLED FOUND AT ROOF TOP /RECOVERED/REMOVED,Jagdish Kumar Veer Chand,MINOR,18/07/2025,18/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Jagdish Kumar Veer Chand
 93969,DXB,DXB2396,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED,Vishnumon Thyagarajan,MINOR,17/02/2026,17/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Vishnumon Thyagarajan
 103099,DXB,DXB2397,Class C,MDB,MDB - OTHERS,Hazard sticker installed on MDB ,Naseef Abdulrahman,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naseef Abdulrahman
+158223,DXB,DXB2397,Class C,MDB,MDB - OTHERS,HAZARD STICKER PLACED ON MDB CABINET,Harish Mutyala,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Harish Mutyala
 103102,DXB,DXB2397,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,Shelter light replaced,Naseef Abdulrahman,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naseef Abdulrahman
 22986,DXB,DXB2397,Class C,SHELTER,SITE ID DAMAGED,DU STCIKER REPLACED,Manoj Kumar,MINOR,14/04/2025,14/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,Manoj Kumar
 59387,DXB,DXB2400,Class C,OTHERS,OTHERS,Hazard sticker placed,Naveen Chacko,MINOR,17/09/2025,17/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Naveen Chacko
@@ -31583,6 +31631,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 120905,DXB,DXB2415,Class A,OTHERS,OTHERS,Hazard sticker placed,Naveen Chacko,MINOR,09/07/2026,09/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Naveen Chacko
 120900,DXB,DXB2415,Class A,OTHERS,PLANTATION,"Plants andgarbages Found on ste , now it has been cleared ",Naveen Chacko,MINOR,09/07/2026,09/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Naveen Chacko
 120896,DXB,DXB2415,Class A,SHELTER,SHELTER - OTHERS,Cable entery closed,Naveen Chacko,MINOR,09/07/2026,09/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Naveen Chacko
+158482,DXB,DXB2415,Class A,SHELTER,SHELTER - OTHERS,FOUND A HOLE IN SHELTER AND CLOSED WITH FOAM,Vishnumon Thyagarajan,MINOR,23/11/2026,23/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Vishnumon Thyagarajan
 120901,DXB,DXB2415,Class A,SHELTER,SITE ID DAMAGED,DU Sticker placed,Naveen Chacko,MINOR,09/07/2026,09/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Naveen Chacko
 131280,DXB,DXB2416,Class C,CIVIL,BOUNDARY WALL DAMAGED,"Boundary wall was found damaged, need to be repair,",Naveen Chacko,MINOR,14/08/2026,,Open,KEEP_OPEN,August-26,,
 131284,DXB,DXB2416,Class C,CIVIL,BOUNDARY WALL PAINT WORK,boundary wall need to repainting reqd,Naveen Chacko,MINOR,14/08/2026,,Open,KEEP_OPEN,August-26,,
@@ -31813,6 +31862,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 111227,DXB,DXB2474,Class C,BATTERY,TEMPERATURE SENSOR,vertiv temprature sensor installed and configured,Muhammad Altaf Qureshi,MAJOR,05/06/2026,05/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Muhammad Altaf Qureshi
 53355,DXB,DXB2474,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,Harish Mutyala,MINOR,27/08/2025,,Open,KEEP_OPEN,August-25,,
 111232,DXB,DXB2474,Class C,DC SYSTEM,DC SYSTEM - OTHERS,vertiv rectifer base found rusty painted,Muhammad Altaf Qureshi,MINOR,05/06/2026,05/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Muhammad Altaf Qureshi
+158273,DXB,DXB2474,Class C,MDB,MDB - OTHERS,HAZARD STICKER 2 PASTE,Mohandass Paulraj,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Mohandass Paulraj
 111228,DXB,DXB2474,Class C,OTHERS,PLANTATION,around the bts herbs removed,Muhammad Altaf Qureshi,MINOR,05/06/2026,05/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Muhammad Altaf Qureshi
 111230,DXB,DXB2474,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,1 tube light full set need to change not available in stock,Muhammad Altaf Qureshi,MINOR,05/06/2026,20/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,
 121369,DXB,DXB2475,Class C,AWL,AWL BULB FAULTY,awl bulb base broken need to rectify,Muhammad Altaf Qureshi,MINOR,11/07/2026,14/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,
@@ -31971,6 +32021,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 106202,DXB,DXB2522,Class C,OTHERS,PLANTATION,PLANTS & GARBAGE IN COMPOUND REMOVED,Sachin George Varghese,MINOR,12/05/2026,12/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Sachin George Varghese
 70526,DXB,DXB2523,Class C,MDB,MDB - OTHERS,mdb cover found open fixed,Muhammad Altaf Qureshi,MINOR,28/10/2025,28/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Muhammad Altaf Qureshi
 135741,DXB,DXB2523,Class C,MDB,MDB - OTHERS,HAZARD STICKER PASTE,Mohandass Paulraj,MINOR,29/08/2026,29/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Mohandass Paulraj
+158318,DXB,DXB2523,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,1NOS EXTERNAL TUBLIGHT FAULTY,Nitin Kumar Kanwar Pal Singh,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 111547,DXB,DXB2524,Class C,BATTERY,TEMPERATURE SENSOR,VERTIV PS BATTERY SENSOR REPLACED,Vishnumon Thyagarajan,MAJOR,05/06/2026,05/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Vishnumon Thyagarajan
 22573,DXB,DXB2524,Class C,EXTERNAL ALARMS,NOT WORKING,MODULE FAIL AND DC LOW VOLTAGE ALARMS DID NOT CONFIGURE,Nitin Kumar,MINOR,10/04/2025,28/10/2025,Closed,CLOSED_UNIQUE,April-25,October-25,
 121598,DXB,DXB2526,Class C,BATTERY,TEMPERATURE SENSOR,Huawei PS battery temp sensor is stuck on the backside of the battery ,Naveen Chacko,MAJOR,11/07/2026,,Open,KEEP_OPEN,July-26,,
@@ -32224,6 +32275,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 69739,DXB,DXB2591,Class C,SHELTER,SHELTER - OTHERS,roxtec refilled with foam spray,Muhammad Altaf Qureshi,MINOR,24/10/2025,24/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Muhammad Altaf Qureshi
 69743,DXB,DXB2591,Class C,TI,TI - OTHERS,Weatherproffing done 3rd sector,Muhammad Altaf Qureshi,MINOR,24/10/2025,24/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Muhammad Altaf Qureshi
 93602,DXB,DXB2592,Class C,MDB,MDB - OTHERS,danger sticker installed on mdb and power db,Muhammad Altaf Qureshi,MINOR,17/02/2026,17/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Muhammad Altaf Qureshi
+158309,DXB,DXB2592,Class C,SHELTER,SHELTER - OTHERS,Cable entery closed,Naveen Chacko,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Naveen Chacko
 9739,DXB,DXB2592,Class C,SHELTER,SITE ID DAMAGED,SITE ID REPLACED @2G FLEXI CABINET DOOR,Jagdish Kamboj,MINOR,09/01/2025,09/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,JAGDISH KAMBOJ
 93601,DXB,DXB2592,Class C,SHELTER,SOCKET FAULTY,power socket found faulty changed,Muhammad Altaf Qureshi,MINOR,17/02/2026,17/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Muhammad Altaf Qureshi
 13726,DXB,DXB2593,Class C,DC SYSTEM,DC SYSTEM - OTHERS,DELTA PS IN BACKSIDE FILTER HAVE BEEN CLEANED,Jagdish Kamboj,MINOR,05/02/2025,05/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25,JAGDISH KAMBOJ
@@ -32494,9 +32546,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 130802,DXB,DXB2645,Class C,CIVIL,CABLE TRAY DAMAGED,CABLE TRAY COVER FOUND Rusty,Jagdish Kumar Veer Chand,MINOR,13/08/2026,,Open,KEEP_OPEN,August-26,,
 37373,DXB,DXB2646,Class C,AIR CONDITIONING,AC FILTER REPLACED,A/C #1 & 2 FILTER DAMAGE NEED TO REPLACED (NO SPARE IN CAR ),Sachin George Varghese,MINOR,30/06/2025,07/11/2025,Closed,CLOSED_UNIQUE,June-25,November-25,
 37372,DXB,DXB2646,Class C,AIR CONDITIONING,AC LEAKAGE,A/C #1 HAVE GAS LEAKAGE FROM HIGH PRESSURE PIPE ( COMPRESSOR TEMP BYPASSED),Sachin George Varghese,MAJOR,30/06/2025,07/11/2025,Closed,CLOSED_UNIQUE,June-25,November-25,
-85788,DXB,DXB2646,Class C,CIVIL,SHELTER ROOF REPAIR,"SHELTER HAVE RUSTY AND WATER LEAKAGE MARKS, NEED REPAINTING",Vishnumon Thyagarajan,MINOR,08/01/2026,,Open,KEEP_OPEN,January-26,,
+158398,DXB,DXB2646,Class C,CIVIL,SHELTER ROOF REPAIR,SHELTER ROOF FOUND RUSTED,Sachin George Varghese,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 37374,DXB,DXB2646,Class C,CIVIL,SHELTER ROOF WATERPROOFING,WATER LEAKAGE SIGN INSIDE SHELTER,Sachin George Varghese,MINOR,30/06/2025,08/01/2026,Closed,CLOSED_UNIQUE,June-25,January-26,
-85790,DXB,DXB2646,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED,Vishnumon Thyagarajan,MINOR,08/01/2026,08/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Vishnumon Thyagarajan
+158400,DXB,DXB2646,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED ON SHELTER ,Sachin George Varghese,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Sachin George Varghese
 47507,DXB,DXB2650,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,"SITE FOUNDATION HAVE DAMAGES, NEEDS REPAIRING",Vishnumon Thyagarajan,MINOR,06/08/2025,30/05/2026,Closed,CLOSED_UNIQUE,August-25,May-26,
 109854,DXB,DXB2650,Class C,OTHERS,PLANTATION,PLANTS & GARBAGE NEAR TI DU SITE REMOVED,Sachin George Varghese,MINOR,30/05/2026,30/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Sachin George Varghese
 109853,DXB,DXB2650,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,EXTERNAL LIGHT FAULTY REPLACED,Sachin George Varghese,MINOR,30/05/2026,30/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Sachin George Varghese
@@ -32535,6 +32587,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 154035,DXB,DXB2658,Class C,FIRE SYSTEMS,FIRE SUPRESSION SYSTEM REQUIRES RECHARGING,"FIRE SUPRESSION SYSTEM FOUND EMPTY, REQUIRES RECHARGING",Harish Mutyala,MINOR,06/11/2026,,Open,KEEP_OPEN,November-26,,
 44559,DXB,DXB2658,Class C,SHELTER,SHELTER - OTHERS,roxtec clossed,Naveen Chacko,MINOR,25/07/2025,25/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Naveen Chacko Chacko Valliyarayil Joseph
 76599,DXB,DXB2664,Class C,SHELTER,SHELTER - OTHERS,DU-STICKER REPLACED ON STAIRCASE MAIN DOOR,Harish Mutyala,MINOR,22/11/2025,22/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Harish Mutyala
+158390,DXB,DXB2664,Class C,TI,TI - OTHERS,WEATHER PROOFING DONE,Sachin George Varghese,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Sachin George Varghese
 139087,DXB,DXB2665,Class C,BATTERY,TEMPERATURE SENSOR,TEMPERATURE SENSOR NEW ISATALLED AND CONFIGURED,Mohandass Paulraj,MAJOR,10/09/2026,10/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Mohandass Paulraj
 139090,DXB,DXB2665,Class C,CIVIL,CABLE TRAY DAMAGED,CABLE TRAY FOUND  DAMAGED,Mohandass Paulraj,MINOR,10/09/2026,,Open,KEEP_OPEN,September-26,,
 139088,DXB,DXB2665,Class C,MDB,MDB - OTHERS,HAZARD STICKER FIXED,Mohandass Paulraj,MINOR,10/09/2026,10/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Mohandass Paulraj
@@ -32759,6 +32812,16 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 63275,DXB,DXB2736,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,1 tube light found faulty changed,Muhammad Altaf Qureshi,MINOR,30/09/2025,30/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Muhammad Altaf Qureshi
 115234,DXB,DXB2736,Class C,SHELTER,SHELTER - OTHERS,roxtec clossed,Naveen Chacko,MINOR,20/06/2026,20/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Naveen Chacko
 23329,DXB,DXB2736,Class C,SHELTER,SITE ID DAMAGED,DU STICKER ON SHELTER & MAIN REPLACED,Sachin George Varghese,MINOR,15/04/2025,15/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,Sachin George Varghese
+140268,DXB,DXB2737,Class C,BATTERY,TEMPERATURE SENSOR,T-COMP WAS MISSING / INSTALLED,Nitin Kumar Kanwar Pal Singh,MAJOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nitin Kumar Kanwar Pal Singh
+140259,DXB,DXB2737,Class C,CIVIL,CIVIL - OTHERS,BARBARED WIRES DAMAGED NEED TO REPAIR AND REPAINT,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,,Open,KEEP_OPEN,September-26,,
+140260,DXB,DXB2737,Class C,CIVIL,CIVIL - OTHERS,SAFETY FANCE POLE FOUND DAMAGED / BROKEN FROM TOP NEEDS TO BE FIX (WELDING),Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,,Open,KEEP_OPEN,September-26,,
+140272,DXB,DXB2737,Class C,CIVIL,SAFETY ROPE DAMAGED,SAFETY ROPE LOOSE NEEDS TO BE FIX,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,,Open,KEEP_OPEN,September-26,,
+140270,DXB,DXB2737,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,OBTS FLOOR AND TOWER BASE NEED TO BE REPAINT,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,,Open,KEEP_OPEN,September-26,,
+140258,DXB,DXB2737,Class C,DC SYSTEM,AIR FILTER DAMAGED,AIR FILTER WAS DAMAGED IN VERTIV PS NOW CHANGED,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nitin Kumar Kanwar Pal Singh
+140257,DXB,DXB2737,Class C,MDB,MDB - OTHERS,HAZARD STICKER CHANGED ON MDB AND SHARING DB AND PMTR CAB,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nitin Kumar Kanwar Pal Singh
+140271,DXB,DXB2737,Class C,MDB,MDB - OTHERS,MDB AND SHARING DB FOUND RUSTY NOW REPAINTED,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nitin Kumar Kanwar Pal Singh
+140264,DXB,DXB2737,Class C,OTHERS,GARBAGE,GARBAGES REMOVED,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nitin Kumar Kanwar Pal Singh
+140256,DXB,DXB2737,Class C,SHELTER,SITE ID DAMAGED,DU STICKER CHANGED ON BTS3900 CAB,Nitin Kumar Kanwar Pal Singh,MINOR,15/09/2026,15/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Nitin Kumar Kanwar Pal Singh
 94746,DXB,DXB2739,Class C,CIVIL,SHELTER FLOOR NEEDS REPAIRING,FLOOR SHEELT NEED TO FIX PROPERLY,Vishnumon Thyagarajan,MINOR,20/02/2026,,Open,KEEP_OPEN,February-26,,
 154093,DXB,DXB2742,Class C,BATTERY,TEMPERATURE SENSOR,NEW TEMP SENSOR INSTALLED AND CONFIGURED(CLOSED),Mohandass Paulraj,MAJOR,06/11/2026,06/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Mohandass Paulraj
 154096,DXB,DXB2742,Class C,POWER METER,POWER METER - OTHERS,"FROM POWER METER 1 PHASE ONLY AVAILABLE, SITE WORKING ON SINGLE PHASE",Mohandass Paulraj,MINOR,06/11/2026,,Open,KEEP_OPEN,November-26,,
@@ -36183,6 +36246,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 10394,DXB,DXB3642,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,SHED LIGHT FOUND FAULTY NEED TO RECTIFY,Jagdish Kamboj,MINOR,14/01/2025,21/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,SRT Team
 45555,DXB,DXB3642,Class C,SHELTER,SHELTER - OTHERS,VERTIV PS IN CABLE ENTRY FOUND OPENED/CLOSED BY WHITE SILICON,Jagdish Kumar Veer Chand,MINOR,30/07/2025,30/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Jagdish Kumar Veer Chand
 95400,DXB,DXB3643,Class C,BATTERY,TEMPERATURE SENSOR,TEMPERATURE SENSOR REPLACED AND CONFIGUERED,Vishnumon Thyagarajan,MAJOR,24/02/2026,24/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Vishnumon Thyagarajan
+158430,DXB,DXB3643,Class C,CIVIL,CIVIL - OTHERS,WHITE PAINT APPLIED ON MDB RUSTY AREAS,Vishnumon Thyagarajan,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Vishnumon Thyagarajan
 11811,DXB,DXB3648,Class C,SHELTER,SITE ID DAMAGED,DU STICKER WAS MISSING / PASTE,Nitin Kumar,MINOR,23/01/2025,23/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Nitin Kumar
 31082,DXB,DXB3651,Class C,AWL,AWL BULB FAULTY,AWL IN STAND BY BULB FOUND FAULTY NEED TO RECTIFY DUE TO I DON'T HAVE RIGGER,Jagdish Kumar Veer Chand,MINOR,30/05/2025,02/07/2025,Closed,CLOSED_UNIQUE,May-25,July-25,SRT Team
 31079,DXB,DXB3651,Class C,BATTERY,TEMPERATURE SENSOR,VERTIV PS IN BATTERY SENSOR NOT INSTALLED,Jagdish Kumar Veer Chand,MAJOR,30/05/2025,28/07/2026,Closed,CLOSED_UNIQUE,May-25,July-26,
@@ -36885,6 +36949,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 151331,DXB,DXN0585,Class C,BATTERY,TEMPERATURE SENSOR,TEMPERATURE SENSOR INSTALLED IN IB2T1 AND CONFIGUERED,Vishnumon Thyagarajan,MAJOR,26/10/2026,26/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Vishnumon Thyagarajan
 86726,DXB,DXN0585,Class C,EXTERNAL ALARMS,NOT WORKING,ALL DC ALARMS NEED TO SHIFT IN 3G/LTE 2G LOCK,Nitin Kumar Kanwar Pal Singh,MINOR,12/01/2026,26/10/2026,Closed,CLOSED_UNIQUE,January-26,October-26,
 63712,DXB,DXN0586,Class C,BATTERY,TEMPERATURE SENSOR,TEMPARATURE SENSOR NOT CONFIGURED,Harish Mutyala,MAJOR,01/10/2025,29/10/2026,Closed,CLOSED_UNIQUE,October-25,October-26,
+158412,DXB,DXN0589,Class C,EXTERNAL ALARMS,NOT WORKING,"RECTIFIER MODULE FAILURE ALARM FOUND LOOPED , AS THE CONNECTECTOR IS DAMAGED",Saji Krishna Shanmughan,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 95402,DXB,DXN0596,Class C,BATTERY,TEMPERATURE SENSOR,"TEMPERATURE COMPANSATION NOT WORKING, IN CONTROLER LOGIN NOT SHOWING IB2T1 SETTING OPTIONS",Vishnumon Thyagarajan,MAJOR,24/02/2026,20/11/2026,Closed,CLOSED_UNIQUE,February-26,November-26,
 50741,DXB,DXN0596,Class C,DC SYSTEM,RECTIFIER MODULE FAULTY,VERTIV PS 1 NOS MODULE FAULTY REMOVED NEED TO ADD 1 MORE MODULE R482000E3 (LOAD 14A),Sachin George Varghese,MINOR,18/08/2025,24/02/2026,Closed,CLOSED_UNIQUE,August-25,February-26,
 15846,DXB,DXN0596,Class C,EXTERNAL ALARMS,NOT WORKING,"VERTIV ALARMS NOT WORKING, NEED TO CHECK CONTROLER CARD",Vishnumon Thyagarajan,MINOR,20/02/2025,11/07/2025,Closed,CLOSED_UNIQUE,February-25,July-25,SRT Team
@@ -36991,6 +37056,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 89977,DXB,DXN0959,Class C,BATTERY,TEMPERATURE SENSOR,"Battery temp. sensor configured, it is now working properly.",Naveen Chacko,MAJOR,27/01/2026,27/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Naveen Chacko
 141941,DXB,DXN0962,Class C,EXTERNAL ALARMS,EXTERNAL ALARMS - OTHERS,Rectiifer some alarm pached wrong fixed,Muhammad Altaf Qureshi,MINOR,19/09/2026,19/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Muhammad Altaf Qureshi
 29851,DXB,DXN0962,Class C,OTHERS,OTHERS,SAR-X FILTER HAS CLEANED,Jagdish Kumar Veer Chand,MINOR,26/05/2025,26/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Jagdish Kumar Veer Chand
+158408,DXB,DXN0964,Class C,DC SYSTEM,ADDITIONAL RECTIFIER MODULE,"VERTIV PS R483000E3 1NOS MODULE AVAILABLE,NEED ADDITIONAL MODULE(SITE LOAD 6A)",Saji Krishna Shanmughan,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 95534,DXB,DXN0965,Class C,EXTERNAL ALARMS,LOOPED ALARMS,BATT ambient temp alarm found looped (Need to check),Naseef Abdulrahman,MINOR,25/02/2026,26/10/2026,Closed,CLOSED_UNIQUE,February-26,October-26,
 120649,DXB,DXN0974,Class C,DC SYSTEM,DC SYSTEM - OTHERS,FAULTY MODULE REMOVED FROM PS,Vishnumon Thyagarajan,MINOR,08/07/2026,08/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Vishnumon Thyagarajan
 80085,DXB,DXN0974,Class C,MDB,MDB - OTHERS,DU PDB CABINET LOCK FOUND BROCKEN,Harish Mutyala,MINOR,09/12/2025,08/07/2026,Closed,CLOSED_UNIQUE,December-25,July-26,
@@ -37177,15 +37243,6 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 110837,DXB,DXT6215,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,SHELTER EMMERGENCY LIGHT NOT WORKING NEED TO CHANGE,Nitin Kumar Kanwar Pal Singh,MINOR,03/06/2026,,Open,KEEP_OPEN,June-26,,
 10404,DXB,DXT6215,Class C,SHELTER,SHELTER - OTHERS,ROXTEC FOUND OPEN/CLOSED,Jagdish Kamboj,MINOR,14/01/2025,14/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,JAGDISH KAMBOJ
 10405,DXB,DXT6215,Class C,TI,TI - OTHERS,WEATHERPROFING FOUND OPENED /DONE,Jagdish Kamboj,MINOR,14/01/2025,14/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,JAGDISH KAMBOJ
-12011,DXB,DXT6402,Class C,AIR CONDITIONING,AC CAPACITOR FAULTY,AC1 OUTDOOR FAN CAPACITOR REPLACED,Vishnumon Thyagarajan,MINOR,24/01/2025,24/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Vishnumon Thyagarajan
-12010,DXB,DXT6402,Class C,EXTERNAL ALARMS,EXTERNAL ALARMS - OTHERS,"FIRE ALARM NOT WORKING, NEED TO CHECK",Vishnumon Thyagarajan,MINOR,24/01/2025,31/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,SRT Team
-103136,DXB,DXT6402,Class C,EXTERNAL ALARMS,NOT WORKING,"AWL Alarmwas  not working, it is notconfihured in BBU",Naveen Chacko,MINOR,28/04/2026,25/09/2026,Closed,CLOSED_UNIQUE,April-26,September-26,
-44241,DXB,DXT6402,Class C,OTHERS,GARBAGE,SMALL PLANTS AND GARBAGES REMOVED,Nitin Kumar Kanwar Pal Singh,MINOR,24/07/2025,24/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Nitin Kumar Kanwar Pal Singh
-103142,DXB,DXT6402,Class C,OTHERS,PEST CONTROL,"small tree near the generator still needs to be cut, but there are bees present. All plants and garbage have been kept outside the fence and need to be removed",Naveen Chacko,MINOR,28/04/2026,,Open,KEEP_OPEN,April-26,,
-103139,DXB,DXT6402,Class C,OTHERS,PLANTATION,plants and garbagges around the site ( cleared ),Naveen Chacko,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naveen Chacko
-44246,DXB,DXT6402,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,EXTERNAL LIGHT NEED TO CHANGE NO HAVE IN STOCK,Nitin Kumar Kanwar Pal Singh,MINOR,24/07/2025,24/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,SRT Team
-103135,DXB,DXT6402,Class C,SHELTER,SHELTER - OTHERS,roxtec clossed,Naveen Chacko,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naveen Chacko
-44242,DXB,DXT6402,Class C,SHELTER,SITE ID DAMAGED,DU STICKER PASTE ON SHELTER,Nitin Kumar Kanwar Pal Singh,MINOR,24/07/2025,24/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Nitin Kumar Kanwar Pal Singh
 49090,DXB,DXT6481,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,ac grill found damage changed,Muhammad Altaf Qureshi,MINOR,13/08/2025,13/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Muhammad Altaf Qureshi
 98043,DXB,DXT6481,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDARY FENCE DAMAGE NEED TO REPAIR,Sachin George Varghese,MINOR,16/03/2026,,Open,KEEP_OPEN,March-26,,
 146963,DXB,DXT6481,Class C,CIVIL,GROUND LEVELING,GROUND NEED PROEPR LEVELING,Nitin Kumar Kanwar Pal Singh,MINOR,06/10/2026,,Open,KEEP_OPEN,October-26,,
@@ -37500,13 +37557,16 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 145676,NE,FUJ2146,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED,Muhammad Sibtain Alam,MINOR,29/09/2026,29/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Muhammad Sibtain Alam
 94509,NE,FUJ2147,Class B,AIR CONDITIONING,AC FILTER REPLACED,CHANGED AIR FILTERS,Muhammad Sibtain Alam,MINOR,30/01/2026,30/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Muhammad Sibtain Alam
 94503,NE,FUJ2147,Class B,AIR CONDITIONING,AIR CONDITIONING - OTHERS,THERMOSTAT INSTALLED,Muhammad Sibtain Alam,MINOR,30/01/2026,30/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Muhammad Sibtain Alam
-94504,NE,FUJ2147,Class B,CIVIL,BOUNDARY WALL DAMAGED,BOUNDRY WALL NEED TO REPAIR,Muhammad Sibtain Alam,MINOR,30/01/2026,,Open,KEEP_OPEN,January-26,,
-94505,NE,FUJ2147,Class B,CIVIL,BOUNDARY WALL PAINT WORK,BOUNDRY WALL NEED TO BE REPAINT,Muhammad Sibtain Alam,MINOR,30/01/2026,,Open,KEEP_OPEN,January-26,,
-94506,NE,FUJ2147,Class B,CIVIL,GUIDE WIRE DAMAGED,BARBERD WIRE FOUND CUT,Muhammad Sibtain Alam,MINOR,30/01/2026,,Open,KEEP_OPEN,January-26,,
-94507,NE,FUJ2147,Class B,CIVIL,SHELTER ROOF WATERPROOFING,SHELTER NEED TO WATERPROOF,Muhammad Sibtain Alam,MAJOR,30/01/2026,,Open,KEEP_OPEN,January-26,,
+158418,NE,FUJ2147,Class B,CIVIL,BOUNDARY WALL DAMAGED,BOUNDRY WALL NEED TO REPAIR,Muhammad Sibtain Alam,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158419,NE,FUJ2147,Class B,CIVIL,BOUNDARY WALL PAINT WORK,BOUNDRY WALL NEED TO BE REPAINT,Muhammad Sibtain Alam,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158420,NE,FUJ2147,Class B,CIVIL,GUIDE WIRE DAMAGED,BARBERD WIRE FOUND CUT,Muhammad Sibtain Alam,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158421,NE,FUJ2147,Class B,CIVIL,SHELTER ROOF WATERPROOFING,SHELTER NEED TO WATERPROOF,Muhammad Sibtain Alam,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 71374,NE,FUJ2147,Class B,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,CHANGED FACP BATTERY BUT NEED TO CHANGED 2.2 AH BATTERIES,Muhammad Sibtain Alam,MINOR,31/10/2025,22/12/2025,Closed,CLOSED_UNIQUE,October-25,December-25,
+158423,NE,FUJ2147,Class B,MDB,MDB - OTHERS,HAZARDS INSTALL,Muhammad Sibtain Alam,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sibtain Alam
+158417,NE,FUJ2147,Class B,OTHERS,OTHERS,BLACK PAINT APPLY,Muhammad Sibtain Alam,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sibtain Alam
+158416,NE,FUJ2147,Class B,POWER METER,POWER METER CABLES ARE DAMANGED,POWERCABLE FOUND CUT,Muhammad Sibtain Alam,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 94508,NE,FUJ2147,Class B,SHELTER,EXTERNAL LIGHTING BULB FAULTY,EXT. LIGHT IS NOT WORKING,Muhammad Sibtain Alam,MINOR,30/01/2026,25/02/2026,Closed,CLOSED_UNIQUE,January-26,February-26,
-71373,NE,FUJ2147,Class B,SHELTER,SITE ID DAMAGED,"SITE ID NEED TO BE REPLACE , WE DONOT HAVE STOCK",Muhammad Sibtain Alam,MINOR,31/10/2025,22/12/2025,Closed,CLOSED_UNIQUE,October-25,December-25,
+158422,NE,FUJ2147,Class B,SHELTER,SITE ID DAMAGED,DU STICKER INSTALLED,Muhammad Sibtain Alam,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sibtain Alam
 31645,NE,FUJ2148,Class C,FIRE SYSTEMS,FIRE EXTINGUISHER EXPIRED,CHANGED FE STICKER,Muhammad Sibtain Alam,MINOR,31/05/2025,31/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Muhammad Sibtain Alam
 141373,NE,FUJ2148,Class C,SHELTER,SITE ID DAMAGED,DU STICKER REPLACED,Muhammad Sibtain Alam,MINOR,18/09/2026,18/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Muhammad Sibtain Alam
 60287,NE,FUJ2149,Class C,CIVIL,BOUNDARY WALL DAMAGED,BOUNDRY WALL DAMAGE BY BIG STONES & MARS NEED TO REPAIRE & PAINT WORK,Mohammad Asif,MINOR,20/09/2025,12/06/2026,Closed,CLOSED_UNIQUE,September-25,June-26,
@@ -38708,6 +38768,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 40642,NE,FUJ3397,Class C,CIVIL,SAFETY ROPE DAMAGED,TOWER CLIMBING SAFETY ROPE RUSTED,Hansaka Chathuranga,MINOR,11/07/2025,14/02/2026,Closed,CLOSED_UNIQUE,July-25,February-26,
 40641,NE,FUJ3397,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,SITE FLOOR AND TOWER BASE PAINT DAMAGE,Hansaka Chathuranga,MINOR,11/07/2025,14/02/2026,Closed,CLOSED_UNIQUE,July-25,February-26,
 40627,NE,FUJ3397,Class C,MDB,AC POWER CABLE,AC POWER CABLE FIX,Hansaka Chathuranga,MAJOR,11/07/2025,11/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
+158426,NE,FUJ3397,Class C,MDB,MDB - OTHERS,HAZARDS INSTALL,Muhammad Sibtain Alam,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sibtain Alam
 40632,NE,FUJ3397,Class C,OTHERS,GARBAGE,GARBAGE REMOVE FROM SITE INSIDE AND OUTSIDE,Hansaka Chathuranga,MINOR,11/07/2025,11/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
 93620,NE,FUJ3397,Class C,OTHERS,OTHERS,BTS HOLES CLOSED WITH FOAM SPRAY,Mohammad Asif,MINOR,14/02/2026,14/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Mohammad Asif
 24214,NE,FUJ3397,Class C,OTHERS,PLANTATION,BRANCHES OF TREE CAME IN YARD,Muhammad Sibtain Alam,MINOR,22/04/2025,11/07/2025,Closed,CLOSED_UNIQUE,April-25,July-25,SRT Team
@@ -38875,7 +38936,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 108967,NE,FUJ3749,Class C,BATTERY,TEMPERATURE SENSOR,TEMP.SENEOR IS NOT INSTALL IN T1 PORT(VERTIV),Muhammad Sibtain Alam,MAJOR,21/05/2026,,Open,KEEP_OPEN,May-26,,
 61342,NE,FUJ3749,Class C,CIVIL,SHELTER SUNSHADE FOUNDATION NEEDS REPAIRING,CABINET BASE NEED TO BE REPAIR,Muhammad Sibtain Alam,MINOR,23/09/2025,,Open,KEEP_OPEN,September-25,,
 20642,NE,FUJ3749,Class C,DC SYSTEM,DC SYSTEM - OTHERS,Vertiv alarm card relay faulty (alarm not showing when generated),Jay Puzon Tadina,MINOR,26/03/2025,23/09/2025,Closed,CLOSED_UNIQUE,March-25,September-25,
-94610,NE,FUJ3750,Class C,BATTERY,TEMPERATURE SENSOR,BAT.TEMP SENSOR IS NOT INSTALLED IN T1 PORT(VERTIV),Muhammad Sibtain Alam,MAJOR,06/02/2026,,Open,KEEP_OPEN,February-26,,
+158428,NE,FUJ3750,Class C,BATTERY,TEMPERATURE SENSOR,TEPM SENSOR INSTALLED,Muhammad Sibtain Alam,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Muhammad Sibtain Alam
 94608,NE,FUJ3750,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",MAIN GATE NEED TO PROPER ALIGNMENT ,Muhammad Sibtain Alam,MAJOR,06/02/2026,,Open,KEEP_OPEN,February-26,,
 24582,NE,FUJ3751,Class C,AWL,AWL BULB FAULTY,CHANGED AWL LAMPS,Muhammad Sibtain Alam,MINOR,24/04/2025,24/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,Muhammad Sibtain Alam
 122062,NE,FUJ3751,Class C,BATTERY,TEMPERATURE SENSOR,BAT.TEMP SENSOR IS NOT INSTALLED IN T1 PORT(VERTIV),Muhammad Sibtain Alam,MAJOR,13/07/2026,,Open,KEEP_OPEN,July-26,,
@@ -39433,7 +39494,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 129098,NE,IAJ0878,Class C,OTHERS,OTHERS,ALL EQUPMINT CLEANED WITH Spray-Cleaning (Mr. Muscle) ,Mohammad Asif,MINOR,06/08/2026,06/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Mohammad Asif
 127795,NE,IAJ0880,Class C,BATTERY,TEMPERATURE SENSOR,HUAWEI BATTERY TAMP SENSOR NOT AVAILABLE NEED TO INSTALL ,Mohammad Asif,MAJOR,03/08/2026,,Open,KEEP_OPEN,August-26,,
 136206,NE,IAJ0895,Class C,SHELTER,SITE ID DAMAGED,DU ID PLACED AT RT MAIN GSM ROOM,Mohammad Asif,MINOR,01/09/2026,01/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Mohammad Asif
-100437,DXB,IDX0001,Class C,POWER METER,POWER METER NOT WORKING,CAB2 IN POWER METER NOT WORKING FOUND OFF,Jagdish Kumar Veer Chand,MINOR,16/04/2026,,Open,KEEP_OPEN,April-26,,
+100437,DXB,IDX0001,Class C,POWER METER,POWER METER NOT WORKING,CAB2 IN POWER METER NOT WORKING FOUND OFF,Jagdish Kumar Veer Chand,MINOR,16/04/2026,25/11/2026,Closed,CLOSED_UNIQUE,April-26,November-26,
 63392,DXB,IDX0003,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMPERATURE SENSOR NOT INSTALLED,Hari Krishan,MAJOR,30/09/2025,16/05/2026,Closed,CLOSED_UNIQUE,September-25,May-26,
 63390,DXB,IDX0003,Class C,EXTERNAL ALARMS,NOT WORKING,ALARM NEED TO SHIFT ON 3G/LTE,Hari Krishan,MINOR,30/09/2025,23/07/2026,Closed,CLOSED_UNIQUE,September-25,July-26,
 55996,DXB,IDX0007,Class C,EXTERNAL ALARMS,NOT WORKING,ALL ALARMS NEED TO BE SHIFT IN 3G LTE,Nitin Kumar Kanwar Pal Singh,MINOR,04/09/2025,30/10/2025,Closed,CLOSED_UNIQUE,September-25,October-25,
@@ -39540,7 +39601,8 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 119817,DXB,IDX0339,Class C,TI,TI - OTHERS,SAR X filter changed,Naseef Abdulrahman,MINOR,04/07/2026,04/07/2026,Closed,CLOSED_UNIQUE,July-26,July-26,Naseef Abdulrahman
 5826,DXB,IDX0351,Class C,DC SYSTEM,RECTIFIER MODULE FAULTY,1NOS FPAA RC MODULE FOUND FAULTY IN BLOCK B 1F TEL. ROOM,Nitin Kumar,MINOR,06/11/2024,27/12/2025,Closed,CLOSED_UNIQUE,November-24,December-25,
 135743,DXB,IDX0356,Class C,BATTERY,TEMPERATURE SENSOR,TEMPERATURE SENSOR NEW ISATALLED AND COFIGURED,Mohandass Paulraj,MAJOR,29/08/2026,29/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Mohandass Paulraj
-135742,DXB,IDX0356,Class C,DC SYSTEM,ADDITIONAL RECTIFIER MODULE,REC MODULE UNBALANCE LOAD NEED TO ADD 1 MORE REC MODULE(VERTIV 2000E),Mohandass Paulraj,MAJOR,29/08/2026,,Open,KEEP_OPEN,August-26,,
+135742,DXB,IDX0356,Class C,DC SYSTEM,ADDITIONAL RECTIFIER MODULE,REC MODULE UNBALANCE LOAD NEED TO ADD 1 MORE REC MODULE(VERTIV 2000E),Mohandass Paulraj,MAJOR,29/08/2026,25/11/2026,Closed,CLOSED_UNIQUE,August-26,November-26,
+158323,DXB,IDX0356,Class C,DC SYSTEM,CONTROL PANEL DISPLAY FAULTY,VERTIV 531 POWER SYSTEM CONTROLL PANEL NEEDS TO BE CHECK NOT PROPERLY WORKING (EVENT SITE),Nitin Kumar Kanwar Pal Singh,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 99641,DXB,IDX0366,Class C,BATTERY,TEMPERATURE SENSOR,VERTIV BATT sensor installed,Naseef Abdulrahman,MAJOR,13/04/2026,13/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Naseef Abdulrahman
 33705,DXB,IDX0376,Class C,BATTERY,TEMPERATURE SENSOR,TEMP. SENSOR DOES NOT WORK NEED TO BE RECTIFY,Nitin Kumar Kanwar Pal Singh,MAJOR,12/06/2025,23/04/2026,Closed,CLOSED_UNIQUE,June-25,April-26,
 90917,DXB,IDX0377,Class C,FIRE SYSTEMS,FM200,GF MDF Room FM200 Solenoid was found disconnected.,Naveen Chacko,MAJOR,31/01/2026,29/09/2026,Closed,CLOSED_UNIQUE,January-26,September-26,
@@ -40767,11 +40829,13 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 141656,NE,RAK1701,Class C,MDB,MDB - OTHERS,HAZARD STICKER NEEDS TO INSTALLE ON MDB(NO HAVE IN STOCK),Zafaran Zulfiqar,MINOR,17/09/2026,,Open,KEEP_OPEN,September-26,,
 141655,NE,RAK1701,Class C,SHELTER,SITE ID DAMAGED,DU ID STICKER NEEDS TO INSTALLE ON SITE (NO HAVE IN STOCK),Zafaran Zulfiqar,MINOR,17/09/2026,,Open,KEEP_OPEN,September-26,,
 141654,NE,RAK1701,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,17/09/2026,17/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Zafaran Zulfiqar
-62896,NE,RAK2014,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,SHELTER BASE DAMAGE NEED TO REPAIRE,Mohammad Asif,MINOR,27/09/2025,26/01/2026,Closed,CLOSED_UNIQUE,September-25,January-26,
-90109,NE,RAK2014,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,SHELTER HAVE MINOR RUSTY CONDITION NEED TO BE REPAINT,Zafaran Zulfiqar,MINOR,26/01/2026,,Open,KEEP_OPEN,January-26,,
+158473,NE,RAK2014,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,"SHELTER FOUNDATION DAMAGE, NEEDS TO REPAIR",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158472,NE,RAK2014,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,"SHELTER RUSTY, NEED TO REPAIR",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 90110,NE,RAK2014,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE STICKER INSTALLED ON CYLINDER,Zafaran Zulfiqar,MINOR,26/01/2026,26/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Zafaran Zulfiqar
-62897,NE,RAK2014,Class C,SHELTER,SITE ID DAMAGED,DU ID PLACED AT SHELTER  DOOR,Mohammad Asif,MINOR,27/09/2025,27/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Mohammad Asif
+158476,NE,RAK2014,Class C,MDB,MDB - OTHERS,HAZARD STICKER INSTALLED ON METER CABINET,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158475,NE,RAK2014,Class C,SHELTER,SITE ID DAMAGED,DU ID STICKER CHANGED ON SHELTER,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 12970,NE,RAK2014,Class C,TI,TI - OTHERS,WP CHECKED,Sadam Hussain,MINOR,30/01/2025,30/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,SADAM HUSSAIN
+158474,NE,RAK2014,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 157260,NE,RAK2380,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMP SENSOR INSTALLED AND CONFIGURED IN IB2 TEMP 1 PORT,Zafaran Zulfiqar,MAJOR,20/11/2026,20/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 157263,NE,RAK2380,Class C,CIVIL,CIVIL - OTHERS,FIBER CABLE HOLE CLOSED WITH FOAM SPRAY,Zafaran Zulfiqar,MINOR,20/11/2026,20/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 57055,NE,RAK2380,Class C,DC SYSTEM,RECTIFIER MODULE FAULTY,VERTIV 2000E3 MODULE FOUND FAULTY AND KEEPT IN VERTIV CABINET,Zafaran Zulfiqar,MINOR,10/09/2025,20/11/2026,Closed,CLOSED_UNIQUE,September-25,November-26,
@@ -41614,9 +41678,12 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 105667,NE,RAK2755,Class B,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,09/05/2026,09/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Zafaran Zulfiqar
 132131,NE,RAK2755,Class B,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,17/08/2026,17/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Zafaran Zulfiqar
 155495,NE,RAK2755,Class B,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,11/11/2026,11/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
-778,NE,RAK2756,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,SHELTER WALL MINOR RUSTY,Khawar Abbas,MINOR,22/07/2024,14/08/2025,Closed,CLOSED_UNIQUE,July-24,August-25,
-49759,NE,RAK2756,Class C,POWER METER,POWER METER CABLES ARE DAMANGED,POWER CABLE INSULATION DAMAGE IN METER BOX,Zafaran Zulfiqar,MINOR,14/08/2025,,Open,KEEP_OPEN,August-25,,
+158469,NE,RAK2756,Class C,CIVIL,CIVIL - OTHERS,ROXTEC CLOSED WITH FOAM SPRAY,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158465,NE,RAK2756,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,"SHELTER RUSTY, NEED TO REPAIR",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158470,NE,RAK2756,Class C,MDB,MDB - OTHERS,HAZARD STICKER INSTALLED ON METER CABINET,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158466,NE,RAK2756,Class C,POWER METER,POWER METER CABLES ARE DAMANGED,POWER CABLE INSULATION DAMAGE IN METER BOX,Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 12268,NE,RAK2756,Class C,TI,TI - OTHERS,WP CHECKED,Sadam Hussain,MINOR,27/01/2025,27/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,SADAM HUSSAIN
+158467,NE,RAK2756,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 107668,NE,RAK2757,Class C,BATTERY,TEMPERATURE SENSOR,"PS BATTERY TEMP SENSOR NOT WORKING, NEED TO CHECK",Zafaran Zulfiqar,MAJOR,16/05/2026,,Open,KEEP_OPEN,May-26,,
 107665,NE,RAK2757,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,"MAIN GATE PAINT DAMAGE, AND MAIN GATE FOUNDATION BROKEN FROM TO DOWN SIDE",Zafaran Zulfiqar,MINOR,16/05/2026,,Open,KEEP_OPEN,May-26,,
 35941,NE,RAK2757,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING","MAIN GATE FOUNDATION BROKEN FROM TO DOWN SIDE, SHELTER STEP IS DAMAGE AND MINOR PLASTER DAMAGE ON BOUNDRY WALL",Zafaran Zulfiqar,MAJOR,21/06/2025,13/09/2025,Closed,CLOSED_UNIQUE,June-25,September-25,
@@ -42620,12 +42687,19 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 129942,NE,RAK3106,Class B,SHELTER,SITE ID DAMAGED,DU ID STICKER INSTALLED ON MAIN GATE,Zafaran Zulfiqar,MINOR,10/08/2026,10/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Zafaran Zulfiqar
 27603,NE,RAK3106,Class B,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,13/05/2025,13/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Zafaran Zulfiqar
 155682,NE,RAK3106,Class B,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,12/11/2026,12/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
-55561,NE,RAK3107,Class C,CIVIL,BOUNDARY WALL PAINT WORK,"BOUNDRY WALL HAVE CRACKS AND PLASTER DAMAGE, NEED TO REPAIR",Zafaran Zulfiqar,MINOR,03/09/2025,26/01/2026,Closed,CLOSED_UNIQUE,September-25,January-26,
+158449,NE,RAK3107,Class C,CIVIL,BOUNDARY WALL PAINT WORK,"BOUNDRY WALL HAVE CRACKS AND PLASTER DAMAGE, NEED TO REPAIR",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 55560,NE,RAK3107,Class C,CIVIL,CIVIL - OTHERS,"VERTICAL SUPPORTS FOUNDATION BROKEN, NEED TO REPAIR",Zafaran Zulfiqar,MINOR,03/09/2025,30/01/2026,Closed,CLOSED_UNIQUE,September-25,January-26,
-90114,NE,RAK3107,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,TOWER FOUDATION BASE NEED TO REPAINT,Zafaran Zulfiqar,MINOR,26/01/2026,,Open,KEEP_OPEN,January-26,,
+158460,NE,RAK3107,Class C,CIVIL,CIVIL - OTHERS,ROXTEC CLOSED WITH FOAM SPRAY,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158463,NE,RAK3107,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,MAIN GATE PAINT IS FADED AND STOPER NEEDS TO MAKE PROPER,Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158448,NE,RAK3107,Class C,CIVIL,SHELTER BASE NEEDS REPAIRING,"VERTICAL SUPPORTS FOUNDATION BROKEN, NEED TO REPAIR",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158456,NE,RAK3107,Class C,CIVIL,SHELTER ROOF REPAIR,"SHELTER CORNER RUSTY, NEEDS TO REPAIR",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158461,NE,RAK3107,Class C,CIVIL,SHELTER STEP NEEDS REPAIRING,"SHELTER STEPS PAINT DAMAGE, NEED TO REPAINT",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158455,NE,RAK3107,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,TOWER FOUNDATION HAVE CRACKS AND PAINT DAMAGE,Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 55563,NE,RAK3107,Class C,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE STICKER REPLACED,Zafaran Zulfiqar,MINOR,03/09/2025,03/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Zafaran Zulfiqar
-55562,NE,RAK3107,Class C,OTHERS,PLANTATION,"PLANTS REMOVED IN TO YARD, TREE BRANCHES HANGING IN YARD NEED TO REMOVE",Zafaran Zulfiqar,MINOR,03/09/2025,26/01/2026,Closed,CLOSED_UNIQUE,September-25,January-26,
-90116,NE,RAK3107,Class C,SHELTER,SITE ID DAMAGED,DU STICKER INSTALLED ON MAIN SHELTER DOOR,Zafaran Zulfiqar,MINOR,26/01/2026,26/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Zafaran Zulfiqar
+158458,NE,RAK3107,Class C,MDB,MDB - OTHERS,HAZARD STICKER INSTALLED ON MTER CABINET,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158451,NE,RAK3107,Class C,OTHERS,PLANTATION,"PLANTS AND TREES REMOVED IN TO YARD, TREE BRANCHES HANGING IN YARD NEED TO REMOVE",Zafaran Zulfiqar,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158457,NE,RAK3107,Class C,SHELTER,SITE ID DAMAGED,DU ID STICKER CHANGED ON MAIN GATE,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158452,NE,RAK3107,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 115041,NE,RAK3109,Class C,CIVIL,BOUNDARY WALL PAINT WORK,"BOUNDRY WALL PAINT DAMAGE, NEED TO REPAINT",Zafaran Zulfiqar,MINOR,19/06/2026,,Open,KEEP_OPEN,June-26,,
 115040,NE,RAK3109,Class C,CIVIL,MAIN GATE IS RUSTED AND NEEDS REPAINTING,"MAIN GATE PAINT DAMAGE, NEED TO REPAINT",Zafaran Zulfiqar,MINOR,19/06/2026,09/07/2026,Closed,CLOSED_UNIQUE,June-26,July-26,
 115039,NE,RAK3109,Class C,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",MAIN GATE ENTRANCE NOT PROPER,Zafaran Zulfiqar,MAJOR,19/06/2026,09/07/2026,Closed,CLOSED_UNIQUE,June-26,July-26,
@@ -43208,8 +43282,11 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 151548,NE,RAK3762,Class C,OTHERS,PLANTATION,ALL PLANTS REMOVED,Zafaran Zulfiqar,MINOR,27/10/2026,27/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Zafaran Zulfiqar
 151552,NE,RAK3762,Class C,SHELTER,EXTERNAL LIGHTING BULB FAULTY,"SHED LIGHT FOUND FAULTY, CHANGED",Zafaran Zulfiqar,MINOR,27/10/2026,27/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Zafaran Zulfiqar
 151547,NE,RAK3762,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,27/10/2026,27/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Zafaran Zulfiqar
-85155,NE,RAK3763,Class C,SHELTER,SITE ID DAMAGED,DU ID INSTALLED ON DB,Zafaran Zulfiqar,MINOR,05/01/2026,05/01/2026,Closed,CLOSED_UNIQUE,January-26,January-26,Zafaran Zulfiqar
+158440,NE,RAK3763,Class C,BATTERY,TEMPERATURE SENSOR,BATTERY TEMP SENSOR INSTALLED AND CONFIGURED IN IB2 TEMP 1 PORT,Zafaran Zulfiqar,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158443,NE,RAK3763,Class C,MDB,MDB - OTHERS,HAZARD STICKER INSTALLED ON MDB CABINET,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
+158442,NE,RAK3763,Class C,SHELTER,SITE ID DAMAGED,"DU ID STICKER FOUND FADED, CHANGED",Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 43669,NE,RAK3763,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,22/07/2025,22/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Zafaran Zulfiqar
+158439,NE,RAK3763,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Zafaran Zulfiqar
 97594,NE,RAK3770,Class C,AWL,AWL PHOTOCELL FAULTY,AWL BOTH BULB ARE WORKING TOGATHER,Zafaran Zulfiqar,MINOR,13/03/2026,08/05/2026,Closed,CLOSED_UNIQUE,March-26,May-26,
 97593,NE,RAK3770,Class C,CIVIL,TOWER FOUNDATION PAINT IS EXFOLIATED,TOWER FOUNDATION PAINT DAMAGE,Zafaran Zulfiqar,MINOR,13/03/2026,,Open,KEEP_OPEN,March-26,,
 16299,NE,RAK3770,Class C,DC SYSTEM,AIR FILTER DAMAGED,DC PS IN AIR FILTER HAS BEEN CLEANED,Jagdish Kamboj,MINOR,25/02/2025,25/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25,Jagdish Kamboj
@@ -43482,6 +43559,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 30561,NE,SHJ0089,Class C,TI,BTS FILTER DAMAGE/MISSING,BBU Filter clean,Naveen Chacko Chacko Valliyarayil Joseph,MINOR,28/05/2025,28/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Naveen Chacko Chacko Valliyarayil Joseph
 75629,NE,SHJ0089,Class C,TI,TI - OTHERS,BBU FAN CLEAN,Hansaka Chathuranga At,MINOR,18/11/2025,18/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Hansaka Chathuranga At
 49761,NE,SHJ0091,Class C,AIR CONDITIONING,AC LEAKAGE,GREE ACU GAS LEAKAGE 0PSI NEED TO CHECK,Mohammad Asif,MAJOR,15/08/2025,11/04/2026,Closed,CLOSED_UNIQUE,August-25,April-26,
+158201,NE,SHJ0091,Class C,AIR CONDITIONING,INDOOR AC BLOWER MOTOR FAULTY,AC INDOOR UNIT BLOWER MOTTER NOT WORKING NEED TO BE CHECK,Mohammad Faiyaz Alam,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 99708,NE,SHJ0091,Class C,CIVIL,CABLE TRAY DAMAGED,CABLE DUCT COVER MISSING,Muhammad Waheed,MINOR,13/04/2026,,Open,KEEP_OPEN,April-26,,
 99709,NE,SHJ0091,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,GSM ROOM LIGHT FAULTY,Muhammad Waheed,MINOR,13/04/2026,09/05/2026,Closed,CLOSED_UNIQUE,April-26,May-26,
 99716,NE,SHJ0092,Class C,CIVIL,CABLE TRAY DAMAGED,CABLE DUCT DAMAGED,Muhammad Waheed,MINOR,13/04/2026,,Open,KEEP_OPEN,April-26,,
@@ -43516,9 +43594,9 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 105239,NE,SHJ0112,Class C,EXTERNAL ALARMS,NOT WORKING,"HIGH ROOM TEMP, AC UNIT FAIL ALARM CABLE DISCONNECTED FROM BBU, NO ALARMS - NEED TO RECTIFY",Hansaka Chathuranga At,MINOR,08/05/2026,03/11/2026,Closed,CLOSED_UNIQUE,May-26,November-26,
 105236,NE,SHJ0112,Class C,OTHERS,OTHERS,"ROOF GSM ROOM, DOOR GAP, CABLE ACCESS, CABLE RISER HOLES CLOSE AND SEAL",Hansaka Chathuranga At,MINOR,08/05/2026,08/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Hansaka Chathuranga At
 105237,NE,SHJ0112,Class C,TI,TI - OTHERS,"RTN, BBU FAN CLEAN",Hansaka Chathuranga At,MINOR,08/05/2026,08/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Hansaka Chathuranga At
-50246,NE,SHJ0113,Class C,AIR CONDITIONING,AC COMPRESSOR  FAULTY,"GENRALTEC 1 TON ACU OUTDOOR UNIT IN COMPRESSOR FOUND HEAT UP, TEPMRARY DISCONNECTED,NEED TO RECTIFY",Jagdish Kumar Veer Chand,MAJOR,16/08/2025,16/03/2026,Closed,CLOSED_UNIQUE,August-25,March-26,
+158206,NE,SHJ0113,Class C,AIR CONDITIONING,AC COMPRESSOR  FAULTY,AC COMPRESSOR FAULTY,Hansaka Chathuranga At,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 14913,NE,SHJ0113,Class C,AIR CONDITIONING,AC LEAKAGE,GAS LEAK FROM SUCTION PIPE FLARE JOINT- NEED TO RECTIFY,Hansaka Chathuranga,MAJOR,15/02/2025,25/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25,SRT Team
-98090,NE,SHJ0113,Class C,AIR CONDITIONING,AC NOT COOLING,GENERALTEC AC COMPRESSOR WORKING NORMALLY BUT NOT COOLING NEED TO BE CHECK,Mohammad Noman,MAJOR,16/03/2026,,Open,KEEP_OPEN,March-26,,
+98090,NE,SHJ0113,Class C,AIR CONDITIONING,AC NOT COOLING,GENERALTEC AC COMPRESSOR WORKING NORMALLY BUT NOT COOLING NEED TO BE CHECK,Mohammad Noman,MAJOR,16/03/2026,25/11/2026,Closed,CLOSED_UNIQUE,March-26,November-26,
 50245,NE,SHJ0113,Class C,OTHERS,OTHERS,APM30 IN TECH COOLER GFAN HAS CLEANED,Jagdish Kumar Veer Chand,MINOR,16/08/2025,16/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Jagdish Kumar Veer Chand
 111972,NE,SHJ0121,Class C,DC SYSTEM,CONTROL PANEL DISPLAY FAULTY,Vertiv controller issiue voltage not dropping while heating temp.sensor,Jay Puzon Tadina,MAJOR,08/06/2026,,Open,KEEP_OPEN,June-26,,
 96133,NE,SHJ0123,Class C,DC SYSTEM,DC SYSTEM - OTHERS,DC SYSTEM PARAMETERS SET,Hansaka Chathuranga At,MINOR,26/02/2026,26/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Hansaka Chathuranga At
@@ -43585,6 +43663,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 133942,NE,SHJ0147,Class C,SHELTER,SITE ID DAMAGED,P1 AND P2 LEVEL GSM ROOM DOOR,Mohandass Paulraj,MINOR,22/08/2026,22/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Mohandass Paulraj
 99380,NE,SHJ0148,Class C,AIR CONDITIONING,AC CONTACTOR FAULTY,AIR CONDITIONING MAGNETIC CONTATOR FAULTY,Muhammad Waheed,MINOR,10/04/2026,21/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,
 15767,NE,SHJ0148,Class C,EXTERNAL ALARMS,NOT WORKING,"RECTIFIER MODULE 3 NOT CONFIG, - NEED TO CONFIG",Hansaka Chathuranga,MINOR,20/02/2025,01/03/2025,Closed,CLOSED_UNIQUE,February-25,March-25,SRT Team
+158195,NE,SHJ0148,Class C,OTHERS,OTHERS,AC DRAIN NOT PROPER INSTALLED,Mohammad Faiyaz Alam,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Mohammad Faiyaz Alam
 50798,NE,SHJ0148,Class C,SHELTER,SITE ID DAMAGED,DU ID PLACED AT RT TELE ROOM,Mohammad Asif,MINOR,19/08/2025,19/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Mohammad Asif
 15766,NE,SHJ0148,Class C,TI,CABLE ROUTING IS NOT PER STANDARD,"FIBER CABLES NOT ROUTED PROPERLY TXN RACK TO RRU, - FIX WITH CABLE TIE",Hansaka Chathuranga,MINOR,20/02/2025,20/02/2025,Closed,CLOSED_UNIQUE,February-25,February-25,Hansaka Chathuranga
 11048,NE,SHJ0151,Class C,AIR CONDITIONING,AC FAN FAULTY,SANSUI A/C CONDENSOR MOTOE FAN BROKIN NEED TO REPLACE,MOhammad Asif,MAJOR,18/01/2025,07/02/2025,Closed,CLOSED_UNIQUE,January-25,February-25,SRT Team
@@ -44181,7 +44260,8 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 67710,NE,SHJ2011,Class C,EXTERNAL ALARMS,NOT WORKING,AC mains failure not configured,Jay Puzon Tadina,MINOR,15/10/2025,21/11/2025,Closed,CLOSED_UNIQUE,October-25,November-25,
 24865,NE,SHJ2011,Class C,SHELTER,SHELTER - OTHERS,ROXTEC FOUND OPEN CLOSED,Sachin George Varghese,MINOR,25/04/2025,25/04/2025,Closed,CLOSED_UNIQUE,April-25,April-25,Sachin George Varghese
 100330,NE,SHJ2012,Class A,AIR CONDITIONING,AC CONTACTOR FAULTY,3POLE 24V MAGNETIC CONTACTOR REPLACED FOR ACU01,Mohammad Noman,MAJOR,13/04/2026,13/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Mohammad Noman
-140486,NE,SHJ2012,Class A,AIR CONDITIONING,AC GAS REFILLING,AC 2 GAS REFILL,Hansaka Chathuranga At,MAJOR,14/09/2026,14/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
+158229,NE,SHJ2012,Class A,AIR CONDITIONING,AC FILTER REPLACED,AC1 & AC2 bard 3ton air filter old need to changed(NA in WH),Jay Puzon Tadina,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158236,NE,SHJ2012,Class A,AIR CONDITIONING,AC GAS REFILLING,AC2 low gas ,Jay Puzon Tadina,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Jay Puzon Tadina
 140490,NE,SHJ2012,Class A,AIR CONDITIONING,AC LEAKAGE,AC 2 GAS LEAK NEED TO RECTIFY,Hansaka Chathuranga At,CRITICAL,14/09/2026,01/10/2026,Closed,CLOSED_UNIQUE,September-26,October-26,SRT Team
 39327,NE,SHJ2012,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC COMPRESSOR RUSTED - CLEAN AND PAINT,Hansaka Chathuranga,MINOR,08/07/2025,08/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
 39345,NE,SHJ2012,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC INSULATION DAMAGE- FIX,Hansaka Chathuranga,MINOR,08/07/2025,08/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
@@ -44195,14 +44275,14 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 40328,NE,SHJ2012,Class A,CIVIL,"MAIN GATE LOCK, HINGES, AND ALIGNMENT NEED REPAIRING",MAIN GATE LOCK TIGHT - NED TO FIX ALIGNMENT,Hansaka Chathuranga,MAJOR,10/07/2025,06/09/2025,Closed,CLOSED_UNIQUE,July-25,September-25,
 9104,NE,SHJ2012,Class A,CIVIL,SHELTER BASE NEEDS REPAIRING,Shelter base support need repair,Jay Puzon Tadina,MINOR,04/01/2025,23/04/2025,Closed,CLOSED_UNIQUE,January-25,April-25,CW TEAM
 140491,NE,SHJ2012,Class A,CIVIL,SHELTER ROOF REPAIR,SHELTER EXTERIOR WALL RUSTED NEED TO REPAIR ( MINOR),Hansaka Chathuranga At,MAJOR,14/09/2026,,Open,KEEP_OPEN,September-26,,
-55742,NE,SHJ2012,Class A,CIVIL,SHELTER WALL NEEDS REPAINTING,SHELTER OUTSIDE WALL PAINT DAMAGE,Hansaka Chathuranga At,MINOR,06/09/2025,12/11/2025,Closed,CLOSED_UNIQUE,September-25,November-25,
+158230,NE,SHJ2012,Class A,CIVIL,SHELTER WALL NEEDS REPAINTING,Shelter need repainting,Jay Puzon Tadina,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 40327,NE,SHJ2012,Class A,CIVIL,TOWER STRUCTURE PAINT IS EXFOLIATED,TOWER PAINT DAMAGE,Hansaka Chathuranga,MINOR,10/07/2025,06/09/2025,Closed,CLOSED_UNIQUE,July-25,September-25,
 39332,NE,SHJ2012,Class A,DC SYSTEM,DC SYSTEM - OTHERS,"LVD, TEMP COMP PARAMETERS SET TO CORRECT VALUES",Hansaka Chathuranga,MINOR,08/07/2025,08/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
 39335,NE,SHJ2012,Class A,DC SYSTEM,DC SYSTEM - OTHERS,"DC SYSTEM BREAKER/BUS BAR COVER, FRONT PANEL SCREW MISSING - REPLACE NEW SCREW AND FIX THE PANEL PROPERLY",Hansaka Chathuranga,MINOR,08/07/2025,08/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
 100329,NE,SHJ2012,Class A,FIRE SYSTEMS,FIRE ALARM BATTERY FAULTY,FACP BATTERY FAULTY 1.2AH NEED TO BE REPLACE ,Mohammad Noman,MAJOR,13/04/2026,17/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,
 140487,NE,SHJ2012,Class A,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE STICKER REPLACE,Hansaka Chathuranga At,MINOR,14/09/2026,14/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
 39328,NE,SHJ2012,Class A,OTHERS,GARBAGE,GARBAGE REMOVE FROM UNDER THE SHELTER,Hansaka Chathuranga,MINOR,08/07/2025,08/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
-100331,NE,SHJ2012,Class A,OTHERS,HAZARDS,INSECTS KILLER GLUE PAD DAMAGED CONDITION NEED TO BE REPLACE,Mohammad Noman,MAJOR,13/04/2026,14/09/2026,Closed,CLOSED_UNIQUE,April-26,September-26,
+100331,NE,SHJ2012,Class A,OTHERS,HAZARDS,INSECTS KILLER GLUE PAD DAMAGED CONDITION NEED TO BE REPLACE,Mohammad Noman,MAJOR,13/04/2026,25/11/2026,Closed,CLOSED_UNIQUE,April-26,November-26,
 39333,NE,SHJ2012,Class A,POWER METER,POWER METER NOT WORKING,SEWA-POWER METER NOT WORKING,Hansaka Chathuranga,MINOR,08/07/2025,08/09/2025,Closed,CLOSED_UNIQUE,July-25,September-25,
 40317,NE,SHJ2012,Class A,SHELTER,SHELTER - OTHERS,FLOOR CABLE ACCESS HOLES CLOSE AND SEAL,Hansaka Chathuranga,MINOR,10/07/2025,10/07/2025,Closed,CLOSED_UNIQUE,July-25,July-25,Hansaka Chathuranga At
 140488,NE,SHJ2012,Class A,SHELTER,SHELTER - OTHERS,DU STICKER REPLACE,Hansaka Chathuranga At,MINOR,14/09/2026,14/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
@@ -44298,9 +44378,10 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 128390,NE,SHJ2018,Class C,SHELTER,SITE ID DAMAGED,DU ID INSTALLED AT MAIN SHELTER DOOR,Nouman Ahmed,MINOR,04/08/2026,04/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Nouman Ahmed
 68483,NE,SHJ2018,Class C,TI,TI - OTHERS,"RTN, BBU FAN CLEAN",Hansaka Chathuranga At,MINOR,18/10/2025,18/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Hansaka Chathuranga At
 100338,NE,SHJ2019,Class A,AIR CONDITIONING,AC GAS REFILLING,ACU01 TOP UP 500G GAS R22 ,Mohammad Noman,MAJOR,13/04/2026,13/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Mohammad Noman
-74053,NE,SHJ2019,Class A,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,AC INSULATION FIX,Hansaka Chathuranga At,MAJOR,12/11/2025,12/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,Hansaka Chathuranga At
+158211,NE,SHJ2019,Class A,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,AC INSULATION - FIX,Hansaka Chathuranga At,MAJOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Hansaka Chathuranga At
 27502,NE,SHJ2019,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,ACU2 COMPRESSOR RUSTY AREA PAINTED,Faheem Muhammad,MINOR,13/05/2025,13/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Faheem Muhammad
 112970,NE,SHJ2019,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC CABLE ACCESS HOLES CLOSE,Hansaka Chathuranga,MINOR,11/06/2026,11/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Hansaka Chathuranga At
+158207,NE,SHJ2019,Class A,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC ELECTRICAL PANEL INSULATE,Hansaka Chathuranga At,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Hansaka Chathuranga At
 74056,NE,SHJ2019,Class A,AIR CONDITIONING,CONTROL PANEL FAULTY,AC 2 COMPRESSOR COMMAND NOT GIVING FROM MC 300 PANEL,Hansaka Chathuranga At,CRITICAL,12/11/2025,18/11/2025,Closed,CLOSED_UNIQUE,November-25,November-25,
 127976,NE,SHJ2019,Class A,CIVIL,CABLE TRAY DAMAGED,CABLE TRAY DAMAGED ROOF TOP,Mohandass Paulraj,MINOR,03/08/2026,,Open,KEEP_OPEN,August-26,,
 127978,NE,SHJ2019,Class A,CIVIL,SHELTER WALL NEEDS REPAINTING,SHELTER WALL NEEDS REPAINTING(RUSTY),Mohandass Paulraj,MINOR,03/08/2026,,Open,KEEP_OPEN,August-26,,
@@ -44311,6 +44392,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 143538,NE,SHJ2019,Class A,FIRE SYSTEMS,FIRE SYSTEMS - OTHERS,FE STICKER REPLACE,Hansaka Chathuranga,MINOR,25/09/2026,25/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
 112973,NE,SHJ2019,Class A,SHELTER,EXTERNAL LIGHTING BULB FAULTY,SHELTER EXTERNAL LIGHT FULL SET REPLACE,Hansaka Chathuranga,MINOR,11/06/2026,11/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Hansaka Chathuranga At
 112971,NE,SHJ2019,Class A,SHELTER,SHELTER - OTHERS,SHELTER CABLE ACCESS HOLES CLOSE,Hansaka Chathuranga,MINOR,11/06/2026,11/06/2026,Closed,CLOSED_UNIQUE,June-26,June-26,Hansaka Chathuranga At
+158210,NE,SHJ2019,Class A,SHELTER,SHELTER - OTHERS,OLD DU STICKER REMOVE FROM SHELTER DOOR AND APPLY SPRAY PAINT,Hansaka Chathuranga At,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Hansaka Chathuranga At
 10027,NE,SHJ2019,Class A,TI,TI - OTHERS,6pcs RTN dummy filler missing(installed),Jay Puzon Tadina,MINOR,11/01/2025,11/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Jay Puzon Tadina
 58534,NE,SHJ2019,Class A,TI,TI - OTHERS,"RTN BBU FAN, IXR AIR FILTER CLEAN",Hansaka Chathuranga,MINOR,15/09/2025,15/09/2025,Closed,CLOSED_UNIQUE,September-25,September-25,Hansaka Chathuranga At
 29290,NE,SHJ2020,Class A,AIR CONDITIONING,AC CAPACITOR FAULTY,AC 1 CONDENSER FAN MOTOR CAPACITOR REPLACE,Hansaka Chathuranga At,MAJOR,23/05/2025,23/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Hansaka Chathuranga At
@@ -44780,9 +44862,11 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 107073,NE,SHJ2050,Class B,OTHERS,GARBAGE,GARBAGE REMOVE FROM UNDER THE SHELTER,Hansaka Chathuranga At,MINOR,15/05/2026,15/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Hansaka Chathuranga At
 52273,NE,SHJ2050,Class B,SHELTER,DOOR SENSOR FAULTY,"SHELTER LEFT SIDE ROXTEC OPEN NEED TO CLOSE STOCK FINISHED ON LAST SITE,",Faheem Abdullah Muhammad Abdullah,MINOR,23/08/2025,01/09/2025,Closed,CLOSED_UNIQUE,August-25,September-25,
 107072,NE,SHJ2050,Class B,SHELTER,SHELTER - OTHERS,ROXTEC OPEN - CLOSE,Hansaka Chathuranga At,MINOR,15/05/2026,15/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Hansaka Chathuranga At
-91509,NE,SHJ2051,Class C,AIR CONDITIONING,AC RELAY FAULTY,AC2 timer relay faulty,Jay Puzon Tadina,MINOR,04/02/2026,04/02/2026,Closed,CLOSED_UNIQUE,February-26,February-26,Jay Puzon Tadina
+158254,NE,SHJ2051,Class C,AIR CONDITIONING,AC GAS REFILLING,AC2 low gas ,Jay Puzon Tadina,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Jay Puzon Tadina
+158253,NE,SHJ2051,Class C,AIR CONDITIONING,AC RELAY FAULTY,AC1 timer relay faulty,Jay Puzon Tadina,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Jay Puzon Tadina
 10364,NE,SHJ2051,Class C,AIR CONDITIONING,AC UNIT BACK COVER INSULATION,ACU1 INSULATION FIXED,Faheem Muhammad,MINOR,14/01/2025,14/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Faheem Muhammad
-91512,NE,SHJ2051,Class C,MDB,RELAY FAULTY,MDB UVR faulty,Jay Puzon Tadina,MAJOR,04/02/2026,,Open,KEEP_OPEN,February-26,,
+158252,NE,SHJ2051,Class C,MDB,LABELING MISSING,MDB hazard sticker missing,Jay Puzon Tadina,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Jay Puzon Tadina
+158248,NE,SHJ2051,Class C,MDB,RELAY FAULTY,MDB UVR faulty,Jay Puzon Tadina,MAJOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
 10365,NE,SHJ2051,Class C,SHELTER,SHELTER - OTHERS,SHELTER RUSTY AREAS PAINTED,Faheem Muhammad,MINOR,14/01/2025,14/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,Faheem Muhammad
 67725,NE,SHJ2052,Class C,AIR CONDITIONING,AC CAPACITOR FAULTY,AC2 blower capacitor  faulty,Jay Puzon Tadina,MINOR,16/10/2025,16/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Jay Puzon Tadina
 67724,NE,SHJ2052,Class C,AIR CONDITIONING,AC RELAY FAULTY,AC2 blower relay faulty,Jay Puzon Tadina,MINOR,16/10/2025,16/10/2025,Closed,CLOSED_UNIQUE,October-25,October-25,Jay Puzon Tadina
@@ -44974,6 +45058,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 9743,NE,SHJ2088,Class B,FIRE SYSTEMS,FIRE ALARM CONTROL PANEL FAULTY,FACP not working need to check,Jay Puzon Tadina,MAJOR,09/01/2025,22/01/2025,Closed,CLOSED_UNIQUE,January-25,January-25,SRT Team
 29564,NE,SHJ2088,Class B,FIRE SYSTEMS,FIRE EXTINGUISHER EMPTY/MISSING,FE EMPTY,Hansaka Chathuranga At,MINOR,24/05/2025,06/12/2025,Closed,CLOSED_UNIQUE,May-25,December-25,
 130001,NE,SHJ2088,Class B,MDB,MDB - OTHERS,HAZARD STICKER FIXED ON SHELTER MDB,Mohandass Paulraj,MINOR,10/08/2026,10/08/2026,Closed,CLOSED_UNIQUE,August-26,August-26,Mohandass Paulraj
+158212,NE,SHJ2088,Class B,OTHERS,HAZARDS,ELECTRICAL HAZARD STICKER PAST ON POWER METER CABINET,Hansaka Chathuranga At,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Hansaka Chathuranga At
 52649,NE,SHJ2088,Class B,SHELTER,SITE ID DAMAGED,DU STICKER REPLACE AT SHELTER DOOR,Hansaka Chathuranga At,MINOR,25/08/2025,25/08/2025,Closed,CLOSED_UNIQUE,August-25,August-25,Hansaka Chathuranga At
 29568,NE,SHJ2088,Class B,TI,CABLE ROUTING IS NOT PER STANDARD,BTS CABINET TO CABLE LADDER LAN CABLE NOT ROUTED PROPERLY - FIX CABLE PROPELRY WITH TIE,Hansaka Chathuranga At,MINOR,24/05/2025,24/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Hansaka Chathuranga At
 29566,NE,SHJ2088,Class B,TI,TI - OTHERS,WEATHER PROOFING DONE,Hansaka Chathuranga At,MINOR,24/05/2025,24/05/2025,Closed,CLOSED_UNIQUE,May-25,May-25,Hansaka Chathuranga At
@@ -45021,6 +45106,8 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 151036,NE,SHJ2094,Class A,TI,TI - OTHERS,WEATHER PROOFING DONE,Hansaka Chathuranga At,MINOR,24/10/2026,24/10/2026,Closed,CLOSED_UNIQUE,October-26,October-26,Hansaka Chathuranga At
 45353,NE,SHJ2095,Class C,CIVIL,RRU NEEDS REPAIRING,1 RRU BASE SECROW FREE FROM WALL NEED TO FIXE,Mohammad Asif,MINOR,29/07/2025,30/01/2026,Closed,CLOSED_UNIQUE,July-25,January-26,
 12469,NE,SHJ2095,Class C,CIVIL,SHELTER ROOF REPAIR,Shelter rusty need repainting,Jay Puzon Tadina,MINOR,28/01/2025,30/01/2026,Closed,CLOSED_UNIQUE,January-25,January-26,
+158237,NE,SHJ2095,Class C,CIVIL,SHELTER WALL NEEDS REPAINTING,Shelter need repainting,Jay Puzon Tadina,MINOR,25/11/2026,,Open,KEEP_OPEN,November-26,,
+158243,NE,SHJ2095,Class C,SHELTER,SITE ID DAMAGED,Site ID damage,Jay Puzon Tadina,MINOR,25/11/2026,25/11/2026,Closed,CLOSED_UNIQUE,November-26,November-26,Jay Puzon Tadina
 20480,NE,SHJ2096,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC COMPRESSOR RUSTED - CLEAN AND PAINT,Hansaka Chathuranga,MINOR,25/03/2025,25/03/2025,Closed,CLOSED_UNIQUE,March-25,March-25,Hansaka Chathuranga
 109238,NE,SHJ2096,Class C,AIR CONDITIONING,AIR CONDITIONING - OTHERS,AC CABLE ACCESS HOLES CLOSE AND SEAL,Hansaka Chathuranga At,MINOR,22/05/2026,22/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,Hansaka Chathuranga At
 109246,NE,SHJ2096,Class C,AWL,AWL CONTROL PANEL FAULTY,"AWL CARD FAULTY, MAIN BULB SUPPLY NOT GIVING CORRECTLY",Hansaka Chathuranga At,MINOR,22/05/2026,30/05/2026,Closed,CLOSED_UNIQUE,May-26,May-26,
@@ -48884,7 +48971,7 @@ Rectifier2 String1 Cell#1 Cell#2 and String 3 Cell#3 Batteries weak",Prabat Ku
 103248,NE,UAQ2660,Class A,SHELTER,SITE ID DAMAGED,DU ID STICKER INSTALLED ON MAIN GATE,Zafaran Zulfiqar,MINOR,28/04/2026,28/04/2026,Closed,CLOSED_UNIQUE,April-26,April-26,Zafaran Zulfiqar
 144363,NE,UAQ2660,Class A,TI,TI - OTHERS,RTN BBU FAN CLEAN,Hansaka Chathuranga,MINOR,28/09/2026,28/09/2026,Closed,CLOSED_UNIQUE,September-26,September-26,Hansaka Chathuranga At
 34311,NE,UAQ2661,Class C,CIVIL,GROUND LEVELING,SAND DUNES IN YARD,Zafaran Zulfiqar,MINOR,13/06/2025,11/12/2025,Closed,CLOSED_UNIQUE,June-25,December-25,
-81170,NE,UAQ2661,Class C,CIVIL,SHELTER PADLOCK HOOK IS CUT,"SHELTER PAD LOCK HOOK FOUND CIT, NEED TO REPAIR",Zafaran Zulfiqar,MAJOR,11/12/2025,,Open,KEEP_OPEN,December-25,,
+81170,NE,UAQ2661,Class C,CIVIL,SHELTER PADLOCK HOOK IS CUT,"SHELTER PAD LOCK HOOK FOUND CIT, NEED TO REPAIR",Zafaran Zulfiqar,MAJOR,11/12/2025,25/11/2026,Closed,CLOSED_UNIQUE,December-25,November-26,Civil Team
 81173,NE,UAQ2661,Class C,CIVIL,SHELTER ROOF WATERPROOFING,SHELTER INSIDE RUSTY,Zafaran Zulfiqar,MINOR,11/12/2025,,Open,KEEP_OPEN,December-25,,
 34313,NE,UAQ2661,Class C,SHELTER,INTERNAL LIGHTING BULB FAULTY,"SHELTER EXTERNAL AND INTERNAL LIGHT IS FAULTY, NEED TO REPLACE",Zafaran Zulfiqar,MINOR,13/06/2025,19/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,SRT Team
 34312,NE,UAQ2661,Class C,TI,TI - OTHERS,WP CHECKED,Zafaran Zulfiqar,MINOR,13/06/2025,13/06/2025,Closed,CLOSED_UNIQUE,June-25,June-25,Zafaran Zulfiqar
